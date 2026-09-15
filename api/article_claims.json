@@ -1,0 +1,3378 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-02",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-03",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-05",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-06",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-acoustics-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-acoustics-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-acoustics-08",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-acoustics-09",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-acoustics-10",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-acoustics-11",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-luan-acoustics-17",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-actor-08",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "claim_id": "claim-vico-08",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-07",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-12",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-13",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-14",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-15",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-16",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-luan-acoustics-19",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-actor-08",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "claim_id": "claim-vico-01",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "claim_id": "claim-feng-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "claim_id": "claim-feng-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "claim_id": "claim-feng-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "claim_id": "claim-feng-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "claim_id": "claim-feng-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "claim_id": "claim-feng-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "claim_id": "claim-liu-guanle-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "claim_id": "claim-liu-guanle-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "claim_id": "claim-liu-guanle-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "claim_id": "claim-liu-guanle-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "claim_id": "claim-liu-guanle-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "claim_id": "claim-liu-guanle-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "claim_id": "claim-liu-guanle-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "claim_id": "claim-lu-08",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-08",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "claim_id": "claim-zhao-09",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-nature-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-nature-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-nature-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-nature-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-nature-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-nature-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-henan-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-henan-02",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-henan-03",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-henan-04",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-henan-05",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-jiahu-henan-06",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-timeline-jiahu-01",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-timeline-jiahu-02",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-timeline-chi-01",
+      "display_order": 15,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-timeline-chi-02",
+      "display_order": 16,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-dizi-01",
+      "display_order": 17,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-dizi-02",
+      "display_order": 18,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-dizi-03",
+      "display_order": 19,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-met-dizi-04",
+      "display_order": 20,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-wesleyan-history-01",
+      "display_order": 21,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-wesleyan-dimo-history-01",
+      "display_order": 22,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-luan-02",
+      "display_order": 23,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "claim_id": "claim-luan-03",
+      "display_order": 24,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "claim_id": "claim-luan-06",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "claim_id": "claim-lcsd-maintenance-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "claim_id": "claim-lcsd-maintenance-02",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "claim_id": "claim-parsons-maintenance-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "claim_id": "claim-parsons-maintenance-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-luan-02",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-luan-03",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-luan-05",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-luan-06",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-vico-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-vico-08",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-actor-08",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "claim_id": "claim-grinnell-04",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-jiahu-nature-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-jiahu-nature-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-jiahu-nature-06",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-jiahu-henan-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-jiahu-henan-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-luan-acoustics-10",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-luan-acoustics-11",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-luan-acoustics-19",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-met-dizi-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "claim_id": "claim-met-dizi-04",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-wesleyan-dizi-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-wesleyan-history-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-dizi-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-dizi-02",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-dizi-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-dizi-04",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-timeline-jiahu-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-timeline-jiahu-02",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-timeline-chi-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-met-timeline-chi-02",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-jiahu-nature-01",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-jiahu-nature-03",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-jiahu-nature-04",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-chai-bangdi-01",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "claim_id": "claim-chai-qudi-01",
+      "display_order": 15,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-vico-02",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-vico-03",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-vico-06",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-vico-07",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-actor-08",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-chai-dizi-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-chai-bangdi-04",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "claim_id": "claim-chai-qudi-06",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "claim_id": "claim-lau-1991-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "claim_id": "claim-lau-1991-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "claim_id": "claim-lau-1991-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "claim_id": "claim-lau-1991-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "claim_id": "claim-lau-1991-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "claim_id": "claim-grinnell-08",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "claim_id": "claim-chai-06",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "claim_id": "claim-vico-04",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "claim_id": "claim-vico-05",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "claim_id": "claim-vico-06",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "claim_id": "claim-vico-07",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "claim_id": "claim-grinnell-06",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "claim_id": "claim-luan-08",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-04",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-05",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-bangdi-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-bangdi-02",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-bangdi-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-qudi-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-qudi-03",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-qudi-04",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-chai-qudi-05",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-actor-05",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-actor-06",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-schools",
+      "claim_id": "claim-grinnell-07",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-structure",
+      "claim_id": "claim-luan-02",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-structure",
+      "claim_id": "claim-luan-03",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-structure",
+      "claim_id": "claim-luan-04",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-structure",
+      "claim_id": "claim-luan-05",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-structure",
+      "claim_id": "claim-chai-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-structure",
+      "claim_id": "claim-chai-dizi-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-luan-09",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-luan-10",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-04",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-05",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-bangdi-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-bangdi-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-bangdi-03",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-bangdi-04",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-qudi-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-qudi-02",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-qudi-03",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-qudi-04",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-qudi-05",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-types",
+      "claim_id": "claim-chai-qudi-06",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-07",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-08",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-09",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-luan-10",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-chai-03",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "claim_id": "claim-chai-dizi-01",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "claim_id": "claim-luan-11",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "claim_id": "claim-luan-acoustics-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "claim_id": "claim-luan-acoustics-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "claim_id": "claim-luan-acoustics-07",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "claim_id": "claim-luan-acoustics-18",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "claim_id": "claim-luan-acoustics-20",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "claim_id": "claim-wang-04",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-feng-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-feng-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-feng-04",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-liu-guanle-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-liu-guanle-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-liu-guanle-05",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-lu-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-lu-03",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-lu-06",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-lu-08",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-zhao-01",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-zhao-03",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-zhao-05",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "claim_id": "claim-zhao-08",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-04",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-05",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-bangdi-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-bangdi-02",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-bangdi-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-qudi-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-qudi-03",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-qudi-04",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-chai-qudi-05",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-actor-05",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-actor-06",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-grinnell-07",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-lu-03",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "claim_id": "claim-zhao-05",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-wu-bangzi-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-wu-bangzi-03",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-wu-bangzi-05",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-xi-xiang-feng-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-xi-xiang-feng-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-xi-xiang-feng-05",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-zhegu-fei-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-zhegu-fei-03",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-zhegu-fei-05",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-zhegu-fei-07",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-san-wu-qi-01",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-san-wu-qi-03",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-san-wu-qi-04",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "claim_id": "claim-san-wu-qi-06",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-curriculum-chang-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-curriculum-chang-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-curriculum-chang-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-curriculum-chang-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-longtone-chang-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-single-chang-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-triple-chang-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-flutter-chang-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-slide-chang-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-longtone-pimentel-01",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-circular-chai-04",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "claim_id": "claim-trill-chai-04",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-embouchure-pimentel-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-posture-pimentel-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-longtone-wesleyan-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-longtone-chang-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-single-chai-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-single-vico-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-chai-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-chai-09",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-vico-09",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-luan-13",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-luan-14",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-slide-vico-02",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-trill-chai-02",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-vibrato-actor-01",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-vibrato-vico-01",
+      "display_order": 15,
+      "role": "supports"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "claim_id": "claim-circular-chai-04",
+      "display_order": 16,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-luan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-luan-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-luan-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-luan-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-luan-acoustics-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-luan-acoustics-04",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-met-dizi-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-met-dizi-03",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-met-dizi-04",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-met-timeline-chi-01",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-met-timeline-chi-02",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "claim_id": "claim-wesleyan-history-01",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-shcm-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-shcm-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-shcm-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-shcm-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-shcm-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-pccu-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-pccu-02",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-pccu-03",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "claim_id": "claim-dadi-pccu-04",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "claim_id": "claim-eight-ccom-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "claim_id": "claim-eight-ccom-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "claim_id": "claim-eight-ccom-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "claim_id": "claim-eight-ccom-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "claim_id": "claim-eight-ncpa-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "claim_id": "claim-eight-ncpa-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-actor-02",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-actor-07",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-wesleyan-xindi-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-wesleyan-keyed-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-xindi-chai-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-xindi-chai-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-xindi-chai-03",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-xindi-chai-04",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "claim_id": "claim-xindi-chai-05",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-wang-03",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-wang-04",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-wang-05",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-hqu-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-hqu-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-hqu-03",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-hqu-04",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-hqu-05",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-sccm-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-sccm-02",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-sccm-03",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-sccm-04",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "claim_id": "claim-ten-sccm-05",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-03",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-04",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-11",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-12",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-02",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-03",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-04",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-07",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-13",
+      "display_order": 11,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-14",
+      "display_order": 12,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-15",
+      "display_order": 13,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-18",
+      "display_order": 14,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-luan-acoustics-19",
+      "display_order": 15,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-wesleyan-dizi-01",
+      "display_order": 16,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-actor-01",
+      "display_order": 17,
+      "role": "supports"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "claim_id": "claim-actor-08",
+      "display_order": 18,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-luan-acoustics-06",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-luan-acoustics-10",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-luan-acoustics-11",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-luan-acoustics-19",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-jiahu-nature-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-jiahu-nature-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-jiahu-henan-05",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-jiahu-henan-06",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-curriculum-chang-03",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "claim_id": "claim-curriculum-chang-04",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-luan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-luan-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-jiahu-nature-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-jiahu-nature-06",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-jiahu-henan-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-jiahu-henan-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-met-dizi-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-met-dizi-04",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-video-double-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "claim_id": "claim-video-double-02",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-cloud-08",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-ntcu-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "claim_id": "claim-chen-tnnua-01",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-hkgov-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-hkgov-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-hkgov-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-hkgov-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-hkgov-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-hkgov-2011-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-hkgov-2011-02",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-lcsd-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-lcsd-02",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "claim_id": "claim-tam-lcsd-03",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-shcm-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-shcm-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-shcm-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-shcm-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-shcm-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-sccm-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-sccm-02",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "claim_id": "claim-tang-tjs-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-wuxi-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-wuxi-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-chzu-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-chzu-02",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-chzu-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-chzu-04",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-jssnu-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "claim_id": "claim-yu-tsinghua-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-zjvaa-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-zjvaa-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-zjvaa-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-zjvaa-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-cma-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-cma-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-cma-03",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "claim_id": "claim-zeng-ccom-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-sccm-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-sccm-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-sccm-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-sccm-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-sccm-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-swu-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-swu-02",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "claim_id": "claim-zhang-swu-03",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-actor-04",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-circular-wesleyan-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-circular-pimentel-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-circular-chai-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-circular-chai-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-circular-chai-03",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-circular-chai-04",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-circular-chai-05",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "claim_id": "claim-san-wu-qi-06",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "claim_id": "claim-chai-04",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "claim_id": "claim-chai-07",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "claim_id": "claim-chai-08",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "claim_id": "claim-vico-11",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "claim_id": "claim-video-double-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "claim_id": "claim-video-double-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-pimentel-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-pimentel-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-pimentel-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-posture-pimentel-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-chai-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-chai-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-chai-03",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-chai-04",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "claim_id": "claim-embouchure-chai-05",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "claim_id": "claim-vico-09",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "claim_id": "claim-chai-10",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "claim_id": "claim-chai-11",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "claim_id": "claim-flutter-wesleyan-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "claim_id": "claim-flutter-pimentel-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "claim_id": "claim-flutter-chang-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "claim_id": "claim-luan-07",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "claim_id": "claim-luan-13",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "claim_id": "claim-luan-14",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "claim_id": "claim-luan-15",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "claim_id": "claim-vico-06",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "claim_id": "claim-vico-07",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "claim_id": "claim-longtone-wesleyan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "claim_id": "claim-longtone-pimentel-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "claim_id": "claim-longtone-chang-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "claim_id": "claim-longtone-chai-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "claim_id": "claim-longtone-chai-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-ornament-chai-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-ornament-chai-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-ornament-chai-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-gusu-chai-02",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-gusu-chai-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-gusu-chai-04",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-gusu-chai-05",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-slide-chang-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-trill-chang-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "claim_id": "claim-trill-wesleyan-01",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-wesleyan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-pimentel-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-pimentel-02",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-chang-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-chai-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-chai-02",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-chai-03",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "claim_id": "claim-single-vico-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-slide",
+      "claim_id": "claim-slide-wesleyan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-slide",
+      "claim_id": "claim-portamento-wesleyan-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-slide",
+      "claim_id": "claim-slide-chang-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-slide",
+      "claim_id": "claim-slide-vico-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-slide",
+      "claim_id": "claim-slide-vico-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-slide",
+      "claim_id": "claim-slide-vico-03",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-trill",
+      "claim_id": "claim-trill-wesleyan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-trill",
+      "claim_id": "claim-trill-chang-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-trill",
+      "claim_id": "claim-trill-chai-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-trill",
+      "claim_id": "claim-trill-chai-02",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-trill",
+      "claim_id": "claim-trill-chai-03",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-trill",
+      "claim_id": "claim-trill-chai-04",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-trill",
+      "claim_id": "claim-trill-chai-05",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "claim_id": "claim-chai-09",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "claim_id": "claim-triple-wesleyan-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "claim_id": "claim-triple-pimentel-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "claim_id": "claim-triple-chang-01",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "claim_id": "claim-triple-chai-02",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "claim_id": "claim-triple-vico-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "claim_id": "claim-vibrato-wesleyan-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "claim_id": "claim-vibrato-chang-01",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "claim_id": "claim-vibrato-chai-01",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "claim_id": "claim-vibrato-chai-02",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "claim_id": "claim-vibrato-actor-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "claim_id": "claim-vibrato-vico-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "claim_id": "claim-vibrato-vico-02",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-chai-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-chai-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-chai-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-chai-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-chai-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-tsinghua-01",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-tsinghua-02",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-tsinghua-03",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "claim_id": "claim-gusu-catalog-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-chai-08",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-catalog-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "claim_id": "claim-mumin-ahnu-01",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "claim_id": "claim-pamier-ccom-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "claim_id": "claim-pamier-ccom-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "claim_id": "claim-pamier-ccom-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "claim_id": "claim-pamier-ccom-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "claim_id": "claim-pamier-mct-01",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "claim_id": "claim-san-wu-qi-08",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "claim_id": "claim-wu-bangzi-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "claim_id": "claim-wu-bangzi-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "claim_id": "claim-wu-bangzi-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "claim_id": "claim-wu-bangzi-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "claim_id": "claim-wu-bangzi-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "claim_id": "claim-wu-bangzi-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "claim_id": "claim-wu-bangzi-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "claim_id": "claim-xi-xiang-feng-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "claim_id": "claim-xi-xiang-feng-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "claim_id": "claim-xi-xiang-feng-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "claim_id": "claim-xi-xiang-feng-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "claim_id": "claim-xi-xiang-feng-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "claim_id": "claim-xi-xiang-feng-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "claim_id": "claim-xi-xiang-feng-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-chai-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-chai-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-chai-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-chai-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-chai-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-chai-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-xust-01",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "claim_id": "claim-yangbian-xust-02",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-chai-08",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-catalog-01",
+      "display_order": 9,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "claim_id": "claim-yinzhong-ccom-01",
+      "display_order": 10,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-chai-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-chai-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-chai-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-chai-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-chai-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-chai-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-chai-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zaochen",
+      "claim_id": "claim-zaochen-ccom-01",
+      "display_order": 8,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-01",
+      "display_order": 1,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-02",
+      "display_order": 2,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-03",
+      "display_order": 3,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-04",
+      "display_order": 4,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-05",
+      "display_order": 5,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-06",
+      "display_order": 6,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-07",
+      "display_order": 7,
+      "role": "supports"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "claim_id": "claim-zhegu-fei-08",
+      "display_order": 8,
+      "role": "supports"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

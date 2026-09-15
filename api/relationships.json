@@ -1,0 +1,521 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "confidence": 0.99,
+      "id": "rel-061182b102043dc4",
+      "locator": {
+        "paragraph": 1,
+        "section": "327 CD9（笛子）",
+        "text_anchor": "牧民新歌 / 简广易曲",
+        "type": "web_text"
+      },
+      "object_id": "piece-mumin-xinge",
+      "object_type": "piece",
+      "relation_type": "composed",
+      "reviewed_at": "2026-08-13T06:20:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "catalog-ccom-chinese-instrumental-collection-2008",
+      "subject_id": "person-jian-guangyi",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.99,
+      "id": "rel-ac2bfc524829b7f4",
+      "locator": {
+        "paragraph": 1,
+        "section": "327 CD10（笛子）",
+        "text_anchor": "荫中鸟 / 刘管乐曲、演绎",
+        "type": "web_text"
+      },
+      "object_id": "piece-yinzhong-niao",
+      "object_type": "piece",
+      "relation_type": "composed",
+      "reviewed_at": "2026-08-13T06:20:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "catalog-ccom-chinese-instrumental-collection-2008",
+      "subject_id": "person-liu-guanle",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-39c53f00baa111f9",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2024",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2024",
+      "subject_id": "person-gary-scavone",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-66a08ee941e9f7e9",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2024",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2024",
+      "subject_id": "person-song-wang",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-581212ad78ebbeaa",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2024",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2024",
+      "subject_id": "person-xinmeng-luan",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-c5b228fbd170db88",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2024",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2024",
+      "subject_id": "person-zijin-li",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 1.0,
+      "id": "rel-a01641134a10a228",
+      "locator": {
+        "field": "doi",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2025-published",
+      "object_type": "document",
+      "relation_type": "preprint_of",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2025-published",
+      "subject_id": "paper-luan-dizi-2024",
+      "subject_type": "document",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-0a6a3c8c77d0809d",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2025-published",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2025-published",
+      "subject_id": "person-gary-scavone",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-5f20223eb45ac760",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2025-published",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2025-published",
+      "subject_id": "person-song-wang",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-c13fcd7465b7accb",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2025-published",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2025-published",
+      "subject_id": "person-xinmeng-luan",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-1caaf39bc9d71484",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-luan-dizi-2025-published",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-luan-dizi-2025-published",
+      "subject_id": "person-zijin-li",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-160a6467630c0996",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-wang-titzu-2024",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-wang-titzu-2024",
+      "subject_id": "person-chalermsak-pikulsri",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-b63859e8822d940f",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-wang-titzu-2024",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-wang-titzu-2024",
+      "subject_id": "person-pornpan-kaenampornpan",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-e496deab6dcb215e",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "paper-wang-titzu-2024",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "paper-wang-titzu-2024",
+      "subject_id": "person-qiang-wang",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.99,
+      "id": "rel-402d0daa34f7ff82",
+      "locator": {
+        "line": 23,
+        "page": 1,
+        "type": "pdf"
+      },
+      "object_id": "piece-zhegu-fei",
+      "object_type": "piece",
+      "relation_type": "arranged",
+      "reviewed_at": "2026-08-13T02:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "subject_id": "person-zhao-songting",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-a75f8129285281f1",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "thesis-chai-dizi-2014",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "thesis-chai-dizi-2014",
+      "subject_id": "person-chang-ning-chai",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-84cd7ccb52557a79",
+      "locator": {
+        "page_end": 144,
+        "page_start": 142,
+        "type": "page"
+      },
+      "object_id": "piece-wu-bangzi",
+      "object_type": "piece",
+      "relation_type": "arranged",
+      "reviewed_at": "2026-08-13T02:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "thesis-chai-dizi-2014",
+      "subject_id": "person-feng-zicun",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-5575c216ba2bcf6f",
+      "locator": {
+        "page_end": 156,
+        "page_start": 155,
+        "type": "page"
+      },
+      "object_id": "piece-xi-xiang-feng",
+      "object_type": "piece",
+      "relation_type": "arranged",
+      "reviewed_at": "2026-08-13T02:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "thesis-chai-dizi-2014",
+      "subject_id": "person-feng-zicun",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-420846275c5fc604",
+      "locator": {
+        "page": 174,
+        "type": "page"
+      },
+      "object_id": "piece-zhegu-fei",
+      "object_type": "piece",
+      "relation_type": "arranged",
+      "reviewed_at": "2026-08-13T02:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "thesis-chai-dizi-2014",
+      "subject_id": "person-lu-chunling",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-cd11bffa790d2d84",
+      "locator": {
+        "page": 160,
+        "text_anchor": "composed by the southern grand master flautist Zhao Songting",
+        "type": "page"
+      },
+      "object_id": "piece-zaochen",
+      "object_type": "piece",
+      "relation_type": "composed",
+      "reviewed_at": "2026-08-13T06:20:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "thesis-chai-dizi-2014",
+      "subject_id": "person-zhao-songting",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.98,
+      "id": "rel-3097f33ea7b8afef",
+      "locator": {
+        "field": "authors",
+        "type": "metadata_field"
+      },
+      "object_id": "thesis-lau-dizi-1991",
+      "object_type": "document",
+      "relation_type": "wrote",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "thesis-lau-dizi-1991",
+      "subject_id": "person-frederick-lau",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.99,
+      "id": "rel-530a8ca0663df538",
+      "locator": {
+        "paragraph": 1,
+        "section": "3、《帕米尔的春天》",
+        "text_anchor": "《帕米尔的春天》李大同编曲",
+        "type": "web_text"
+      },
+      "object_id": "piece-pamier-de-chuntian",
+      "object_type": "piece",
+      "relation_type": "arranged",
+      "reviewed_at": "2026-08-13T06:20:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "web-ccom-pamier-album-2025",
+      "subject_id": "person-li-datong",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.95,
+      "id": "rel-051be1eaa9562f53",
+      "locator": {
+        "heading": "Chinese Bamboo Flute (Dizi)",
+        "metadata_field": "instructor",
+        "type": "web_section"
+      },
+      "object_id": "web-imusic-tang-junqiao",
+      "object_type": "document",
+      "relation_type": "instructor_of",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "web-imusic-tang-junqiao",
+      "subject_id": "person-tang-junqiao",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.99,
+      "id": "rel-d05299f8a8bd3bf1",
+      "locator": {
+        "paragraph": 3,
+        "section": "演出報道",
+        "text_anchor": "《姑苏行》是作曲家江先谓先生于1962年创作的一首笛曲",
+        "type": "web_text"
+      },
+      "object_id": "piece-gusu-xing",
+      "object_type": "piece",
+      "relation_type": "composed",
+      "reviewed_at": "2026-08-13T06:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "web-tsinghua-gusu-xing",
+      "subject_id": "person-jiang-xianwei",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.9,
+      "id": "rel-60c016f4bcf01293",
+      "locator": {
+        "paragraph": 4,
+        "section": "活动回顾",
+        "text_anchor": "使他决定创作一曲时长7'37”的《芙蓉湖》",
+        "type": "web_text"
+      },
+      "object_id": "piece-furong-lake",
+      "object_type": "piece",
+      "relation_type": "composed",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "web-wuxi-yu-xunfa-2024",
+      "subject_id": "person-liu-yi",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.95,
+      "id": "rel-1fb5c8c9577e0ae7",
+      "locator": {
+        "paragraph": 2,
+        "section": "活动回顾",
+        "text_anchor": "1971年，中国著名竹笛演奏家俞逊发先生发明了“口笛”",
+        "type": "web_text"
+      },
+      "object_id": "koudi",
+      "object_type": "instrument",
+      "relation_type": "developed",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "web-wuxi-yu-xunfa-2024",
+      "subject_id": "person-yu-xunfa",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.95,
+      "id": "rel-53ab82f7918cfeb1",
+      "locator": {
+        "paragraph": 2,
+        "section": "活动回顾",
+        "text_anchor": "成功地演奏了《云雀》与《苗岭的早晨》",
+        "type": "web_text"
+      },
+      "object_id": "piece-miaoling-de-chenzao",
+      "object_type": "piece",
+      "relation_type": "performed",
+      "reviewed_at": "2026-08-01T00:00:00Z",
+      "reviewed_by": "codex-source-audit",
+      "source_id": "web-wuxi-yu-xunfa-2024",
+      "subject_id": "person-yu-xunfa",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.99,
+      "id": "rel-50fb7aeeb76c94d4",
+      "locator": {
+        "paragraph": 1,
+        "section": "曲目介紹",
+        "text_anchor": "该曲是魏显忠创作于1969年10月的一首笛子独奏曲",
+        "type": "web_text"
+      },
+      "object_id": "piece-yangbian-cuima",
+      "object_type": "piece",
+      "relation_type": "composed",
+      "reviewed_at": "2026-08-13T06:20:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "web-xust-yangbian-2023",
+      "subject_id": "person-wei-xianzhong",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "confidence": 0.99,
+      "id": "rel-9e93f23e8bc2a27f",
+      "locator": {
+        "paragraph": 6,
+        "text_anchor": "根据婺剧唱调[三五七]改编",
+        "type": "web_text"
+      },
+      "object_id": "piece-san-wu-qi",
+      "object_type": "piece",
+      "relation_type": "arranged",
+      "reviewed_at": "2026-08-13T02:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "source_id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "subject_id": "person-zhao-songting",
+      "subject_type": "person",
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

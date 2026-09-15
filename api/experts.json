@@ -1,0 +1,1205 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "aliases": [],
+      "biography": "",
+      "display_name": "Chalermsak Pikulsri",
+      "entity_type": "experts",
+      "id": "person-chalermsak-pikulsri",
+      "maturity": {
+        "id": "person-chalermsak-pikulsri",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/chalermsak-pikulsri.html",
+        "slug": "chalermsak-pikulsri",
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ],
+        "title": "Chalermsak Pikulsri"
+      },
+      "metadata": {
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ]
+      },
+      "roles": [
+        "researcher"
+      ],
+      "route": "static_pages/experts/chalermsak-pikulsri.html",
+      "slug": "chalermsak-pikulsri",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Chai Changning",
+        "Chai Chang-ning"
+      ],
+      "biography": "",
+      "display_name": "Chang-ning Chai",
+      "entity_type": "experts",
+      "id": "person-chang-ning-chai",
+      "maturity": {
+        "id": "person-chang-ning-chai",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/chang-ning-chai.html",
+        "slug": "chang-ning-chai",
+        "source_ids": [
+          "thesis-chai-dizi-2014"
+        ],
+        "title": "Chang-ning Chai"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-chai-dizi-2014"
+        ]
+      },
+      "roles": [
+        "researcher",
+        "performer"
+      ],
+      "route": "static_pages/experts/chang-ning-chai.html",
+      "slug": "chang-ning-chai",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "陳中申",
+        "陈中申",
+        "Chen Chung-shen",
+        "Chen Chung Shen",
+        "Chen Zhongshen"
+      ],
+      "biography": "",
+      "display_name": "陳中申（Chen Chung-shen）",
+      "entity_type": "experts",
+      "id": "person-chen-chung-shen",
+      "maturity": {
+        "id": "person-chen-chung-shen",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 749,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 10
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/chen-chung-shen.html",
+        "slug": "chen-chung-shen",
+        "source_ids": [
+          "web-cloudedu-chen-chung-shen-2020",
+          "web-hkgov-xiao-masters-2000",
+          "web-ntcu-chen-chung-shen-alumnus",
+          "web-tnnua-chen-chung-shen-profile"
+        ],
+        "title": "陳中申（Chen Chung-shen）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-cloudedu-chen-chung-shen-2020",
+          "web-ntcu-chen-chung-shen-alumnus",
+          "web-tnnua-chen-chung-shen-profile",
+          "web-hkgov-xiao-masters-2000"
+        ]
+      },
+      "roles": [
+        "performer",
+        "composer",
+        "conductor",
+        "educator",
+        "instrument_innovator"
+      ],
+      "route": "static_pages/experts/chen-chung-shen.html",
+      "slug": "chen-chung-shen",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "馮子存",
+        "冯子存",
+        "Feng Zicun",
+        "Feng Tzu-ts'un"
+      ],
+      "biography": "",
+      "display_name": "馮子存（Feng Zicun）",
+      "entity_type": "experts",
+      "id": "person-feng-zicun",
+      "maturity": {
+        "id": "person-feng-zicun",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 988,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/feng-zicun.html",
+        "slug": "feng-zicun",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-ccom-press-performance-professionalization-2024",
+          "web-huain-feng-zicun-120-2024"
+        ],
+        "title": "馮子存（Feng Zicun）"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-ccom-press-performance-professionalization-2024",
+          "web-huain-feng-zicun-120-2024"
+        ]
+      },
+      "roles": [
+        "performer",
+        "educator",
+        "arranger"
+      ],
+      "route": "static_pages/experts/feng-zicun.html",
+      "slug": "feng-zicun",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Frederick Lau",
+        "Lau Frederick Cheungkong"
+      ],
+      "biography": "",
+      "display_name": "Frederick Cheungkong Lau",
+      "entity_type": "experts",
+      "id": "person-frederick-lau",
+      "maturity": {
+        "id": "person-frederick-lau",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/frederick-lau.html",
+        "slug": "frederick-lau",
+        "source_ids": [
+          "thesis-lau-dizi-1991"
+        ],
+        "title": "Frederick Cheungkong Lau"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-lau-dizi-1991"
+        ]
+      },
+      "roles": [
+        "musicologist",
+        "researcher"
+      ],
+      "route": "static_pages/experts/frederick-lau.html",
+      "slug": "frederick-lau",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Gary P. Scavone"
+      ],
+      "biography": "",
+      "display_name": "Gary Scavone",
+      "entity_type": "experts",
+      "id": "person-gary-scavone",
+      "maturity": {
+        "id": "person-gary-scavone",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/gary-scavone.html",
+        "slug": "gary-scavone",
+        "source_ids": [
+          "paper-luan-dizi-2024",
+          "paper-luan-dizi-2025-published"
+        ],
+        "title": "Gary Scavone"
+      },
+      "metadata": {
+        "source_ids": [
+          "paper-luan-dizi-2024"
+        ]
+      },
+      "roles": [
+        "researcher",
+        "acoustician"
+      ],
+      "route": "static_pages/experts/gary-scavone.html",
+      "slug": "gary-scavone",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "簡廣易",
+        "简广易",
+        "Jian Guangyi",
+        "Jian Guanyi"
+      ],
+      "biography": "",
+      "display_name": "簡廣易（Jian Guangyi）",
+      "entity_type": "experts",
+      "id": "person-jian-guangyi",
+      "maturity": {
+        "id": "person-jian-guangyi",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/jian-guangyi.html",
+        "slug": "jian-guangyi",
+        "source_ids": [
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "web-ahnu-mumin-xinge-2017"
+        ],
+        "title": "簡廣易（Jian Guangyi）"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "web-ahnu-mumin-xinge-2017"
+        ]
+      },
+      "roles": [
+        "performer",
+        "composer"
+      ],
+      "route": "static_pages/experts/jian-guangyi.html",
+      "slug": "jian-guangyi",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "江先渭",
+        "江先謂",
+        "江先谓",
+        "Jiang Xianwei"
+      ],
+      "biography": "",
+      "display_name": "江先渭（Jiang Xianwei）",
+      "entity_type": "experts",
+      "id": "person-jiang-xianwei",
+      "maturity": {
+        "id": "person-jiang-xianwei",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/jiang-xianwei.html",
+        "slug": "jiang-xianwei",
+        "source_ids": [
+          "catalog-tsinghua-gusu-recording",
+          "web-tsinghua-gusu-xing"
+        ],
+        "title": "江先渭（Jiang Xianwei）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-tsinghua-gusu-xing",
+          "catalog-tsinghua-gusu-recording",
+          "catalog-ccom-chinese-instrumental-collection-2008"
+        ]
+      },
+      "roles": [
+        "performer",
+        "composer"
+      ],
+      "route": "static_pages/experts/jiang-xianwei.html",
+      "slug": "jiang-xianwei",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "李大同",
+        "Li Datong"
+      ],
+      "biography": "",
+      "display_name": "李大同（Li Datong）",
+      "entity_type": "experts",
+      "id": "person-li-datong",
+      "maturity": {
+        "id": "person-li-datong",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/li-datong.html",
+        "slug": "li-datong",
+        "source_ids": [
+          "pdf-mct-youth-repertoire-2024",
+          "web-ccom-pamier-album-2025"
+        ],
+        "title": "李大同（Li Datong）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-ccom-pamier-album-2025",
+          "pdf-mct-youth-repertoire-2024"
+        ]
+      },
+      "roles": [
+        "composer",
+        "arranger"
+      ],
+      "route": "static_pages/experts/li-datong.html",
+      "slug": "li-datong",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "劉管樂",
+        "刘管乐",
+        "Liu Guanle",
+        "Liu Guanyue",
+        "Liu Kuan-yueh"
+      ],
+      "biography": "",
+      "display_name": "劉管樂（Liu Guanle）",
+      "entity_type": "experts",
+      "id": "person-liu-guanle",
+      "maturity": {
+        "id": "person-liu-guanle",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 870,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 7
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/liu-guanle.html",
+        "slug": "liu-guanle",
+        "source_ids": [
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-ccom-press-performance-professionalization-2024"
+        ],
+        "title": "劉管樂（Liu Guanle）"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-ccom-press-performance-professionalization-2024",
+          "pdf-xacom-dizi-repertoire-2025"
+        ]
+      },
+      "roles": [
+        "performer",
+        "educator",
+        "composer",
+        "arranger"
+      ],
+      "route": "static_pages/experts/liu-guanle.html",
+      "slug": "liu-guanle",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "劉一",
+        "刘一",
+        "Liu Yi"
+      ],
+      "biography": "",
+      "display_name": "劉一（Liu Yi）",
+      "entity_type": "experts",
+      "id": "person-liu-yi",
+      "maturity": {
+        "id": "person-liu-yi",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/liu-yi.html",
+        "slug": "liu-yi",
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ],
+        "title": "劉一（Liu Yi）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ]
+      },
+      "roles": [
+        "performer",
+        "composer"
+      ],
+      "route": "static_pages/experts/liu-yi.html",
+      "slug": "liu-yi",
+      "verification_status": "PARTIALLY_VERIFIED"
+    },
+    {
+      "aliases": [
+        "陸春齡",
+        "陆春龄",
+        "Lu Chunling",
+        "Lu Chun-ling"
+      ],
+      "biography": "",
+      "display_name": "陸春齡（Lu Chunling）",
+      "entity_type": "experts",
+      "id": "person-lu-chunling",
+      "maturity": {
+        "id": "person-lu-chunling",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 879,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/lu-chunling.html",
+        "slug": "lu-chunling",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-shcm-lu-chunling-center-2020",
+          "web-shcm-lu-chunling-obituary-2018"
+        ],
+        "title": "陸春齡（Lu Chunling）"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-shcm-lu-chunling-center-2020",
+          "web-shcm-lu-chunling-obituary-2018"
+        ]
+      },
+      "roles": [
+        "performer",
+        "educator",
+        "composer",
+        "arranger",
+        "heritage_bearer"
+      ],
+      "route": "static_pages/experts/lu-chunling.html",
+      "slug": "lu-chunling",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "羅智修",
+        "罗智修",
+        "Luo Zhixiu",
+        "Zhixiu Luo"
+      ],
+      "biography": "",
+      "display_name": "羅智修（Luo Zhixiu）",
+      "entity_type": "experts",
+      "id": "person-luo-zhixiu",
+      "maturity": {
+        "id": "person-luo-zhixiu",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 1
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/luo-zhixiu.html",
+        "slug": "luo-zhixiu",
+        "source_ids": [
+          "profile-taoyuan-luo-zhixiu"
+        ],
+        "title": "羅智修（Luo Zhixiu）"
+      },
+      "metadata": {
+        "source_ids": [
+          "profile-taoyuan-luo-zhixiu"
+        ]
+      },
+      "roles": [
+        "performer"
+      ],
+      "route": "static_pages/experts/luo-zhixiu.html",
+      "slug": "luo-zhixiu",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "biography": "",
+      "display_name": "Pornpan Kaenampornpan",
+      "entity_type": "experts",
+      "id": "person-pornpan-kaenampornpan",
+      "maturity": {
+        "id": "person-pornpan-kaenampornpan",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/pornpan-kaenampornpan.html",
+        "slug": "pornpan-kaenampornpan",
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ],
+        "title": "Pornpan Kaenampornpan"
+      },
+      "metadata": {
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ]
+      },
+      "roles": [
+        "researcher"
+      ],
+      "route": "static_pages/experts/pornpan-kaenampornpan.html",
+      "slug": "pornpan-kaenampornpan",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Wang Qiang"
+      ],
+      "biography": "",
+      "display_name": "Qiang Wang",
+      "entity_type": "experts",
+      "id": "person-qiang-wang",
+      "maturity": {
+        "id": "person-qiang-wang",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/qiang-wang.html",
+        "slug": "qiang-wang",
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ],
+        "title": "Qiang Wang"
+      },
+      "metadata": {
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ]
+      },
+      "roles": [
+        "researcher"
+      ],
+      "route": "static_pages/experts/qiang-wang.html",
+      "slug": "qiang-wang",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Wang Song"
+      ],
+      "biography": "",
+      "display_name": "Song Wang",
+      "entity_type": "experts",
+      "id": "person-song-wang",
+      "maturity": {
+        "id": "person-song-wang",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/song-wang.html",
+        "slug": "song-wang",
+        "source_ids": [
+          "paper-luan-dizi-2024",
+          "paper-luan-dizi-2025-published"
+        ],
+        "title": "Song Wang"
+      },
+      "metadata": {
+        "source_ids": [
+          "paper-luan-dizi-2024"
+        ]
+      },
+      "roles": [
+        "researcher",
+        "acoustician"
+      ],
+      "route": "static_pages/experts/song-wang.html",
+      "slug": "song-wang",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "譚寶碩",
+        "谭宝硕",
+        "Tam Po-shek",
+        "Tam Po Shek",
+        "Tan Baoshuo"
+      ],
+      "biography": "",
+      "display_name": "譚寶碩（Tam Po-shek）",
+      "entity_type": "experts",
+      "id": "person-tam-po-shek",
+      "maturity": {
+        "id": "person-tam-po-shek",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 619,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 10
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/tam-po-shek.html",
+        "slug": "tam-po-shek",
+        "source_ids": [
+          "web-hkgov-tam-literature-2011",
+          "web-hkgov-xiao-masters-2000",
+          "web-lcsd-tam-po-shek-profile"
+        ],
+        "title": "譚寶碩（Tam Po-shek）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-hkgov-xiao-masters-2000",
+          "web-lcsd-tam-po-shek-profile",
+          "web-hkgov-tam-literature-2011"
+        ]
+      },
+      "roles": [
+        "performer",
+        "instrument_maker",
+        "educator",
+        "author"
+      ],
+      "route": "static_pages/experts/tam-po-shek.html",
+      "slug": "tam-po-shek",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "唐俊喬",
+        "唐俊乔",
+        "Tang Junqiao",
+        "Junqiao Tang"
+      ],
+      "biography": "",
+      "display_name": "唐俊喬（Tang Junqiao）",
+      "entity_type": "experts",
+      "id": "person-tang-junqiao",
+      "maturity": {
+        "id": "person-tang-junqiao",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 631,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/tang-junqiao.html",
+        "slug": "tang-junqiao",
+        "source_ids": [
+          "pdf-tianjin-juilliard-tang-2023",
+          "web-imusic-tang-junqiao",
+          "web-sccm-tang-junqiao-2015",
+          "web-shcm-tang-junqiao-profile"
+        ],
+        "title": "唐俊喬（Tang Junqiao）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-imusic-tang-junqiao",
+          "web-shcm-tang-junqiao-profile",
+          "pdf-tianjin-juilliard-tang-2023",
+          "web-sccm-tang-junqiao-2015"
+        ]
+      },
+      "roles": [
+        "performer",
+        "educator",
+        "ensemble_founder"
+      ],
+      "route": "static_pages/experts/tang-junqiao.html",
+      "slug": "tang-junqiao",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "魏顯忠",
+        "魏显忠",
+        "Wei Xianzhong"
+      ],
+      "biography": "",
+      "display_name": "魏顯忠（Wei Xianzhong）",
+      "entity_type": "experts",
+      "id": "person-wei-xianzhong",
+      "maturity": {
+        "id": "person-wei-xianzhong",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/wei-xianzhong.html",
+        "slug": "wei-xianzhong",
+        "source_ids": [
+          "web-xust-yangbian-2023"
+        ],
+        "title": "魏顯忠（Wei Xianzhong）"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-xust-yangbian-2023"
+        ]
+      },
+      "roles": [
+        "performer",
+        "composer"
+      ],
+      "route": "static_pages/experts/wei-xianzhong.html",
+      "slug": "wei-xianzhong",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Luan Xinmeng"
+      ],
+      "biography": "",
+      "display_name": "Xinmeng Luan",
+      "entity_type": "experts",
+      "id": "person-xinmeng-luan",
+      "maturity": {
+        "id": "person-xinmeng-luan",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/xinmeng-luan.html",
+        "slug": "xinmeng-luan",
+        "source_ids": [
+          "paper-luan-dizi-2024",
+          "paper-luan-dizi-2025-published"
+        ],
+        "title": "Xinmeng Luan"
+      },
+      "metadata": {
+        "source_ids": [
+          "paper-luan-dizi-2024"
+        ]
+      },
+      "roles": [
+        "researcher",
+        "acoustician"
+      ],
+      "route": "static_pages/experts/xinmeng-luan.html",
+      "slug": "xinmeng-luan",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "俞遜發",
+        "俞逊发",
+        "Yu Xunfa",
+        "Xunfa Yu"
+      ],
+      "biography": "",
+      "display_name": "俞遜發（Yu Xunfa）",
+      "entity_type": "experts",
+      "id": "person-yu-xunfa",
+      "maturity": {
+        "id": "person-yu-xunfa",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 655,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/yu-xunfa.html",
+        "slug": "yu-xunfa",
+        "source_ids": [
+          "catalog-tsinghua-gusu-recording",
+          "web-chzu-yu-xunfa-2026",
+          "web-jssnu-yu-koudi-2020",
+          "web-wuxi-yu-xunfa-2024"
+        ],
+        "title": "俞遜發（Yu Xunfa）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024",
+          "web-chzu-yu-xunfa-2026",
+          "web-jssnu-yu-koudi-2020",
+          "catalog-tsinghua-gusu-recording"
+        ]
+      },
+      "roles": [
+        "performer",
+        "composer",
+        "instrument_innovator"
+      ],
+      "route": "static_pages/experts/yu-xunfa.html",
+      "slug": "yu-xunfa",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "曾永清",
+        "Zeng Yongqing",
+        "ZENG Yong-qing",
+        "Tseng Yung-ching"
+      ],
+      "biography": "",
+      "display_name": "曾永清（Zeng Yongqing）",
+      "entity_type": "experts",
+      "id": "person-zeng-yongqing",
+      "maturity": {
+        "id": "person-zeng-yongqing",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 669,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/zeng-yongqing.html",
+        "slug": "zeng-yongqing",
+        "source_ids": [
+          "archive-cma-zeng-yongqing-2023",
+          "web-ccom-zeng-qinchuan-2018",
+          "web-zjvaa-zeng-yongqing-2008"
+        ],
+        "title": "曾永清（Zeng Yongqing）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-zjvaa-zeng-yongqing-2008",
+          "archive-cma-zeng-yongqing-2023",
+          "web-ccom-zeng-qinchuan-2018"
+        ]
+      },
+      "roles": [
+        "performer",
+        "educator",
+        "composer"
+      ],
+      "route": "static_pages/experts/zeng-yongqing.html",
+      "slug": "zeng-yongqing",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "張維良",
+        "张维良",
+        "Zhang Weiliang",
+        "Chang Wei-liang"
+      ],
+      "biography": "",
+      "display_name": "張維良（Zhang Weiliang）",
+      "entity_type": "experts",
+      "id": "person-zhang-weiliang",
+      "maturity": {
+        "id": "person-zhang-weiliang",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 618,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/zhang-weiliang.html",
+        "slug": "zhang-weiliang",
+        "source_ids": [
+          "web-hkgov-xiao-masters-2000",
+          "web-sccm-zhang-weiliang-2009",
+          "web-swu-zhang-weiliang-2021"
+        ],
+        "title": "張維良（Zhang Weiliang）"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-sccm-zhang-weiliang-2009",
+          "web-swu-zhang-weiliang-2021",
+          "web-hkgov-xiao-masters-2000"
+        ]
+      },
+      "roles": [
+        "performer",
+        "educator",
+        "composer",
+        "ensemble_founder"
+      ],
+      "route": "static_pages/experts/zhang-weiliang.html",
+      "slug": "zhang-weiliang",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "趙松庭",
+        "赵松庭",
+        "Zhao Songting",
+        "Chao Sung-ting"
+      ],
+      "biography": "",
+      "display_name": "趙松庭（Zhao Songting）",
+      "entity_type": "experts",
+      "id": "person-zhao-songting",
+      "maturity": {
+        "id": "person-zhao-songting",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 894,
+          "external_expert_reviewed": false,
+          "independent_sources": 5,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 5,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "person",
+        "route": "static_pages/experts/zhao-songting.html",
+        "slug": "zhao-songting",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-ccom-press-performance-professionalization-2024",
+          "web-zjcm-zhao-songting-center-2015",
+          "web-zjvaa-zhao-songting-sanwuqi-2011"
+        ],
+        "title": "趙松庭（Zhao Songting）"
+      },
+      "metadata": {
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-zjcm-zhao-songting-center-2015",
+          "web-zjvaa-zhao-songting-sanwuqi-2011"
+        ]
+      },
+      "roles": [
+        "performer",
+        "educator",
+        "composer",
+        "arranger",
+        "instrument_innovator"
+      ],
+      "route": "static_pages/experts/zhao-songting.html",
+      "slug": "zhao-songting",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Li Zijin"
+      ],
+      "biography": "",
+      "display_name": "Zijin Li",
+      "entity_type": "experts",
+      "id": "person-zijin-li",
+      "maturity": {
+        "id": "person-zijin-li",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "person",
+        "route": "static_pages/experts/zijin-li.html",
+        "slug": "zijin-li",
+        "source_ids": [
+          "paper-luan-dizi-2024",
+          "paper-luan-dizi-2025-published"
+        ],
+        "title": "Zijin Li"
+      },
+      "metadata": {
+        "source_ids": [
+          "paper-luan-dizi-2024"
+        ]
+      },
+      "roles": [
+        "researcher",
+        "acoustician"
+      ],
+      "route": "static_pages/experts/zijin-li.html",
+      "slug": "zijin-li",
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

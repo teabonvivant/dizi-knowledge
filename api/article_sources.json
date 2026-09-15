@@ -1,0 +1,2552 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "locator": {
+        "page_end": 9,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T05:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_membrane_measurement_and_model",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "locator": {
+        "paragraph": 1,
+        "section": "Construction and acoustics — Dizi"
+      },
+      "reviewed_at": "2026-08-13T05:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "specialist_timbre_and_orchestration_context",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "locator": {
+        "paragraph": 1,
+        "section": "Description"
+      },
+      "reviewed_at": "2026-08-13T05:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "specialist_attachment_risk_context",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "locator": {
+        "page_end": 9,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T05:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_acoustic_measurement_and_model",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "locator": {
+        "paragraph": 1,
+        "section": "Construction and acoustics — Dizi"
+      },
+      "reviewed_at": "2026-08-13T05:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "specialist_construction_and_orchestration_context",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "locator": {
+        "paragraph": 1,
+        "section": "Description; Pitch and Range"
+      },
+      "reviewed_at": "2026-08-13T05:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "specialist_structure_and_pitch_context",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_conservatory_repertoire",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "locator": {
+        "page": 136
+      },
+      "reviewed_at": "2026-08-13T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "biographical_and_style_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "locator": {
+        "paragraph": 4,
+        "section": "從樂種、主奏到獨奏"
+      },
+      "reviewed_at": "2026-08-13T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "professionalization_context",
+      "source_id": "web-ccom-press-performance-professionalization-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "locator": {
+        "paragraph": 1,
+        "section": "人物與作品概述"
+      },
+      "reviewed_at": "2026-08-13T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_legacy_account",
+      "source_id": "web-huain-feng-zicun-120-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_conservatory_repertoire",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "locator": {
+        "page": 137
+      },
+      "reviewed_at": "2026-08-13T03:00:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "biography_repertoire_and_performance_account",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "locator": {
+        "paragraph": 4,
+        "section": "從樂種、主奏到獨奏"
+      },
+      "reviewed_at": "2026-08-13T03:00:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "professionalization_context",
+      "source_id": "web-ccom-press-performance-professionalization-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_conservatory_repertoire",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "locator": {
+        "page": 139
+      },
+      "reviewed_at": "2026-08-13T03:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_generation_classification",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究中心宗旨"
+      },
+      "reviewed_at": "2026-08-13T03:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "research_center_and_legacy",
+      "source_id": "web-shcm-lu-chunling-center-2020",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "locator": {
+        "paragraph": 1,
+        "section": "生平與藝術貢獻"
+      },
+      "reviewed_at": "2026-08-13T03:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_biography_and_repertoire",
+      "source_id": "web-shcm-lu-chunling-obituary-2018",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_conservatory_repertoire",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "locator": {
+        "page_end": 138,
+        "page_start": 137
+      },
+      "reviewed_at": "2026-08-13T03:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "biographical_style_and_innovation_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "locator": {
+        "paragraph": 1,
+        "section": "趙松庭生平"
+      },
+      "reviewed_at": "2026-08-13T03:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_biography_and_legacy",
+      "source_id": "web-zjcm-zhao-songting-center-2015",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "locator": {
+        "paragraph": 1,
+        "section": "趙松庭與婺劇"
+      },
+      "reviewed_at": "2026-08-13T03:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "wuju_and_training_context",
+      "source_id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "locator": {
+        "paragraph": 1,
+        "section": "藏品資料；簡介；專家點評"
+      },
+      "reviewed_at": "2026-08-13T05:01:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_object_and_excavation_context",
+      "source_id": "museum-henan-jiahu-bone-flute",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "locator": {
+        "paragraph": 3,
+        "section": "Historical background"
+      },
+      "reviewed_at": "2026-08-13T05:01:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "historical_term_and_membrane_timeline",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T05:01:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "modern_membraned_dizi_structure_comparison",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "locator": {
+        "paragraph": 1,
+        "section": "Abstract"
+      },
+      "reviewed_at": "2026-08-13T05:01:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_archaeological_research",
+      "source_id": "paper-nature-jiahu-flutes-1999",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "locator": {
+        "field": "title; medium; classification; objectDate"
+      },
+      "reviewed_at": "2026-08-13T05:01:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "late_qing_dizi_object_comparison",
+      "source_id": "source-met-dizi-500635",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "locator": {
+        "paragraph": 1,
+        "section": "Archaeological Evidence of Musical Instruments"
+      },
+      "reviewed_at": "2026-08-13T05:01:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_scholarly_timeline",
+      "source_id": "web-met-music-art-china",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "membrane_evidence",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "locator": {
+        "paragraph": 1,
+        "section": "笛子如何保養？"
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_care_guidance",
+      "source_id": "web-lcsd-dizi-maintenance",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "locator": {
+        "paragraph": 1,
+        "section": "竹笛"
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "care_guidance",
+      "source_id": "web-parsons-dizi-maintenance-2022",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "locator": {
+        "paragraph": 1,
+        "section": "Description"
+      },
+      "reviewed_at": "2026-08-12T18:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_structure_reference",
+      "source_id": "museum-grinnell-dizi-1533",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-12T18:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "acoustic_and_structural_evidence",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "locator": {
+        "paragraph": 1,
+        "section": "Construction and acoustics — Dizi"
+      },
+      "reviewed_at": "2026-08-12T18:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "orchestration_reference",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "locator": {
+        "paragraph": 3,
+        "section": "General Considerations"
+      },
+      "reviewed_at": "2026-08-12T18:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "performer_practical_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "locator": {
+        "paragraph": 1,
+        "section": "藏品資料；簡介；專家點評"
+      },
+      "reviewed_at": "2026-08-13T06:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "example_of_official_object_record",
+      "source_id": "museum-henan-jiahu-bone-flute",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "locator": {
+        "page_end": 9,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T06:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "example_of_measurement_model_and_hypothesis",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "locator": {
+        "paragraph": 1,
+        "section": "Abstract"
+      },
+      "reviewed_at": "2026-08-13T06:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "example_of_cautious_primary_research_claim",
+      "source_id": "paper-nature-jiahu-flutes-1999",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-evidence",
+      "locator": {
+        "field": "objectID; title; medium; classification"
+      },
+      "reviewed_at": "2026-08-13T06:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "example_of_structured_open_collection_metadata",
+      "source_id": "source-met-dizi-500635",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "locator": {
+        "paragraph": 1,
+        "section": "Physical description; Historical background"
+      },
+      "reviewed_at": "2026-08-13T05:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "alternative_names_and_historical_term_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "locator": {
+        "paragraph": 1,
+        "section": "Abstract"
+      },
+      "reviewed_at": "2026-08-13T05:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_archaeological_description",
+      "source_id": "paper-nature-jiahu-flutes-1999",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "locator": {
+        "field": "title; medium; classification; objectDate"
+      },
+      "reviewed_at": "2026-08-13T05:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_object_title_material_and_classification",
+      "source_id": "source-met-dizi-500635",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "locator": {
+        "page_end": 90,
+        "page_start": 88
+      },
+      "reviewed_at": "2026-08-13T05:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "qudi_and_bangdi_terminology",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "locator": {
+        "paragraph": 1,
+        "section": "Archaeological Evidence of Musical Instruments"
+      },
+      "reviewed_at": "2026-08-13T05:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "archaeological_names_and_chi_context",
+      "source_id": "web-met-music-art-china",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "locator": {
+        "page_end": 90,
+        "page_start": 87
+      },
+      "reviewed_at": "2026-08-12T18:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "performance_practice_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "locator": {
+        "paragraph": 1,
+        "section": "Construction and acoustics — Dizi"
+      },
+      "reviewed_at": "2026-08-12T18:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "orchestration_reference",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "locator": {
+        "paragraph": 1,
+        "section": "Tunings and Pitches"
+      },
+      "reviewed_at": "2026-08-12T18:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "tuning_and_notation_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "locator": {
+        "paragraph": 1,
+        "section": "Contextual Associations"
+      },
+      "reviewed_at": "2026-08-12T18:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_educational_history",
+      "source_id": "museum-grinnell-dizi-1533",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "locator": {
+        "page": 5
+      },
+      "reviewed_at": "2026-08-12T18:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "period_and_repertoire_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "locator": {
+        "paragraph": 1,
+        "section": "Abstract"
+      },
+      "reviewed_at": "2026-08-12T18:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "core_history_argument",
+      "source_id": "thesis-lau-dizi-1991",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "locator": {
+        "paragraph": 1,
+        "section": "Player - Instrument Interface and Sound Production"
+      },
+      "reviewed_at": "2026-08-12T18:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_playing_range_reference",
+      "source_id": "museum-grinnell-dizi-1533",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-12T18:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "acoustic_fingering_reference",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "locator": {
+        "paragraph": 1,
+        "section": "Range"
+      },
+      "reviewed_at": "2026-08-12T18:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "range_and_notation_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-schools",
+      "locator": {
+        "paragraph": 1,
+        "section": "Player - Instrument Interface and Sound Production"
+      },
+      "reviewed_at": "2026-08-12T18:40:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_style_overview",
+      "source_id": "museum-grinnell-dizi-1533",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-schools",
+      "locator": {
+        "page_end": 90,
+        "page_start": 88
+      },
+      "reviewed_at": "2026-08-12T18:40:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "core_regional_style_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-schools",
+      "locator": {
+        "paragraph": 1,
+        "section": "Qualities"
+      },
+      "reviewed_at": "2026-08-12T18:40:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "orchestration_style_reference",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-structure",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "structural_evidence",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-structure",
+      "locator": {
+        "page_end": 87,
+        "page_start": 86
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "structural_evidence",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-types",
+      "locator": {
+        "page": 2
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "classification_evidence",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-types",
+      "locator": {
+        "page_end": 90,
+        "page_start": 88
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "classification_evidence",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "core_evidence",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "locator": {
+        "page_end": 90,
+        "page_start": 86
+      },
+      "reviewed_at": "2026-08-12T18:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "core_evidence",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "locator": {
+        "page_end": 9,
+        "page_start": 2
+      },
+      "reviewed_at": "2026-08-13T06:10:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_measurement_modelling_and_synthesis_basis",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "locator": {
+        "field": "title; doi; journal"
+      },
+      "reviewed_at": "2026-08-13T06:10:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_modal_sound_synthesis_reference",
+      "source_id": "paper-taillard-modal-2018",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T06:10:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "technology_and_transmission_context",
+      "source_id": "paper-wang-titzu-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_repertoire_and_person_link",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "page_end": 192,
+        "page_start": 80
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "academic_biographical_and_repertoire_context",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "竹笛主奏與獨奏專業化"
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_professionalization_context",
+      "source_id": "web-ccom-press-performance-professionalization-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "紀念音樂會與研討會"
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "feng_zicun_commemoration_and_repertoire",
+      "source_id": "web-huain-feng-zicun-120-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究中心成立"
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "lu_chunling_research_center",
+      "source_id": "web-shcm-lu-chunling-center-2020",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "生平與藝術貢獻"
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "lu_chunling_institutional_biography",
+      "source_id": "web-shcm-lu-chunling-obituary-2018",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "中心成立及藝術成就"
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "zhao_songting_institutional_profile",
+      "source_id": "web-zjcm-zhao-songting-center-2015",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "趙松庭與他的《三五七》"
+      },
+      "reviewed_at": "2026-08-13T06:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "zhao_songting_repertoire_and_teaching",
+      "source_id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "Context"
+      },
+      "reviewed_at": "2026-08-13T06:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_museum_style_context",
+      "source_id": "museum-grinnell-dizi-1533",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "locator": {
+        "page_end": 192,
+        "page_start": 88
+      },
+      "reviewed_at": "2026-08-13T06:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_north_south_repertoire_and_style_analysis",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "Qualities — Bangdi; Qualities — Qudi"
+      },
+      "reviewed_at": "2026-08-13T06:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_instrument_timbre_and_context",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "生平與藝術貢獻"
+      },
+      "reviewed_at": "2026-08-13T06:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "jiangnan_person_and_institution_context",
+      "source_id": "web-shcm-lu-chunling-obituary-2018",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "中心成立及藝術成就"
+      },
+      "reviewed_at": "2026-08-13T06:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "zhejiang_and_cross_style_context",
+      "source_id": "web-zjcm-zhao-songting-center-2015",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T06:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_repertoire_list",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "locator": {
+        "page_end": 192,
+        "page_start": 115
+      },
+      "reviewed_at": "2026-08-13T06:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_repertoire_history_and_analysis",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "紀念音樂會與研討會"
+      },
+      "reviewed_at": "2026-08-13T06:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "specialist_feng_zicun_repertoire_context",
+      "source_id": "web-huain-feng-zicun-120-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "藝術生涯"
+      },
+      "reviewed_at": "2026-08-13T06:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_lu_chunling_version_context",
+      "source_id": "web-shcm-lu-chunling-obituary-2018",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "中心成立及藝術成就"
+      },
+      "reviewed_at": "2026-08-13T06:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_zhao_songting_repertoire_context",
+      "source_id": "web-zjcm-zhao-songting-center-2015",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "趙松庭與他的《三五七》"
+      },
+      "reviewed_at": "2026-08-13T06:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_san_wu_qi_history",
+      "source_id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T06:10:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_technique_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "locator": {
+        "page_end": 114,
+        "page_start": 107
+      },
+      "reviewed_at": "2026-08-13T06:10:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "performance_pedagogy_and_exercises",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T06:10:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_curriculum_content_analysis",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "Dizi performance practice, printed pages 34–36"
+      },
+      "reviewed_at": "2026-08-13T06:10:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_practical_learning_context",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T06:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_performance_technique_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T06:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "half_holing_variability",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "locator": {
+        "page_end": 114,
+        "page_start": 89
+      },
+      "reviewed_at": "2026-08-13T06:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_performance_practice_and_exercises",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T06:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "curriculum_sequence_analysis",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "Dizi performance practice, printed pages 34–36"
+      },
+      "reviewed_at": "2026-08-13T06:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_practical_manual",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "locator": {
+        "paragraph": 2,
+        "section": "Techniques — Dizi"
+      },
+      "reviewed_at": "2026-08-13T06:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "timbre_and_control_context",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "locator": {
+        "paragraph": 1,
+        "section": "Techniques"
+      },
+      "reviewed_at": "2026-08-13T06:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "orchestration_and_technique_constraints",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "locator": {
+        "paragraph": 1,
+        "section": "Historical background"
+      },
+      "reviewed_at": "2026-08-13T06:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "historical_transverse_flute_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "locator": {
+        "page_end": 9,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T06:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_modern_dizi_structure_and_flute_comparison",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "locator": {
+        "field": "title; medium; classification; objectDate"
+      },
+      "reviewed_at": "2026-08-13T06:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "late_qing_dizi_object_record",
+      "source_id": "source-met-dizi-500635",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "locator": {
+        "paragraph": 1,
+        "section": "Archaeological Evidence of Musical Instruments"
+      },
+      "reviewed_at": "2026-08-13T06:40:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "chi_and_archaeological_context",
+      "source_id": "web-met-music-art-china",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "locator": {
+        "paragraph": 1,
+        "section": "摘要；第一章 緒論"
+      },
+      "reviewed_at": "2026-08-13T08:50:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "academic_definition_repertoire_and_development_study",
+      "source_id": "thesis-pccu-dadi-2010",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "locator": {
+        "paragraph": 1,
+        "section": "竹笛的種類"
+      },
+      "reviewed_at": "2026-08-13T08:50:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "conservatory_account_of_register_timbre_and_orchestral_role",
+      "source_id": "web-shcm-dizi-types-2019",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "locator": {
+        "paragraph": 1,
+        "section": "笛子／戴亞"
+      },
+      "reviewed_at": "2026-08-13T08:50:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_public_institution_programme_confirmation",
+      "source_id": "pdf-ncpa-daiya-eight-hole-2016",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "locator": {
+        "paragraph": 1,
+        "section": "戴亞"
+      },
+      "reviewed_at": "2026-08-13T08:50:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_development_and_curriculum_record",
+      "source_id": "web-ccom-daiya-eight-hole-2023",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "locator": {
+        "paragraph": 3,
+        "section": "Physical description"
+      },
+      "reviewed_at": "2026-08-13T04:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_record_of_xingzhudi_and_keyed_design",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "locator": {
+        "page": 85
+      },
+      "reviewed_at": "2026-08-13T04:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "mid_century_keyed_design_history",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "locator": {
+        "paragraph": 1,
+        "section": "Qualities — Xindi"
+      },
+      "reviewed_at": "2026-08-13T04:10:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "orchestral_xindi_characteristics",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T08:50:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_transmission_and_social_context_study",
+      "source_id": "paper-wang-titzu-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "locator": {
+        "paragraph": 1,
+        "section": "Abstract"
+      },
+      "reviewed_at": "2026-08-13T08:50:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "academic_abstract_on_design_goals_and_artistic_character",
+      "source_id": "web-hqu-ten-hole-paper-2015",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "locator": {
+        "paragraph": 1,
+        "section": "川音十孔笛的歷史及發展"
+      },
+      "reviewed_at": "2026-08-13T08:50:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_history_curriculum_and_repertoire_case",
+      "source_id": "web-sccm-ten-hole-lecture-2007",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "locator": {
+        "paragraph": 1,
+        "section": "Physical description"
+      },
+      "reviewed_at": "2026-08-13T05:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_structure_and_instrument_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "locator": {
+        "page_end": 9,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T05:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_geometry_model_and_measurement",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "locator": {
+        "paragraph": 1,
+        "section": "Construction and acoustics — Dizi"
+      },
+      "reviewed_at": "2026-08-13T05:40:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_construction_and_tuning_context",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "locator": {
+        "paragraph": 1,
+        "section": "專家點評"
+      },
+      "reviewed_at": "2026-08-13T06:40:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "conflicting_scope_example",
+      "source_id": "museum-henan-jiahu-bone-flute",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "locator": {
+        "page_end": 9,
+        "page_start": 5
+      },
+      "reviewed_at": "2026-08-13T06:40:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "review_scope_and_measurement_limit_example",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "locator": {
+        "paragraph": 1,
+        "section": "Abstract"
+      },
+      "reviewed_at": "2026-08-13T06:40:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "cautious_language_example",
+      "source_id": "paper-nature-jiahu-flutes-1999",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-editorial-review",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T06:40:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "pedagogy_review_example",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "locator": {
+        "paragraph": 1,
+        "section": "藏品資料"
+      },
+      "reviewed_at": "2026-08-13T06:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "restricted_museum_page_example",
+      "source_id": "museum-henan-jiahu-bone-flute",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T06:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "open_access_fulltext_example",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "locator": {
+        "paragraph": 1,
+        "section": "Abstract"
+      },
+      "reviewed_at": "2026-08-13T06:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "restricted_abstract_example",
+      "source_id": "paper-nature-jiahu-flutes-1999",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "locator": {
+        "field": "objectID; title; medium"
+      },
+      "reviewed_at": "2026-08-13T06:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "open_collection_metadata_example",
+      "source_id": "source-met-dizi-500635",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "method-source-rights-citation",
+      "locator": {
+        "url": "https://www.youtube.com/watch?v=stLPWb0vJBk"
+      },
+      "reviewed_at": "2026-08-13T06:40:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "link_only_video_example",
+      "source_id": "video-youtube-stlpwb0vbjk",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "臺灣音樂群像資料庫"
+      },
+      "reviewed_at": "2026-08-13T08:50:08Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "authoritative_biography_chronology_and_innovation_profile",
+      "source_id": "web-cloudedu-chen-chung-shen-2020",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "音樂會資料"
+      },
+      "reviewed_at": "2026-08-13T08:50:08Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "cross_regional_hong_kong_performance_context",
+      "source_id": "web-hkgov-xiao-masters-2000",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "校友來訪"
+      },
+      "reviewed_at": "2026-08-13T08:50:08Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_university_alumni_achievement_record",
+      "source_id": "web-ntcu-chen-chung-shen-alumnus",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "陳中申副教授"
+      },
+      "reviewed_at": "2026-08-13T08:50:08Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_university_specialties_and_roles",
+      "source_id": "web-tnnua-chen-chung-shen-profile",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "講座系列；藝術家介紹"
+      },
+      "reviewed_at": "2026-08-13T08:50:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_public_education_and_aesthetic_context",
+      "source_id": "web-hkgov-tam-literature-2011",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "譚寶碩"
+      },
+      "reviewed_at": "2026-08-13T08:50:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_training_instrument_development_and_performance_profile",
+      "source_id": "web-hkgov-xiao-masters-2000",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "譚寶碩（洞簫）"
+      },
+      "reviewed_at": "2026-08-13T08:50:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_current_recording_publication_and_media_profile",
+      "source_id": "web-lcsd-tam-po-shek-profile",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "藝術家介紹"
+      },
+      "reviewed_at": "2026-08-13T08:50:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_institutional_artist_profile",
+      "source_id": "pdf-tianjin-juilliard-tang-2023",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "學術講座"
+      },
+      "reviewed_at": "2026-08-13T08:50:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "performance_practice_and_teaching_case",
+      "source_id": "web-sccm-tang-junqiao-2015",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "唐俊喬"
+      },
+      "reviewed_at": "2026-08-13T08:50:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_roles_output_and_project_profile",
+      "source_id": "web-shcm-tang-junqiao-profile",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "播放列表 05"
+      },
+      "reviewed_at": "2026-08-13T08:50:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "library_recording_performer_authority",
+      "source_id": "catalog-tsinghua-gusu-recording",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "活動報道；演出環節"
+      },
+      "reviewed_at": "2026-08-13T08:50:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "university_commemoration_and_langya_shenyun_context",
+      "source_id": "web-chzu-yu-xunfa-2026",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "曲目導賞"
+      },
+      "reviewed_at": "2026-08-13T08:50:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_alternative_koudi_date_account",
+      "source_id": "web-jssnu-yu-koudi-2020",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "locator": {
+        "paragraph": 2,
+        "section": "活動回顧"
+      },
+      "reviewed_at": "2026-08-13T08:50:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_account_of_koudi_and_repertoire",
+      "source_id": "web-wuxi-yu-xunfa-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "曾永清"
+      },
+      "reviewed_at": "2026-08-13T08:50:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "specialist_archive_chronology_and_career_profile",
+      "source_id": "archive-cma-zeng-yongqing-2023",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "音樂會報道"
+      },
+      "reviewed_at": "2026-08-13T08:50:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_repertoire_attribution",
+      "source_id": "web-ccom-zeng-qinchuan-2018",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "人物介紹"
+      },
+      "reviewed_at": "2026-08-13T08:50:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "lecture_record_for_training_and_teacher_lineage",
+      "source_id": "web-zjvaa-zeng-yongqing-2008",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "音樂會資料"
+      },
+      "reviewed_at": "2026-08-13T08:50:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "hong_kong_cross_regional_performance_context",
+      "source_id": "web-hkgov-xiao-masters-2000",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "人物介紹；講座內容"
+      },
+      "reviewed_at": "2026-08-13T08:50:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "training_repertoire_and_pedagogy_record",
+      "source_id": "web-sccm-zhang-weiliang-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "locator": {
+        "paragraph": 1,
+        "section": "名家簡介"
+      },
+      "reviewed_at": "2026-08-13T08:50:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_roles_ensemble_and_cultural_project_profile",
+      "source_id": "web-swu-zhang-weiliang-2021",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_technique_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "locator": {
+        "page_end": 110,
+        "page_start": 109
+      },
+      "reviewed_at": "2026-08-13T04:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "mechanism_notation_context_and_exercises",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "locator": {
+        "paragraph": 2,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "performance_practice_frequency",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "locator": {
+        "paragraph": 2,
+        "section": "Techniques — Dizi"
+      },
+      "reviewed_at": "2026-08-13T04:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "functional_definition",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "locator": {
+        "paragraph": 1,
+        "section": "作品結構"
+      },
+      "reviewed_at": "2026-08-13T04:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "documented_repertoire_use",
+      "source_id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "locator": {
+        "page_end": 112,
+        "page_start": 89
+      },
+      "reviewed_at": "2026-08-12T18:40:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "technique_and_notation_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "locator": {
+        "end_seconds": 67,
+        "start_seconds": 0
+      },
+      "reviewed_at": "2026-08-01T02:15:00Z",
+      "reviewed_by": "codex-browser-visual-review",
+      "role": "verified_demonstration",
+      "source_id": "video-youtube-stlpwb0vbjk",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "locator": {
+        "paragraph": 1,
+        "section": "Techniques — Tongueing"
+      },
+      "reviewed_at": "2026-08-12T18:40:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_technique_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "locator": {
+        "page_end": 111,
+        "page_start": 110
+      },
+      "reviewed_at": "2026-08-13T04:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "embouchure_elements_and_register_adjustment",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "locator": {
+        "paragraph": 2,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "breath_embouchure_and_holding_reference",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "locator": {
+        "paragraph": 2,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_technique_classification",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "locator": {
+        "page": 112
+      },
+      "reviewed_at": "2026-08-13T04:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "style_context_and_practice_syllable",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "curriculum_sequence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "locator": {
+        "paragraph": 3,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "modern_performance_context",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "locator": {
+        "paragraph": 1,
+        "section": "Techniques — Tongueing"
+      },
+      "reviewed_at": "2026-08-13T04:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "two_flutter_routes",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-12T18:40:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "acoustic_and_fingering_evidence",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "locator": {
+        "paragraph": 1,
+        "section": "Accidentals"
+      },
+      "reviewed_at": "2026-08-12T18:40:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "composer_practical_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:00:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "instrument_museum_technique_foundation",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "locator": {
+        "page": 109
+      },
+      "reviewed_at": "2026-08-13T04:00:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "dizi_breathing_practice",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:00:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "beginner_curriculum_sequence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "locator": {
+        "paragraph": 2,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:00:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "breath_mechanics",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T06:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_technique_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "locator": {
+        "page_end": 173,
+        "page_start": 172
+      },
+      "reviewed_at": "2026-08-13T06:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "primary_ornament_definition_and_repertoire_context",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T06:40:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "curriculum_ornament_presence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "locator": {
+        "paragraph": 2,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_technique_classification",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "locator": {
+        "page_end": 112,
+        "page_start": 111
+      },
+      "reviewed_at": "2026-08-13T04:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "notation_syllables_and_quality_criteria",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "beginner_curriculum_prevalence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "locator": {
+        "paragraph": 3,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "modern_and_older_style_context",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "locator": {
+        "paragraph": 1,
+        "section": "Techniques — Tongueing"
+      },
+      "reviewed_at": "2026-08-13T04:00:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "orchestration_feasibility",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-slide",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_fingering_technique_classification",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-slide",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "curriculum_ornament_presence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-slide",
+      "locator": {
+        "paragraph": 2,
+        "section": "Techniques — Vibrati and Glissandi"
+      },
+      "reviewed_at": "2026-08-13T04:10:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "feasibility_types_and_pipe_note_constraint",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-trill",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:10:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_technique_classification",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-trill",
+      "locator": {
+        "page_end": 113,
+        "page_start": 112
+      },
+      "reviewed_at": "2026-08-13T04:10:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "quality_style_entry_and_practice",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-trill",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:10:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "beginner_material_presence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "locator": {
+        "paragraph": 2,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_technique_classification",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "locator": {
+        "page": 112
+      },
+      "reviewed_at": "2026-08-13T04:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "notation_syllables_and_bangdi_context",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "curriculum_sequence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "locator": {
+        "paragraph": 3,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "modern_performance_context",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "locator": {
+        "paragraph": 1,
+        "section": "Techniques — Tongueing"
+      },
+      "reviewed_at": "2026-08-13T04:00:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "orchestration_feasibility",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_technique_context",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "locator": {
+        "page": 114
+      },
+      "reviewed_at": "2026-08-13T04:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "expressive_function_and_air_trill_distinction",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "curriculum_sequence",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "locator": {
+        "paragraph": 2,
+        "section": "Techniques — Dizi"
+      },
+      "reviewed_at": "2026-08-13T04:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "breath_and_finger_control",
+      "source_id": "web-actor-chinese-orchestra-winds",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "locator": {
+        "paragraph": 1,
+        "section": "Techniques — Vibrati and Glissandi"
+      },
+      "reviewed_at": "2026-08-13T04:10:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "pitch_amplitude_and_speed_dimensions",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "locator": {
+        "paragraph": 1,
+        "section": "327 CD10（笛子）"
+      },
+      "reviewed_at": "2026-08-13T06:55:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_recording_catalogue",
+      "source_id": "catalog-ccom-chinese-instrumental-collection-2008",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "locator": {
+        "paragraph": 1,
+        "section": "播放列表 05"
+      },
+      "reviewed_at": "2026-08-13T06:55:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "recording_catalogue",
+      "source_id": "catalog-tsinghua-gusu-recording",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "locator": {
+        "page_end": 173,
+        "page_start": 172
+      },
+      "reviewed_at": "2026-08-13T06:55:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "composition_material_form_technique_and_setup",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "locator": {
+        "paragraph": 3,
+        "section": "演出報道"
+      },
+      "reviewed_at": "2026-08-13T06:55:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_attribution_and_programme_note",
+      "source_id": "web-tsinghua-gusu-xing",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "locator": {
+        "paragraph": 1,
+        "section": "327 CD9（笛子）"
+      },
+      "reviewed_at": "2026-08-13T06:55:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "recording_authorship_arrangement_and_performance_catalogue",
+      "source_id": "catalog-ccom-chinese-instrumental-collection-2008",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "locator": {
+        "page_end": 165,
+        "page_start": 163
+      },
+      "reviewed_at": "2026-08-13T06:55:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "composition_material_form_technique_and_setup",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "locator": {
+        "paragraph": 2,
+        "section": "音樂會報道"
+      },
+      "reviewed_at": "2026-08-13T06:55:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_institutional_programme_context",
+      "source_id": "web-ahnu-mumin-xinge-2017",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "locator": {
+        "line": 38,
+        "page": 2
+      },
+      "reviewed_at": "2026-08-13T06:55:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_national_education_repertoire_record",
+      "source_id": "pdf-mct-youth-repertoire-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "locator": {
+        "paragraph": 1,
+        "section": "3、《帕米爾的春天》"
+      },
+      "reviewed_at": "2026-08-13T06:55:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "authorship_wording_material_character_and_programme",
+      "source_id": "web-ccom-pamier-album-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_conservatory_attribution",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "locator": {
+        "page": 138
+      },
+      "reviewed_at": "2026-08-13T03:00:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_regional_and_biographical_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "locator": {
+        "paragraph": 1,
+        "section": "紀念音樂會"
+      },
+      "reviewed_at": "2026-08-13T03:00:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_representative_status",
+      "source_id": "web-zjcm-zhao-songting-center-2015",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "locator": {
+        "paragraph": 1,
+        "section": "作品結構"
+      },
+      "reviewed_at": "2026-08-13T03:00:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "wuju_origin_form_and_technique",
+      "source_id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_conservatory_attribution",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "locator": {
+        "page_end": 144,
+        "page_start": 142
+      },
+      "reviewed_at": "2026-08-13T03:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "provenance_form_and_technique_analysis",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "locator": {
+        "paragraph": 1,
+        "section": "人物與作品概述"
+      },
+      "reviewed_at": "2026-08-13T03:00:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "arranger_legacy_context",
+      "source_id": "web-huain-feng-zicun-120-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "current_conservatory_attribution",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "locator": {
+        "page_end": 156,
+        "page_start": 155
+      },
+      "reviewed_at": "2026-08-13T03:00:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "origin_form_technique_and_setup",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "locator": {
+        "paragraph": 6,
+        "section": "紀念音樂會"
+      },
+      "reviewed_at": "2026-08-13T03:00:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "documented_contemporary_reception",
+      "source_id": "web-huain-feng-zicun-120-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "locator": {
+        "page_end": 167,
+        "page_start": 166
+      },
+      "reviewed_at": "2026-08-13T06:55:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "melodic_source_form_technique_and_setup",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "locator": {
+        "paragraph": 1,
+        "section": "曲目介紹"
+      },
+      "reviewed_at": "2026-08-13T06:55:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_creation_date_style_and_programme",
+      "source_id": "web-xust-yangbian-2023",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "locator": {
+        "paragraph": 1,
+        "section": "327 CD10（笛子）"
+      },
+      "reviewed_at": "2026-08-13T06:55:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "institutional_recording_attribution",
+      "source_id": "catalog-ccom-chinese-instrumental-collection-2008",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "locator": {
+        "page_end": 147,
+        "page_start": 146
+      },
+      "reviewed_at": "2026-08-13T06:55:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "origin_form_techniques_setup_and_reported_history",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "locator": {
+        "paragraph": 1,
+        "section": "專輯選曲"
+      },
+      "reviewed_at": "2026-08-13T06:55:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_performer_style_classification",
+      "source_id": "web-ccom-zhushi-interview-2022",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-zaochen",
+      "locator": {
+        "page_end": 176,
+        "page_start": 175
+      },
+      "reviewed_at": "2026-08-13T06:55:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "composition_form_technique_and_setup",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-zaochen",
+      "locator": {
+        "paragraph": 1,
+        "section": "專訪：內部創新與外部創新"
+      },
+      "reviewed_at": "2026-08-13T06:55:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_performer_account_of_style_fusion",
+      "source_id": "web-ccom-zhushi-interview-2022",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "locator": {
+        "page": 1
+      },
+      "reviewed_at": "2026-08-13T03:00:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "version_distinction_in_current_syllabus",
+      "source_id": "pdf-xacom-dizi-repertoire-2025",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "locator": {
+        "page": 174
+      },
+      "reviewed_at": "2026-08-13T03:00:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "early_source_lu_version_and_performance_analysis",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "locator": {
+        "paragraph": 1,
+        "section": "原訂音樂會"
+      },
+      "reviewed_at": "2026-08-13T03:00:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "lu_repertoire_institutional_record",
+      "source_id": "web-shcm-lu-chunling-obituary-2018",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "locator": {
+        "paragraph": 1,
+        "section": "紀念音樂會"
+      },
+      "reviewed_at": "2026-08-13T03:00:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "zhao_version_institutional_record",
+      "source_id": "web-zjcm-zhao-songting-center-2015",
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

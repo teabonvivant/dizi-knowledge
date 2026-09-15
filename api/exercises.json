@@ -1,0 +1,448 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "duration_minutes": 10,
+      "id": "exercise-beginner-baseline-five",
+      "instructions_markdown": "選一個舒適音，連吹五次四拍長音，每次休息四拍。前三次保持設定不變，後兩次只微調笛身角度或氣流方向其中一項。記錄每次有沒有清楚音頭、穩定核心和自然收音。",
+      "lesson_id": "lesson-beginner",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "thesis-pimentel-woodwind-doubling-2009"
+      ],
+      "success_criteria": [
+        "五次都有錄音或逐次紀錄",
+        "能指出唯一的改動及其可聽結果",
+        "沒有靠抬肩、夾喉或疼痛換取聲音"
+      ],
+      "technique_id": "embouchure",
+      "tempo_start": 48,
+      "tempo_target": 60,
+      "title": "五次發聲基線",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 15,
+      "id": "exercise-beginner-finger-rhythm-separate",
+      "instructions_markdown": "選八小節以內的旋律，第一輪只拍手讀拍，第二輪不吹氣、默按指法，第三輪才合併。三輪都標出首次出錯的位置，再判斷問題屬於節奏、指序還是氣流。",
+      "lesson_id": "lesson-beginner",
+      "source_ids": [
+        "thesis-chang-dizi-textbook-2024"
+      ],
+      "success_criteria": [
+        "三輪都保留錯誤位置記錄",
+        "能把至少一個錯誤歸入節奏或指法",
+        "合併輪即使出現錯音也不停止，並能維持拍點"
+      ],
+      "technique_id": "",
+      "tempo_start": 48,
+      "tempo_target": 72,
+      "title": "節奏、指法、吹奏三輪分拆",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 12,
+      "id": "exercise-beginner-longtone-ladder",
+      "instructions_markdown": "選四至六個舒適音，每音先吹四拍；連續三次音量和音高方向都穩定後，才延長兩拍，最多八拍。末段塌陷時退回上一級，不要靠憋氣完成。",
+      "lesson_id": "lesson-beginner",
+      "source_ids": [
+        "museum-wesleyan-di-2005",
+        "thesis-chang-dizi-textbook-2024",
+        "thesis-chai-dizi-2014"
+      ],
+      "success_criteria": [
+        "每個音都有起音、持續和收音記錄",
+        "至少四個音連續三次達到所選拍數",
+        "延長拍數後仍能自然吸氣，沒有不適"
+      ],
+      "technique_id": "long-tone",
+      "tempo_start": 48,
+      "tempo_target": 60,
+      "title": "四至八拍長音階梯",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 20,
+      "id": "exercise-beginner-piece-checkpoint",
+      "instructions_markdown": "把同一首短曲完整錄兩次，途中不要因錯音停止。完成後按拍點、音色核心、起音一致、指法密合和樂句完整五項，各寫一句證據，再選一項作為下一週目標。",
+      "lesson_id": "lesson-beginner",
+      "source_ids": [
+        "thesis-chang-dizi-textbook-2024",
+        "thesis-chai-dizi-2014"
+      ],
+      "success_criteria": [
+        "兩次都有完整錄音",
+        "五項評量都有具體時間點或小節作證",
+        "下一步只選一個可操作目標"
+      ],
+      "technique_id": "",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "初級短曲畢業檢核",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 12,
+      "id": "exercise-beginner-single-legato-pairs",
+      "instructions_markdown": "同一個四音音型先連奏四次，再每音單吐四次，最後做兩連兩吐。用慢速錄音比較音頭、拍點、音高和音量；若吐音令音色明顯改變，便回到單音。",
+      "lesson_id": "lesson-beginner",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "thesis-chang-dizi-textbook-2024",
+        "museum-wesleyan-di-2005"
+      ],
+      "success_criteria": [
+        "三種奏法各完成兩次不中斷的版本",
+        "單吐音頭清楚而拍點均勻",
+        "能指出連音與吐音的一項可聽差異"
+      ],
+      "technique_id": "single-tonguing",
+      "tempo_start": 52,
+      "tempo_target": 76,
+      "title": "連音與單吐對照",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 5,
+      "id": "exercise-errors-care-log",
+      "instructions_markdown": "連續七天在練習後記錄有沒有抹乾、收盒和避開日曬，並查看裂紋、接頭是否順暢、笛膜邊緣及異味。只記錄觀察，不要強行拆開卡死的接頭；發現霉斑、裂損或明顯變形，便停止使用。",
+      "lesson_id": "lesson-common-errors",
+      "source_ids": [
+        "web-lcsd-dizi-maintenance",
+        "web-parsons-dizi-maintenance-2022"
+      ],
+      "success_criteria": [
+        "七天中至少完成六天紀錄",
+        "每次都勾選抹乾、收盒及避開日曬",
+        "任何異常都有日期、位置及是否停止使用的記錄"
+      ],
+      "technique_id": "",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "七天環境與接頭紀錄",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 8,
+      "id": "exercise-errors-dimo-check",
+      "instructions_markdown": "迎光觀察笛膜有沒有穿孔、脫膠、過平或過鬆，不要用手碰膜面。用同一個穩定音做三次短測試，記下是否完全不振、雜聲不穩或突然破裂；沒有教師在場時，不要自行重貼。",
+      "lesson_id": "lesson-common-errors",
+      "source_ids": [
+        "paper-luan-dizi-2024",
+        "web-vico-dizi-resource"
+      ],
+      "success_criteria": [
+        "觀察過程沒有碰到膜面",
+        "能用固定的三類描述記錄症狀",
+        "若判斷需要更換，能停止測試並標記日期"
+      ],
+      "technique_id": "dimo-attachment",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "笛膜狀態觀察",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 12,
+      "id": "exercise-errors-halfhole",
+      "instructions_markdown": "先吹完整開閉孔的上下鄰音，再吹目標半孔音五次；每次都和同一參考音比較，只記偏高、偏低或接近，五次之間不要改變口風。完成後，才決定調整開孔面積，還是先練習手指重現。",
+      "lesson_id": "lesson-common-errors",
+      "source_ids": [
+        "paper-luan-dizi-2024",
+        "web-vico-dizi-resource"
+      ],
+      "success_criteria": [
+        "五次都使用同一參考音和相近氣流",
+        "五次結果都有偏高、偏低或接近的紀錄",
+        "能按偏差是否同向選擇下一步"
+      ],
+      "technique_id": "half-holing",
+      "tempo_start": 40,
+      "tempo_target": 56,
+      "title": "半孔五次重現測試",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 15,
+      "id": "exercise-errors-isolate-sound",
+      "instructions_markdown": "固定同一個空孔或舒適指法，先錄下原始嘗試。之後依次只測一項：吹孔對位、笛身角度、氣流方向或單一手指密合；每項做五次並記錄成功次數，測完前不要更換笛膜或拆開接頭。",
+      "lesson_id": "lesson-common-errors",
+      "source_ids": [
+        "paper-luan-dizi-2024",
+        "museum-grinnell-dizi-1533"
+      ],
+      "success_criteria": [
+        "紀錄包括原始症狀及每次唯一的改動",
+        "每個變項都測試五次",
+        "能指出成功率最高的一項改動，或清楚記錄仍未定位"
+      ],
+      "technique_id": "embouchure",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "無聲問題單變項排查",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 15,
+      "id": "exercise-30days-month-review",
+      "instructions_markdown": "用和第 1 週完全相同的三個音、兩音換指、錄音距離及約三十秒長度再錄一次。盲聽兩段錄音，按聲音連貫性、節拍、換指雜聲和身體感受，分別記 0 至 2 分。",
+      "lesson_id": "lesson-first-30-days",
+      "source_ids": [
+        "web-vico-dizi-resource",
+        "web-lcsd-dizi-maintenance"
+      ],
+      "success_criteria": [
+        "兩段錄音使用相同材料及相近錄音條件",
+        "四項指標都有文字或數字紀錄",
+        "下一個月只選一至兩項具體目標"
+      ],
+      "technique_id": "",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "第 30 天同材料比較",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 15,
+      "id": "exercise-30days-week1-baseline",
+      "instructions_markdown": "選三個已能穩定發出的音，每音吹兩至四秒，再做一次兩音換指，錄一段約三十秒的片段。檔名寫上日期、笛調和筒音唱名系統；同一週其餘日子沿用相同材料。",
+      "lesson_id": "lesson-first-30-days",
+      "source_ids": [
+        "web-vico-dizi-resource"
+      ],
+      "success_criteria": [
+        "三個音各維持至少兩秒",
+        "錄音檔名或紀錄寫有日期、笛調及筒音唱名",
+        "能指出一項最常出現的問題，沒有同時設定多於一項改動"
+      ],
+      "technique_id": "embouchure",
+      "tempo_start": 48,
+      "tempo_target": 60,
+      "title": "第 1 週基準錄音",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 15,
+      "id": "exercise-30days-week2-fingering",
+      "instructions_markdown": "先用完整開閉孔吹兩個相鄰自然音，各做三次上行和下行；穩定後才加入一個經教師或可靠指法表確認的半音。完整孔和半孔分開錄音，避免把漏孔當成半孔。",
+      "lesson_id": "lesson-first-30-days",
+      "source_ids": [
+        "web-vico-dizi-resource"
+      ],
+      "success_criteria": [
+        "完整開閉孔音型連續三輪沒有停頓",
+        "能說明所用半音是半孔、叉指還是口風調整",
+        "五次半音測試中至少四次的偏差方向一致"
+      ],
+      "technique_id": "half-holing",
+      "tempo_start": 48,
+      "tempo_target": 66,
+      "title": "第 2 週鄰音與半音分離練習",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 12,
+      "id": "exercise-30days-week3-single",
+      "instructions_markdown": "在一個舒適音上，以每拍一音吹四個等長短音，休息一拍後重複。能維持八組後，才加入兩音換指；若末音縮短或變弱，便減為每組兩音。",
+      "lesson_id": "lesson-first-30-days",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "web-vico-dizi-resource"
+      ],
+      "success_criteria": [
+        "連續八組都保持四個可辨認的起音",
+        "每組末音沒有明顯短於首音",
+        "練習後肩頸和下顎仍然放鬆"
+      ],
+      "technique_id": "single-tonguing",
+      "tempo_start": 52,
+      "tempo_target": 72,
+      "title": "第 3 週四音單吐",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 12,
+      "id": "exercise-30days-week4-double",
+      "instructions_markdown": "先不拿竹笛，用兩個交替音節做八組二音；再在一個穩定音上吹二音一組。只有前後起音接近時才加速，每次最多增加每分鐘四拍。",
+      "lesson_id": "lesson-first-30-days",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "video-youtube-stlpwb0vbjk"
+      ],
+      "success_criteria": [
+        "八組中至少六組的前後起音音量相近",
+        "第二個音沒有連續三次縮短",
+        "升速前能以目前速度連續完成兩輪"
+      ],
+      "technique_id": "double-tonguing",
+      "tempo_start": 48,
+      "tempo_target": 64,
+      "title": "第 4 週慢速雙吐準備",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 5,
+      "id": "exercise-intermediate-circular-prep",
+      "instructions_markdown": "先不用竹笛，以吸管和水測試口腔存氣維持氣泡，同時經鼻吸氣。能放鬆完成後，才轉到短時間單音；每次不超過五分鐘，出現耳壓、頭暈或呼吸不適便立即停止。",
+      "lesson_id": "lesson-intermediate",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "museum-wesleyan-di-2005",
+        "thesis-pimentel-woodwind-doubling-2009"
+      ],
+      "success_criteria": [
+        "能分開描述口腔送氣和鼻吸氣兩個動作",
+        "轉到樂器前能維持不中斷的氣泡",
+        "全程沒有疼痛、頭暈或強行延長"
+      ],
+      "technique_id": "circular-breathing",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "循環換氣選修分解",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 40,
+      "id": "exercise-intermediate-four-week-portfolio",
+      "instructions_markdown": "選一首適合自己的作品，再挑一項技術難點：第一週錄基線及三個問題，第二週保留分解練習，第三週放回樂句，第四週錄完整版本。另比較兩個可靠版本的速度、呼吸、吐奏和裝飾。",
+      "lesson_id": "lesson-intermediate",
+      "source_ids": [
+        "thesis-chang-dizi-textbook-2024",
+        "thesis-chai-dizi-2014",
+        "web-vico-dizi-resource"
+      ],
+      "success_criteria": [
+        "四週都有日期、錄音及譜面註記",
+        "版本比較至少列出三項可觀察差異",
+        "結論能分開來源事實、自己的聽辨和演奏選擇"
+      ],
+      "technique_id": "",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "四週作品專題檔案",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 18,
+      "id": "exercise-intermediate-ornament-context",
+      "instructions_markdown": "選四小節旋律，先錄無裝飾版本，再分別加入最小幅度的顫音、滑音或震音。每個版本寫下裝飾位置、機理和音樂用途；說不出用途的裝飾，便保留原句。",
+      "lesson_id": "lesson-intermediate",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "web-vico-dizi-resource",
+        "museum-wesleyan-di-2005"
+      ],
+      "success_criteria": [
+        "至少三個版本都有錄音及譜面標註",
+        "能分辨顫音、滑音和震音的不同機理",
+        "每項保留的裝飾都有可檢查的風格理由"
+      ],
+      "technique_id": "trill",
+      "tempo_start": 48,
+      "tempo_target": 72,
+      "title": "裝飾前後與風格理由",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 15,
+      "id": "exercise-intermediate-register-bridge",
+      "instructions_markdown": "選一組跨越熟悉音區邊界的四音上行和四音下行，先逐音長奏，再四音連奏。每一輪只改風門、氣流速度或方向其中一項，標出跨界前後的音量和音色差異。",
+      "lesson_id": "lesson-intermediate",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "thesis-pimentel-woodwind-doubling-2009"
+      ],
+      "success_criteria": [
+        "上行和下行各有兩次完整錄音",
+        "能指出唯一的調整變項",
+        "跨界音沒有靠突然加大音量取得"
+      ],
+      "technique_id": "embouchure",
+      "tempo_start": 48,
+      "tempo_target": 72,
+      "title": "跨音區四音橋",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 20,
+      "id": "exercise-intermediate-tonguing-matrix",
+      "instructions_markdown": "把同一音、二音交替和短音階三種材料，分別用單吐、雙吐和三吐練習。每格先錄慢速兩次，音頭、拍點和音量一致後才提高四拍；若手指和舌頭不同步，便分拆處理。",
+      "lesson_id": "lesson-intermediate",
+      "source_ids": [
+        "thesis-chai-dizi-2014",
+        "web-vico-dizi-resource",
+        "thesis-chang-dizi-textbook-2024"
+      ],
+      "success_criteria": [
+        "九格都有起始速度和結果",
+        "每次加速都有兩次慢速達標作依據",
+        "能判斷失誤主要來自舌頭還是手指"
+      ],
+      "technique_id": "triple-tonguing",
+      "tempo_start": 48,
+      "tempo_target": 88,
+      "title": "單雙三吐九格矩陣",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 5,
+      "id": "exercise-first-contact-care",
+      "instructions_markdown": "練習完用軟布抹去吹孔附近水氣，避開笛膜；確認沒有碰到膜面後，把竹笛放回笛袋或盒，再放到遠離窗邊、日照和熱源的位置。請同伴或教師照清單核對一次。",
+      "lesson_id": "lesson-first-contact",
+      "source_ids": [
+        "web-lcsd-dizi-maintenance"
+      ],
+      "success_criteria": [
+        "吹孔附近沒有可見水氣",
+        "笛膜沒有被清潔工具碰到",
+        "樂器已放入笛袋或盒，並遠離直接日曬"
+      ],
+      "technique_id": "",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "吹奏後保養清單",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 5,
+      "id": "exercise-first-contact-map",
+      "instructions_markdown": "把竹笛平放在軟墊上，先不要碰笛膜。依次找出吹孔、膜孔、六個按音孔、近端和遠端，並用一句話說明吹孔、膜孔和按音孔各自的功能。最後拍一張只供自己檢查的標記照片。",
+      "lesson_id": "lesson-first-contact",
+      "source_ids": [
+        "paper-luan-dizi-2024",
+        "museum-grinnell-dizi-1533"
+      ],
+      "success_criteria": [
+        "在沒有提示下正確指出吹孔、膜孔及六個按音孔",
+        "沒有用手指按壓或刮擦笛膜",
+        "能說出膜孔位於吹孔和第一按音孔之間"
+      ],
+      "technique_id": "",
+      "tempo_start": null,
+      "tempo_target": null,
+      "title": "孔位與功能配對",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "duration_minutes": 10,
+      "id": "exercise-first-contact-sound",
+      "instructions_markdown": "用空孔或教師指定的舒適指法，每次吹兩至三秒，之後休息並自然呼吸。若未成功，每一輪只微調笛身角度或氣流方向其中一項；總練習不超過十分鐘。",
+      "lesson_id": "lesson-first-contact",
+      "source_ids": [
+        "paper-luan-dizi-2024",
+        "museum-grinnell-dizi-1533"
+      ],
+      "success_criteria": [
+        "五次嘗試至少三次出現可辨認音高",
+        "三次成功發聲各維持至少兩秒",
+        "練習期間沒有頭暈、胸悶或頸肩疼痛"
+      ],
+      "technique_id": "embouchure",
+      "tempo_start": 48,
+      "tempo_target": 60,
+      "title": "三次短而穩定發聲",
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

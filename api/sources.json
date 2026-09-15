@@ -1,0 +1,5391 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "authors": [
+        "中國民族音樂資料館"
+      ],
+      "canonical_url": "https://chinesemusics.com/zh_cn/2023/08/31/%E6%9B%BE%E6%B0%B8%E6%B8%85/",
+      "citation": {
+        "canonical_url": "https://chinesemusics.com/zh_cn/2023/08/31/%E6%9B%BE%E6%B0%B8%E6%B8%85/",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "archive-cma-zeng-yongqing-2023",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2023-08-31",
+      "publisher": "中國民族音樂資料館 Chinese Music Archive",
+      "regions": [
+        "china",
+        "tianjin",
+        "beijing"
+      ],
+      "rights": {
+        "evidence_url": "https://chinesemusics.com/zh_cn/2023/08/31/%E6%9B%BE%E6%B0%B8%E6%B8%85/",
+        "fulltext_storage_allowed": false,
+        "license": "Specialist archive profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/chinese-music-archive-zeng-yongqing.html",
+      "slug": "chinese-music-archive-zeng-yongqing",
+      "source_grade": "A2",
+      "source_type": "expert_profile",
+      "title": "曾永清（ZENG Yong-qing）",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "north-school",
+        "modern-professionalization",
+        "repertoire"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.79,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "中央音樂學院圖書館"
+      ],
+      "canonical_url": "https://opac.library.ccom.edu.cn/opac/show_format_marc.php?marc_no=006152635031003752365567563606600335016c",
+      "citation": {
+        "canonical_url": "https://opac.library.ccom.edu.cn/opac/show_format_marc.php?marc_no=006152635031003752365567563606600335016c",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "catalog-ccom-chinese-instrumental-collection-2008",
+      "identifiers": {
+        "isbn": "9787799310848",
+        "isrc": "CN-E02-08-323-00",
+        "record_number": "0000164280"
+      },
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "2008",
+      "publisher": "中央音樂學院圖書館",
+      "regions": [
+        "china",
+        "north-china",
+        "south-china"
+      ],
+      "rights": {
+        "evidence_url": "https://opac.library.ccom.edu.cn/opac/show_format_marc.php?marc_no=006152635031003752365567563606600335016c",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory library MARC catalogue; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ccom-library-chinese-instrumental-collection-2008.html",
+      "slug": "ccom-library-chinese-instrumental-collection-2008",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "中國民族器樂典藏：中央音樂學院圖書館 MARC 記錄",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "repertoire",
+        "traditional-solo",
+        "recordings",
+        "north-school",
+        "south-school",
+        "people",
+        "composers",
+        "performers",
+        "libraries"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "清華大學圖書館音樂圖書館"
+      ],
+      "canonical_url": "https://music.lib.tsinghua.edu.cn/index.php?a=show&c=index&catid=24&id=2501&m=content",
+      "citation": {
+        "canonical_url": "https://music.lib.tsinghua.edu.cn/index.php?a=show&c=index&catid=24&id=2501&m=content",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "catalog-tsinghua-gusu-recording",
+      "identifiers": {
+        "asset_number": "C3153531X",
+        "isbn": "978-7-88792-035-5"
+      },
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "清華大學圖書館",
+      "regions": [
+        "china",
+        "south-china",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://music.lib.tsinghua.edu.cn/index.php?a=show&c=index&catid=24&id=2501&m=content",
+        "fulltext_storage_allowed": false,
+        "license": "Official university library catalogue; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/tsinghua-music-library-gusu-xing-recording.html",
+      "slug": "tsinghua-music-library-gusu-xing-recording",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "音樂中國：獨奏（CD1）館藏記錄",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "repertoire",
+        "traditional-solo",
+        "recordings",
+        "south-school",
+        "people",
+        "composers",
+        "performers",
+        "libraries"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Roger Vetter",
+        "Toby Austin"
+      ],
+      "canonical_url": "https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1533",
+      "citation": {
+        "canonical_url": "https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1533",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "museum-grinnell-dizi-1533",
+      "identifiers": {
+        "omeka_item": "1533"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "han",
+        "tang",
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "Grinnell College Musical Instrument Collection / Grinnell College Libraries",
+      "regions": [
+        "china",
+        "north-china",
+        "south-china",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1533",
+        "fulltext_storage_allowed": false,
+        "license": "Educational collection record; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/grinnell-college-musical-instrument-collection-dizi.html",
+      "slug": "grinnell-college-musical-instrument-collection-dizi",
+      "source_grade": "A1",
+      "source_type": "museum_record",
+      "title": "dizi",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "歷史與文化",
+        "樂器分類",
+        "樂器結構與製作",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "history",
+        "instruments",
+        "making",
+        "people",
+        "regional-styles",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "instruments",
+        "dizi",
+        "bangdi",
+        "history",
+        "modern-professionalization",
+        "regional-styles",
+        "north-school",
+        "south-school",
+        "making",
+        "bore",
+        "finger-holes",
+        "membrane-hole",
+        "cork",
+        "vent-holes",
+        "acoustics",
+        "pitch-range",
+        "membrane-vibration",
+        "techniques",
+        "overblowing",
+        "repertoire",
+        "chinese-orchestra",
+        "opera",
+        "jiangnan-sizhu",
+        "people",
+        "performers",
+        "conservatory-history"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "河南博物院",
+        "張居中（專家點評）"
+      ],
+      "canonical_url": "https://www.chnmus.net/ch/collection/treasure/details.html?id=508164979145447651",
+      "citation": {
+        "canonical_url": "https://www.chnmus.net/ch/collection/treasure/details.html?id=508164979145447651",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "museum-henan-jiahu-bone-flute",
+      "identifiers": {
+        "collection_record": "508164979145447651",
+        "excavation_context": "M282"
+      },
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "neolithic"
+      ],
+      "publication_date": "",
+      "publisher": "河南博物院",
+      "regions": [
+        "china",
+        "henan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.chnmus.net/ch/collection/treasure/details.html?id=508164979145447651",
+        "fulltext_storage_allowed": false,
+        "license": "Official museum collection record; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/henan-museum-jiahu-bone-flute.html",
+      "slug": "henan-museum-jiahu-bone-flute",
+      "source_grade": "A1",
+      "source_type": "museum_record",
+      "title": "賈湖骨笛",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器結構與製作",
+        "人物與機構"
+      ],
+      "top_level_topics": [
+        "history",
+        "making",
+        "people"
+      ],
+      "topics": [
+        "history",
+        "origins-archaeology",
+        "historical-forms",
+        "museums",
+        "hole-spacing"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T04:40:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Po-Wei Weng"
+      ],
+      "canonical_url": "https://wesomeka.wesleyan.edu/vim2/items/show/49",
+      "citation": {
+        "canonical_url": "https://wesomeka.wesleyan.edu/vim2/items/show/49",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "museum-wesleyan-di-2005",
+      "identifiers": {
+        "omeka_item": "49"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "zhou",
+        "han",
+        "tang",
+        "song",
+        "ming",
+        "qing",
+        "republic",
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "2005",
+      "publisher": "Wesleyan University Virtual Instrument Museum 2.0",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://wesomeka.wesleyan.edu/vim2/items/show/49",
+        "fulltext_storage_allowed": false,
+        "license": "University museum record; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/wesleyan-virtual-instrument-museum-di.html",
+      "slug": "wesleyan-virtual-instrument-museum-di",
+      "source_grade": "A1",
+      "source_type": "museum_record",
+      "title": "Di",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "樂器結構與製作",
+        "教學與學習",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "making",
+        "teaching",
+        "techniques"
+      ],
+      "topics": [
+        "instruments",
+        "dizi",
+        "xindi",
+        "eleven-hole-dizi",
+        "keyed-dizi",
+        "history",
+        "ancient-texts",
+        "historical-forms",
+        "dimo-history",
+        "modern-professionalization",
+        "techniques",
+        "long-tone",
+        "single-tonguing",
+        "double-tonguing",
+        "triple-tonguing",
+        "flutter-tonguing",
+        "vibrato",
+        "circular-breathing",
+        "slide",
+        "portamento",
+        "trill",
+        "half-holing",
+        "tuning"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T03:20:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Yuwei Liang",
+        "Lan He",
+        "Liang Zhang",
+        "Haiyang Zhang",
+        "Guizhang Jiang",
+        "Ruizhe Liu",
+        "Zhenbo Liu"
+      ],
+      "canonical_url": "https://www.mdpi.com/1996-1944/18/23/5335",
+      "citation": {
+        "canonical_url": "https://www.mdpi.com/1996-1944/18/23/5335",
+        "page_aware": false
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "paper-bamboo-heat-mechanism-2025",
+      "identifiers": {
+        "doi": "10.3390/ma18235335"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2025",
+      "publisher": "Materials",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://doi.org/10.3390/ma18235335",
+        "fulltext_storage_allowed": true,
+        "license": "CC BY 4.0",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-bamboo-heat-mechanism-2025.html",
+      "slug": "paper-bamboo-heat-mechanism-2025",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Mechanism by Which Heat Treatment Influences the Acoustic Vibration Characteristics of Bamboo",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "making"
+      ],
+      "topics": [
+        "making",
+        "bamboo-selection",
+        "traditional-making",
+        "modern-making",
+        "acoustics",
+        "quality-control"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "ROBOTS_UNKNOWN"
+    },
+    {
+      "authors": [
+        "Yuwei Liang",
+        "Lan He",
+        "Liang Zhang",
+        "Haiyang Zhang",
+        "Guizhang Jiang",
+        "Ruizhe Liu",
+        "Zhenbo Liu"
+      ],
+      "canonical_url": "https://www.mdpi.com/1999-4907/13/2/329",
+      "citation": {
+        "canonical_url": "https://www.mdpi.com/1999-4907/13/2/329",
+        "page_aware": false
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "paper-bamboo-humidity-2022",
+      "identifiers": {
+        "doi": "10.3390/f13020329"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2022",
+      "publisher": "Forests",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://doi.org/10.3390/f13020329",
+        "fulltext_storage_allowed": true,
+        "license": "CC BY 4.0",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-bamboo-humidity-2022.html",
+      "slug": "paper-bamboo-humidity-2022",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Effect of Environmental Humidity on the Acoustic Vibration Characteristics of Bamboo",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "維修、保養及健康",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "maintenance",
+        "making"
+      ],
+      "topics": [
+        "making",
+        "bamboo-selection",
+        "humidity",
+        "cracks",
+        "acoustics",
+        "quality-control"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "ROBOTS_UNKNOWN"
+    },
+    {
+      "authors": [
+        "Monan Zhou",
+        "Shenyang Xu",
+        "Zhaorui Liu",
+        "Zhaowen Wang",
+        "Feng Yu",
+        "Wei Li",
+        "Baoqiang Han"
+      ],
+      "canonical_url": "https://transactions.ismir.net/articles/10.5334/tismir.194",
+      "citation": {
+        "canonical_url": "https://transactions.ismir.net/articles/10.5334/tismir.194",
+        "page_aware": false
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "paper-ccmusic-2025",
+      "identifiers": {
+        "arxiv": "2503.18802",
+        "doi": "10.5334/tismir.194"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2025",
+      "publisher": "Transactions of the International Society for Music Information Retrieval",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://doi.org/10.5334/tismir.194",
+        "fulltext_storage_allowed": true,
+        "license": "CC BY 4.0",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-ccmusic-2025.html",
+      "slug": "paper-ccmusic-2025",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "CCMusic: An Open and Diverse Database for Chinese Music Information Retrieval Research",
+      "top_level_topic_labels": [
+        "錄音、數碼化及人工智能",
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "digital-music",
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "digital-music",
+        "recording",
+        "recordings",
+        "sampling",
+        "libraries"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "ROBOTS_UNKNOWN"
+    },
+    {
+      "authors": [
+        "Xia Gong",
+        "Yuxiang Zhu",
+        "Haidi Zhu",
+        "Haoran Wei"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2108.08470",
+      "citation": {
+        "canonical_url": "https://arxiv.org/abs/2108.08470",
+        "page_aware": false
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "paper-chmusic-2021",
+      "identifiers": {
+        "arxiv": "2108.08470",
+        "doi": "10.48550/arXiv.2108.08470"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2021-08-19",
+      "publisher": "arXiv",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://arxiv.org/abs/2108.08470",
+        "fulltext_storage_allowed": true,
+        "license": "arXiv non-exclusive distribution license; local research copy allowed, no website full-text republication",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-chmusic-2021.html",
+      "slug": "paper-chmusic-2021",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "ChMusic: A Traditional Chinese Music Dataset for Evaluation of Instrument Recognition",
+      "top_level_topic_labels": [
+        "錄音、數碼化及人工智能",
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "digital-music",
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "digital-music",
+        "recording",
+        "recordings",
+        "sampling",
+        "libraries"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "ROBOTS_UNKNOWN"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13127963/",
+      "citation": {
+        "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13127963/",
+        "page_aware": false
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "paper-dizi-lead-instrument-dataset-2026",
+      "identifiers": {
+        "pmcid": "PMC13127963"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2026",
+      "publisher": "PubMed Central",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13127963/",
+        "fulltext_storage_allowed": true,
+        "license": "Open-access article in PubMed Central; retain attribution and verify article-level license before republication",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-dizi-lead-instrument-dataset-2026.html",
+      "slug": "paper-dizi-lead-instrument-dataset-2026",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "A two-stage deep learning framework for lead instrument recognition in polyphonic music featuring Chinese instruments",
+      "top_level_topic_labels": [
+        "錄音、數碼化及人工智能",
+        "樂器分類",
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "digital-music",
+        "instruments",
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "digital-music",
+        "recording",
+        "recordings",
+        "sampling",
+        "libraries",
+        "dizi",
+        "xiaodi"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "ROBOTS_UNKNOWN"
+    },
+    {
+      "authors": [
+        "Xinmeng Luan",
+        "Song Wang",
+        "Gary Scavone",
+        "Zijin Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2409.04853",
+      "citation": {
+        "canonical_url": "https://arxiv.org/abs/2409.04853",
+        "page_aware": true
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "paper-luan-dizi-2024",
+      "identifiers": {
+        "arxiv": "2409.04853",
+        "arxiv_doi": "10.48550/arXiv.2409.04853",
+        "doi": "10.1121/10.0036742"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:27Z",
+        "http_status": 200,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2024-09-07",
+      "publisher": "arXiv",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://arxiv.org/abs/2409.04853",
+        "fulltext_storage_allowed": true,
+        "license": "Open-access preprint; retain source attribution and do not republish full text",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/acoustic-characterization-of-the-resonator-in-the-chinese-transverse-flute-dizi.html",
+      "slug": "acoustic-characterization-of-the-resonator-in-the-chinese-transverse-flute-dizi",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Acoustic Characterization of the Resonator in the Chinese Transverse Flute (dizi)",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "making"
+      ],
+      "topics": [
+        "acoustics",
+        "membrane-vibration",
+        "making"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.975,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Xinmeng Luan",
+        "Song Wang",
+        "Gary Scavone",
+        "Zijin Li"
+      ],
+      "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/40391884/",
+      "citation": {
+        "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/40391884/",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "paper-luan-dizi-2025-published",
+      "identifiers": {
+        "doi": "10.1121/10.0036742",
+        "pmid": "40391884"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:28Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2025-05-01",
+      "publisher": "Journal of the Acoustical Society of America / PubMed",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/40391884/",
+        "fulltext_storage_allowed": false,
+        "license": "PubMed bibliographic record; preprint full text is preserved separately from arXiv",
+        "status": "METADATA_ONLY",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/acoustic-characterization-dizi-resonator-jasa-2025.html",
+      "slug": "acoustic-characterization-dizi-resonator-jasa-2025",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Acoustic Characterization of the Resonator in the Chinese Transverse Flute (dizi)",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器分類",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "instruments",
+        "making"
+      ],
+      "topics": [
+        "acoustics",
+        "membrane-vibration",
+        "making",
+        "instruments"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.79,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Xinmeng Luan",
+        "Song Wang",
+        "Zijin Li",
+        "Gary Scavone"
+      ],
+      "canonical_url": "https://doi.org/10.1121/2.0001678",
+      "citation": {
+        "canonical_url": "https://doi.org/10.1121/2.0001678",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "paper-luan-dizi-tmm-2023",
+      "identifiers": {
+        "doi": "10.1121/2.0001678"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T03:15:22Z",
+        "http_status": null,
+        "status": "ROBOTS_BLOCKED_BUT_KNOWN"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2023",
+      "publisher": "Proceedings of Meetings on Acoustics / Acoustical Society of America",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://doi.org/10.1121/2.0001678",
+        "fulltext_storage_allowed": false,
+        "license": "Publisher metadata and canonical DOI link only; no local full text retained",
+        "status": "METADATA_ONLY",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/acoustical-analysis-dizi-transfer-matrix-method-2023.html",
+      "slug": "acoustical-analysis-dizi-transfer-matrix-method-2023",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Acoustical Analysis of the Chinese Transverse Flute (dizi) Using the Transfer Matrix Method",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "錄音、數碼化及人工智能",
+        "樂器分類",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "digital-music",
+        "instruments",
+        "making"
+      ],
+      "topics": [
+        "acoustics",
+        "digital-music",
+        "making",
+        "instruments"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.79,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Juzhong Zhang",
+        "Garman Harbottle",
+        "Changsui Wang",
+        "Zhaochen Kong"
+      ],
+      "canonical_url": "https://www.nature.com/articles/43865",
+      "citation": {
+        "canonical_url": "https://www.nature.com/articles/43865",
+        "page_aware": false
+      },
+      "content_completeness_status": "ABSTRACT_ONLY",
+      "id": "paper-nature-jiahu-flutes-1999",
+      "identifiers": {
+        "doi": "10.1038/43865",
+        "pages": "366-368",
+        "volume": "401"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "neolithic"
+      ],
+      "publication_date": "1999-09-23",
+      "publisher": "Nature",
+      "regions": [
+        "china",
+        "henan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.nature.com/articles/43865",
+        "fulltext_storage_allowed": false,
+        "license": "Publisher abstract and bibliographic record; retain metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/zhang-harbottle-wang-jiahu-flutes-1999.html",
+      "slug": "zhang-harbottle-wang-jiahu-flutes-1999",
+      "source_grade": "A1",
+      "source_type": "research_paper",
+      "title": "Oldest playable musical instruments found at Jiahu early Neolithic site in China",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "歷史與文化",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "history",
+        "making"
+      ],
+      "topics": [
+        "history",
+        "origins-archaeology",
+        "historical-forms",
+        "acoustics",
+        "hole-spacing"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.828,
+        "last_verified_at": "2026-08-13T04:40:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "梁雨薇",
+        "何瀾",
+        "張梁",
+        "張海洋",
+        "蔣桂章",
+        "劉睿哲",
+        "劉鎮波"
+      ],
+      "canonical_url": "https://slgc.nefu.edu.cn/EN/10.3969/j.issn.1006-8023.2024.03.011",
+      "citation": {
+        "canonical_url": "https://slgc.nefu.edu.cn/EN/10.3969/j.issn.1006-8023.2024.03.011",
+        "page_aware": false
+      },
+      "content_completeness_status": "ABSTRACT_ONLY",
+      "id": "paper-nefu-bamboo-oil-heat-2024",
+      "identifiers": {
+        "doi": "10.3969/j.issn.1006-8023.2024.03.011"
+      },
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2024-05-15",
+      "publisher": "《森林工程》／東北林業大學",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://slgc.nefu.edu.cn/CN/10.3969/j.issn.1006-8023.2024.03.011",
+        "fulltext_storage_allowed": false,
+        "license": "Journal abstract page; retain metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-nefu-bamboo-oil-heat-2024.html",
+      "slug": "paper-nefu-bamboo-oil-heat-2024",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Effect of Oil Heat Treatment on the Acoustic Vibration Performance of Bamboo",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "維修、保養及健康",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "maintenance",
+        "making"
+      ],
+      "topics": [
+        "making",
+        "bamboo-selection",
+        "traditional-making",
+        "acoustics",
+        "cracks",
+        "quality-control"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "P.-A. Taillard",
+        "F. Silva",
+        "Ph. Guillemain",
+        "J. Kergomard"
+      ],
+      "canonical_url": "https://doi.org/10.1016/j.apacoust.2018.07.018",
+      "citation": {
+        "canonical_url": "https://doi.org/10.1016/j.apacoust.2018.07.018",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "paper-taillard-modal-2018",
+      "identifiers": {
+        "doi": "10.1016/j.apacoust.2018.07.018"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T03:15:29Z",
+        "http_status": null,
+        "status": "REDIRECT_OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2018-12-01",
+      "publisher": "Applied Acoustics / Elsevier",
+      "regions": [],
+      "rights": {
+        "evidence_url": "https://doi.org/10.1016/j.apacoust.2018.07.018",
+        "fulltext_storage_allowed": false,
+        "license": "Publisher metadata and canonical DOI link only; no local full text retained",
+        "status": "METADATA_ONLY",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/modal-analysis-input-impedance-wind-instruments-2018.html",
+      "slug": "modal-analysis-input-impedance-wind-instruments-2018",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Modal Analysis of the Input Impedance of Wind Instruments: Application to the Sound Synthesis of a Clarinet",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "錄音、數碼化及人工智能"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "digital-music"
+      ],
+      "topics": [
+        "acoustics",
+        "digital-music"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.79,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Joe Wolfe",
+        "John Smith",
+        "John Tann",
+        "Neville H. Fletcher"
+      ],
+      "canonical_url": "https://doi.org/10.1006/jsvi.2000.3397",
+      "citation": {
+        "canonical_url": "https://doi.org/10.1006/jsvi.2000.3397",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "paper-unsw-flute-impedance-2001",
+      "identifiers": {
+        "doi": "10.1006/jsvi.2000.3397"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2001",
+      "publisher": "Journal of Sound and Vibration",
+      "regions": [
+        "overseas"
+      ],
+      "rights": {
+        "evidence_url": "https://www.phys.unsw.edu.au/jw/JSV.pdf",
+        "fulltext_storage_allowed": false,
+        "license": "Author-hosted journal manuscript; retain bibliographic metadata, canonical link and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-unsw-flute-impedance-2001.html",
+      "slug": "paper-unsw-flute-impedance-2001",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Acoustic impedances of classical and modern flutes",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "making"
+      ],
+      "topics": [
+        "acoustics",
+        "edge-tone",
+        "air-column",
+        "embouchure-hole",
+        "finger-holes",
+        "intonation"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "Qiang Wang",
+        "Chalermsak Pikulsri",
+        "Pornpan Kaenampornpan"
+      ],
+      "canonical_url": "https://www.allmultidisciplinaryjournal.com/article/2508/transmission-cultural-significance-and-social-dynamics-of-the-ti-tzu-ten-hole-bamboo-flute-in",
+      "citation": {
+        "canonical_url": "https://www.allmultidisciplinaryjournal.com/article/2508/transmission-cultural-significance-and-social-dynamics-of-the-ti-tzu-ten-hole-bamboo-flute-in",
+        "page_aware": true
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "paper-wang-titzu-2024",
+      "identifiers": {
+        "doi": "10.54660/.IJMRGE.2024.5.3.634-638"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:30Z",
+        "http_status": 200,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2024",
+      "publisher": "International Journal of Multidisciplinary Research and Growth Evaluation",
+      "regions": [
+        "sichuan",
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.allmultidisciplinaryjournal.com/article/2508/transmission-cultural-significance-and-social-dynamics-of-the-ti-tzu-ten-hole-bamboo-flute-in",
+        "fulltext_storage_allowed": true,
+        "license": "CC BY 4.0 (as stated on publisher page)",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": true
+      },
+      "route": "static_pages/sources/transmission-cultural-significance-and-social-dynamics-of-the-ti-tzu-ten-hole-bamboo-flute-in-sichuan-province-china.html",
+      "slug": "transmission-cultural-significance-and-social-dynamics-of-the-ti-tzu-ten-hole-bamboo-flute-in-sichuan-province-china",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Transmission, cultural significance, and social dynamics of the Ti-Tzu Ten-Hole bamboo flute in Sichuan Province, China",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "地域與流派",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "history",
+        "regional-styles",
+        "teaching"
+      ],
+      "topics": [
+        "regional-styles",
+        "history",
+        "teaching"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.975,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Ulrike G. K. Wegst"
+      ],
+      "canonical_url": "https://doi.org/10.1146/annurev.matsci.38.060407.132459",
+      "citation": {
+        "canonical_url": "https://doi.org/10.1146/annurev.matsci.38.060407.132459",
+        "page_aware": false
+      },
+      "content_completeness_status": "ABSTRACT_ONLY",
+      "id": "paper-wegst-bamboo-wood-instruments-2008",
+      "identifiers": {
+        "doi": "10.1146/annurev.matsci.38.060407.132459"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2008-08-04",
+      "publisher": "Annual Review of Materials Research",
+      "regions": [
+        "overseas"
+      ],
+      "rights": {
+        "evidence_url": "https://www.annualreviews.org/content/journals/10.1146/annurev.matsci.38.060407.132459",
+        "fulltext_storage_allowed": false,
+        "license": "Publisher abstract and bibliographic record; retain metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/paper-wegst-bamboo-wood-instruments-2008.html",
+      "slug": "paper-wegst-bamboo-wood-instruments-2008",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "Bamboo and Wood in Musical Instruments",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "making"
+      ],
+      "topics": [
+        "making",
+        "bamboo-selection",
+        "acoustics",
+        "timbre",
+        "quality-control"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "中華人民共和國文化和旅遊部"
+      ],
+      "canonical_url": "https://zwgk.mct.gov.cn/zfxxgkml/kjjy/202402/P020240201573203466119.pdf",
+      "citation": {
+        "canonical_url": "https://zwgk.mct.gov.cn/zfxxgkml/kjjy/202402/P020240201573203466119.pdf",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "pdf-mct-youth-repertoire-2024",
+      "identifiers": {
+        "attachment": "附件3"
+      },
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2024-02",
+      "publisher": "中華人民共和國文化和旅遊部",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://zwgk.mct.gov.cn/zfxxgkml/kjjy/202402/P020240201573203466119.pdf",
+        "fulltext_storage_allowed": false,
+        "license": "Official government repertoire PDF; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/mct-eighth-youth-instrumental-repertoire-2024.html",
+      "slug": "mct-eighth-youth-instrumental-repertoire-2024",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "第八屆全國青少年民族器樂教育教學成果展示活動學生展示規定曲目庫",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "曲目、作曲及演奏實踐",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "people",
+        "repertoire",
+        "teaching"
+      ],
+      "topics": [
+        "repertoire",
+        "new-compositions",
+        "exams",
+        "conservatory-training",
+        "people",
+        "composers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "國家大劇院"
+      ],
+      "canonical_url": "https://www.chncpa.org/ycgp_220/jmcxz/201607/P020160829606798951104.pdf",
+      "citation": {
+        "canonical_url": "https://www.chncpa.org/ycgp_220/jmcxz/201607/P020160829606798951104.pdf",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "pdf-ncpa-daiya-eight-hole-2016",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2016",
+      "publisher": "國家大劇院",
+      "regions": [
+        "china",
+        "beijing"
+      ],
+      "rights": {
+        "evidence_url": "https://www.chncpa.org/ycgp_220/jmcxz/201607/P020160829606798951104.pdf",
+        "fulltext_storage_allowed": false,
+        "license": "Official performance programme PDF; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ncpa-autumn-2016-daiya-eight-hole-dizi.html",
+      "slug": "ncpa-autumn-2016-daiya-eight-hole-dizi",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "國家大劇院 2016 秋季演出季節目冊：戴亞介紹",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "人物與機構"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "people"
+      ],
+      "topics": [
+        "instruments",
+        "eight-hole-dizi",
+        "modern-professionalization",
+        "performers",
+        "people"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "天津茱莉亞學院"
+      ],
+      "canonical_url": "https://www.tianjinjuilliard.edu.cn/sites/default/files/2023-03/program-20230324-20230331-FestivalConnect.pdf",
+      "citation": {
+        "canonical_url": "https://www.tianjinjuilliard.edu.cn/sites/default/files/2023-03/program-20230324-20230331-FestivalConnect.pdf",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "pdf-tianjin-juilliard-tang-2023",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2023-03",
+      "publisher": "天津茱莉亞學院",
+      "regions": [
+        "china",
+        "shanghai",
+        "tianjin"
+      ],
+      "rights": {
+        "evidence_url": "https://www.tianjinjuilliard.edu.cn/sites/default/files/2023-03/program-20230324-20230331-FestivalConnect.pdf",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory programme PDF; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/tianjin-juilliard-festival-connect-tang-junqiao-2023.html",
+      "slug": "tianjin-juilliard-festival-connect-tang-junqiao-2023",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "Festival Connect 藝術節節目冊：唐俊喬藝術家介紹",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "premieres",
+        "ensembles",
+        "festivals"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "西安音樂學院招生就業處"
+      ],
+      "canonical_url": "https://zsb.xacom.edu.cn/_upload/article/files/12/f2/e079e494428099b049b27bbf8473/394f4fcb-ce08-4627-b5c6-3cf8c28058b3.pdf",
+      "citation": {
+        "canonical_url": "https://zsb.xacom.edu.cn/_upload/article/files/12/f2/e079e494428099b049b27bbf8473/394f4fcb-ce08-4627-b5c6-3cf8c28058b3.pdf",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "pdf-xacom-dizi-repertoire-2025",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2024",
+      "publisher": "西安音樂學院",
+      "regions": [
+        "china",
+        "shaanxi"
+      ],
+      "rights": {
+        "evidence_url": "https://zsb.xacom.edu.cn/_upload/article/files/12/f2/e079e494428099b049b27bbf8473/394f4fcb-ce08-4627-b5c6-3cf8c28058b3.pdf",
+        "fulltext_storage_allowed": false,
+        "license": "Official admissions PDF; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/xian-conservatory-2025-dizi-repertoire-list.html",
+      "slug": "xian-conservatory-2025-dizi-repertoire-list",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "西安音樂學院 2025 年碩士研究生招生考試竹笛規定曲目庫",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire",
+        "teaching"
+      ],
+      "topics": [
+        "repertoire",
+        "traditional-solo",
+        "new-compositions",
+        "exams",
+        "conservatory-training",
+        "north-school",
+        "south-school",
+        "people",
+        "performers",
+        "composers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T02:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://tyuco.taoyuancf.org.tw/About/Member/17",
+      "citation": {
+        "canonical_url": "https://tyuco.taoyuancf.org.tw/About/Member/17",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "profile-taoyuan-luo-zhixiu",
+      "identifiers": {},
+      "language": "zh-Hant",
+      "link_health": {
+        "checked_at": "2026-08-01T03:27:46Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "桃園市國樂團",
+      "regions": [
+        "taiwan"
+      ],
+      "rights": {
+        "evidence_url": "https://tyuco.taoyuancf.org.tw/About/Member/17",
+        "fulltext_storage_allowed": false,
+        "license": "Official orchestra profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/luo-zhixiu-taoyuan-chinese-orchestra.html",
+      "slug": "luo-zhixiu-taoyuan-chinese-orchestra",
+      "source_grade": "A1",
+      "source_type": "expert_profile",
+      "title": "羅智修｜桃園市國樂團笛子演奏員",
+      "top_level_topic_labels": [
+        "樂器分類",
+        "人物與機構",
+        "曲目、作曲及演奏實踐",
+        "教學與學習",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "instruments",
+        "people",
+        "repertoire",
+        "teaching",
+        "techniques"
+      ],
+      "topics": [
+        "people",
+        "repertoire",
+        "techniques",
+        "teaching",
+        "instruments"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/500635",
+      "citation": {
+        "canonical_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/500635",
+        "page_aware": true
+      },
+      "content_completeness_status": "COMPLETE_RECORD",
+      "id": "source-met-dizi-500635",
+      "identifiers": {
+        "object_number": "89.4.62"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:32Z",
+        "http_status": 200,
+        "status": "OK"
+      },
+      "periods": [
+        "qing"
+      ],
+      "publication_date": "",
+      "publisher": "The Metropolitan Museum of Art",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.metmuseum.org/art/collection/search/500635",
+        "fulltext_storage_allowed": true,
+        "license": "The Met Open Access data; object marked Public Domain",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/dizi-met-object-500635.html",
+      "slug": "dizi-met-object-500635",
+      "source_grade": "A1",
+      "source_type": "museum_record",
+      "title": "Dizi (笛子)",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "history",
+        "making"
+      ],
+      "topics": [
+        "making",
+        "history",
+        "membrane-hole"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.927,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Chang-ning Chai"
+      ],
+      "canonical_url": "https://ses.library.usyd.edu.au/handle/2123/10771",
+      "citation": {
+        "canonical_url": "https://ses.library.usyd.edu.au/handle/2123/10771",
+        "page_aware": true
+      },
+      "content_completeness_status": "FULLTEXT",
+      "id": "thesis-chai-dizi-2014",
+      "identifiers": {
+        "handle": "2123/10771"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:33Z",
+        "http_status": 200,
+        "status": "OK"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era"
+      ],
+      "publication_date": "2014-06-23",
+      "publisher": "University of Sydney",
+      "regions": [
+        "china",
+        "north-china",
+        "south-china"
+      ],
+      "rights": {
+        "evidence_url": "https://ses.library.usyd.edu.au/handle/2123/10771",
+        "fulltext_storage_allowed": true,
+        "license": "Sydney Digital Theses — Open Access; follow repository terms",
+        "status": "OPEN_ACCESS",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/the-dizi-chinese-bamboo-flute-its-representative-repertoires-in-the-years-from-1949-to-1985.html",
+      "slug": "the-dizi-chinese-bamboo-flute-its-representative-repertoires-in-the-years-from-1949-to-1985",
+      "source_grade": "A2",
+      "source_type": "thesis",
+      "title": "The dizi (Chinese bamboo flute) its representative repertoires in the years from 1949 to 1985",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "地域與流派",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "history",
+        "regional-styles",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "history",
+        "regional-styles",
+        "techniques",
+        "repertoire"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.975,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "張容慈（Chang, Jung-Tzu）"
+      ],
+      "canonical_url": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id%3D%22112UT005248026%22.&searchmode=basic",
+      "citation": {
+        "canonical_url": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id%3D%22112UT005248026%22.&searchmode=basic",
+        "page_aware": false
+      },
+      "content_completeness_status": "ABSTRACT_ONLY",
+      "id": "thesis-chang-dizi-textbook-2024",
+      "identifiers": {
+        "degree": "碩士",
+        "ndltd_id": "112UT005248026"
+      },
+      "language": "zh-Hant",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2024",
+      "publisher": "臺北市立大學",
+      "regions": [
+        "taiwan"
+      ],
+      "rights": {
+        "evidence_url": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id%3D%22112UT005248026%22.&searchmode=basic",
+        "fulltext_storage_allowed": false,
+        "license": "National thesis index and university record; retain metadata, public abstract and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/chang-jung-tzu-beginner-dizi-textbook-analysis-2024.html",
+      "slug": "chang-jung-tzu-beginner-dizi-textbook-analysis-2024",
+      "source_grade": "A1",
+      "source_type": "thesis",
+      "title": "笛子初級教材之內容分析：以《詹永明：笛子基礎教程》為例",
+      "top_level_topic_labels": [
+        "教學與學習",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "teaching",
+        "techniques"
+      ],
+      "topics": [
+        "teaching",
+        "pedagogy",
+        "curriculum",
+        "beginner",
+        "method-books",
+        "long-tone",
+        "vibrato",
+        "circular-breathing",
+        "single-tonguing",
+        "double-tonguing",
+        "triple-tonguing",
+        "flutter-tonguing",
+        "grace-note",
+        "trill",
+        "slide",
+        "mordent"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.828,
+        "last_verified_at": "2026-08-13T03:20:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Frederick Cheungkong Lau"
+      ],
+      "canonical_url": "https://www.ideals.illinois.edu/items/19890",
+      "citation": {
+        "canonical_url": "https://www.ideals.illinois.edu/items/19890",
+        "page_aware": false
+      },
+      "content_completeness_status": "ABSTRACT_ONLY",
+      "id": "thesis-lau-dizi-1991",
+      "identifiers": {
+        "handle": "2142/19755"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "republic",
+        "prc-1949-1978",
+        "reform-era"
+      ],
+      "publication_date": "1991",
+      "publisher": "University of Illinois Urbana-Champaign",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.ideals.illinois.edu/items/19890",
+        "fulltext_storage_allowed": false,
+        "license": "Copyright 1991 Frederick Cheungkong Lau; repository abstract and bibliographic metadata only; full text is institution-restricted",
+        "status": "METADATA_ONLY",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/music-and-musicians-of-traditional-chinese-dizi-prc-1991.html",
+      "slug": "music-and-musicians-of-traditional-chinese-dizi-prc-1991",
+      "source_grade": "A2",
+      "source_type": "thesis",
+      "title": "Music and musicians of the traditional Chinese 'dizi' in the People's Republic of China",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "repertoire",
+        "teaching"
+      ],
+      "topics": [
+        "history",
+        "modern-professionalization",
+        "conservatory-history",
+        "regional-styles",
+        "repertoire",
+        "traditional-solo",
+        "people",
+        "performers",
+        "teaching",
+        "conservatory-training"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.802,
+        "last_verified_at": "2026-08-13T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "陳柏勳"
+      ],
+      "canonical_url": "https://irlib.pccu.edu.tw/handle/987654321/20313?locale=zh-TW",
+      "citation": {
+        "canonical_url": "https://irlib.pccu.edu.tw/handle/987654321/20313?locale=zh-TW",
+        "page_aware": false
+      },
+      "content_completeness_status": "ABSTRACT_ONLY",
+      "id": "thesis-pccu-dadi-2010",
+      "identifiers": {
+        "repository_handle": "987654321/20313"
+      },
+      "language": "zh-Hant-TW",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2010",
+      "publisher": "中國文化大學音樂學系",
+      "regions": [
+        "taiwan",
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://irlib.pccu.edu.tw/handle/987654321/20313?locale=zh-TW",
+        "fulltext_storage_allowed": false,
+        "license": "University repository thesis; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/chen-bo-xun-dadi-practice-development-2010.html",
+      "slug": "chen-bo-xun-dadi-practice-development-2010",
+      "source_grade": "A1",
+      "source_type": "thesis",
+      "title": "從笛曲《抒懷》與《秋湖月夜》探討大笛的實踐及發展",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "樂器結構與製作",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "making",
+        "repertoire"
+      ],
+      "topics": [
+        "instruments",
+        "dadi",
+        "repertoire",
+        "finger-holes",
+        "orchestration",
+        "modern-professionalization"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.828,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Bret Pimentel"
+      ],
+      "canonical_url": "https://openscholar.uga.edu/record/18990",
+      "citation": {
+        "canonical_url": "https://openscholar.uga.edu/record/18990",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "thesis-pimentel-woodwind-doubling-2009",
+      "identifiers": {
+        "degree": "DMA",
+        "repository_record": "18990"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2009",
+      "publisher": "University of Georgia",
+      "regions": [
+        "china",
+        "overseas"
+      ],
+      "rights": {
+        "evidence_url": "https://openscholar.uga.edu/record/18990",
+        "fulltext_storage_allowed": false,
+        "license": "University repository dissertation; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/pimentel-woodwind-doubling-dizi-2009.html",
+      "slug": "pimentel-woodwind-doubling-dizi-2009",
+      "source_grade": "A1",
+      "source_type": "thesis",
+      "title": "Woodwind doubling on folk, ethnic, and period instruments in film and theater music: case studies and a practical manual",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "instruments",
+        "dizi",
+        "comparative-instruments",
+        "techniques",
+        "embouchure",
+        "air-direction",
+        "posture",
+        "circular-breathing",
+        "single-tonguing",
+        "double-tonguing",
+        "triple-tonguing",
+        "flutter-tonguing",
+        "folk-transmission",
+        "orchestration"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T03:20:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "DanTang&Chinese bamboo flute"
+      ],
+      "canonical_url": "https://www.youtube.com/watch?v=stLPWb0vJBk",
+      "citation": {
+        "canonical_url": "https://www.youtube.com/watch?v=stLPWb0vJBk",
+        "page_aware": false
+      },
+      "content_completeness_status": "LINK_ONLY",
+      "id": "video-youtube-stlpwb0vbjk",
+      "identifiers": {
+        "youtube_video_id": "stLPWb0vJBk"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:36Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2020-09-03",
+      "publisher": "YouTube",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.youtube.com/watch?v=stLPWb0vJBk",
+        "fulltext_storage_allowed": false,
+        "license": "YouTube platform link; do not download video/audio",
+        "status": "LINK_ONLY",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/d-key-dizi-flute-double-tonguing-technique-practice.html",
+      "slug": "d-key-dizi-flute-double-tonguing-technique-practice",
+      "source_grade": "B1",
+      "source_type": "youtube_video",
+      "title": "D key dizi flute- Double tonguing technique practice D调竹笛《练习曲 双吐》全按作5 边看谱边练习 @Dan Tang",
+      "top_level_topic_labels": [
+        "教學與學習",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "teaching",
+        "techniques"
+      ],
+      "topics": [
+        "techniques",
+        "teaching"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.74,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://timbreandorchestration.org/instruments/ensembles/chinese-orchestra/wind-instruments",
+      "citation": {
+        "canonical_url": "https://timbreandorchestration.org/instruments/ensembles/chinese-orchestra/wind-instruments",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-actor-chinese-orchestra-winds",
+      "identifiers": {},
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "Timbre and Orchestration Resource / ACTOR",
+      "regions": [
+        "china",
+        "north-china",
+        "south-china"
+      ],
+      "rights": {
+        "evidence_url": "https://timbreandorchestration.org/instruments/ensembles/chinese-orchestra/wind-instruments",
+        "fulltext_storage_allowed": false,
+        "license": "Specialist educational webpage; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/actor-chinese-orchestra-wind-instruments.html",
+      "slug": "actor-chinese-orchestra-wind-instruments",
+      "source_grade": "B1",
+      "source_type": "official_webpage",
+      "title": "Wind Instruments — Chinese Orchestra",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器分類",
+        "樂器結構與製作",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "instruments",
+        "making",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "instruments",
+        "dizi",
+        "bangdi",
+        "qudi",
+        "xindi",
+        "making",
+        "membrane-hole",
+        "acoustics",
+        "membrane-vibration",
+        "timbre",
+        "tuning",
+        "techniques",
+        "vibrato",
+        "circular-breathing",
+        "flutter-tonguing",
+        "repertoire",
+        "chinese-orchestra",
+        "orchestration"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.765,
+        "last_verified_at": "2026-08-13T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "安徽師範大學音樂學院"
+      ],
+      "canonical_url": "https://music.ahnu.edu.cn/info/1062/1887.htm",
+      "citation": {
+        "canonical_url": "https://music.ahnu.edu.cn/info/1062/1887.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ahnu-mumin-xinge-2017",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "2017-10-16",
+      "publisher": "安徽師範大學音樂學院",
+      "regions": [
+        "china",
+        "north-china"
+      ],
+      "rights": {
+        "evidence_url": "https://music.ahnu.edu.cn/info/1062/1887.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official university concert report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ahnu-mumin-xinge-program-note-2017.html",
+      "slug": "ahnu-mumin-xinge-program-note-2017",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "安徽師範大學音樂學院第十六屆藝術實踐周——民族管弦樂團專場音樂會",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "repertoire",
+        "new-compositions",
+        "form-analysis",
+        "people",
+        "composers",
+        "performers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "中央音樂學院"
+      ],
+      "canonical_url": "https://www.ccom.edu.cn/info/16531/222341.htm",
+      "citation": {
+        "canonical_url": "https://www.ccom.edu.cn/info/16531/222341.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ccom-daiya-eight-hole-2023",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2023-11-23",
+      "publisher": "中央音樂學院",
+      "regions": [
+        "china",
+        "beijing"
+      ],
+      "rights": {
+        "evidence_url": "https://www.ccom.edu.cn/info/16531/222341.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory faculty profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ccom-daiya-eight-hole-dizi-2023.html",
+      "slug": "ccom-daiya-eight-hole-dizi-2023",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "戴亞｜中央音樂學院民樂系",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "人物與機構",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "people",
+        "teaching"
+      ],
+      "topics": [
+        "instruments",
+        "eight-hole-dizi",
+        "modern-professionalization",
+        "pedagogy",
+        "people"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "北京環球音像出版社"
+      ],
+      "canonical_url": "https://zhuanti.ccom.edu.cn/bjhqyxcbs/info/1241/2661.htm",
+      "citation": {
+        "canonical_url": "https://zhuanti.ccom.edu.cn/bjhqyxcbs/info/1241/2661.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ccom-pamier-album-2025",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "2025-07-22",
+      "publisher": "北京環球音像出版社（中央音樂學院專題網站）",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://zhuanti.ccom.edu.cn/bjhqyxcbs/info/1241/2661.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory-affiliated album note; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ccom-pamier-spring-album-note-2025.html",
+      "slug": "ccom-pamier-spring-album-note-2025",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "優秀學術成果出版項目｜馮天石《飛葉穿林——馮天石竹笛演奏專輯》",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "repertoire",
+        "traditional-solo",
+        "new-compositions",
+        "regional-styles",
+        "recordings",
+        "people",
+        "composers",
+        "performers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://press.ccom.edu.cn/info/1041/19162.htm",
+      "citation": {
+        "canonical_url": "https://press.ccom.edu.cn/info/1041/19162.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ccom-press-performance-professionalization-2024",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "republic",
+        "prc-1949-1978"
+      ],
+      "publication_date": "2024-01-03",
+      "publisher": "中央音樂學院出版社",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://press.ccom.edu.cn/info/1041/19162.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory press excerpt; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ccom-press-performance-professionalization-2024.html",
+      "slug": "ccom-press-performance-professionalization-2024",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "從樂種、主奏到獨奏：個體身份的專業化轉型現象",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "history",
+        "modern-professionalization",
+        "conservatory-history",
+        "folk-transmission",
+        "people",
+        "performers",
+        "educators",
+        "repertoire",
+        "traditional-solo"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T02:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "中央音樂學院"
+      ],
+      "canonical_url": "https://www.ccom.edu.cn/info/2551/7551.htm",
+      "citation": {
+        "canonical_url": "https://www.ccom.edu.cn/info/2551/7551.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ccom-zeng-qinchuan-2018",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2018",
+      "publisher": "中央音樂學院",
+      "regions": [
+        "china",
+        "beijing",
+        "shaanxi"
+      ],
+      "rights": {
+        "evidence_url": "https://www.ccom.edu.cn/info/2551/7551.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory concert report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ccom-zeng-yongqing-qinchuanqing-2018.html",
+      "slug": "ccom-zeng-yongqing-qinchuanqing-2018",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "中國與世界——中央音樂學院慶祝改革開放40周年第二場音樂會",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "composers",
+        "repertoire",
+        "new-compositions",
+        "performers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "關永琪"
+      ],
+      "canonical_url": "https://www.ccom.edu.cn/info/2621/27941.htm",
+      "citation": {
+        "canonical_url": "https://www.ccom.edu.cn/info/2621/27941.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ccom-zhushi-interview-2022",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "2022-06-12",
+      "publisher": "中央音樂學院",
+      "regions": [
+        "china",
+        "north-china",
+        "south-china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.ccom.edu.cn/info/2621/27941.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory interview; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ccom-feng-tianshi-zhushi-interview-2022.html",
+      "slug": "ccom-feng-tianshi-zhushi-interview-2022",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "北京環球音像｜馮天石全新專輯《竹石》出版發行",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "repertoire",
+        "traditional-solo",
+        "new-compositions",
+        "north-school",
+        "south-school",
+        "form-analysis",
+        "people",
+        "performers",
+        "composers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://en.chinaculture.org/gb/en_artqa/2003-09/24/content_39839.htm",
+      "citation": {
+        "canonical_url": "https://en.chinaculture.org/gb/en_artqa/2003-09/24/content_39839.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-china-culture-history-dizi",
+      "identifiers": {},
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:39Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "neolithic",
+        "han",
+        "tang",
+        "ming",
+        "qing",
+        "republic",
+        "prc-1949-1978",
+        "reform-era"
+      ],
+      "publication_date": "2003-09-24",
+      "publisher": "China Culture",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://en.chinaculture.org/gb/en_artqa/2003-09/24/content_39839.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Source permits non-commercial reproduction with attribution under its notice; retain link and review before republishing",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/history-of-dizi-bamboo-flute.html",
+      "slug": "history-of-dizi-bamboo-flute",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "History of Dizi (Bamboo Flute)",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "history",
+        "instruments",
+        "techniques",
+        "repertoire"
+      ],
+      "verification": {
+        "claims": "UNVERIFIED",
+        "confidence": 0.735,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "PARTIALLY_VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "何中潤",
+        "王緒岩"
+      ],
+      "canonical_url": "https://abc.chzu.edu.cn/2026/0107/c17879a338798/page.htm",
+      "citation": {
+        "canonical_url": "https://abc.chzu.edu.cn/2026/0107/c17879a338798/page.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-chzu-yu-xunfa-2026",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2026-01-07",
+      "publisher": "滁州學院",
+      "regions": [
+        "china",
+        "anhui",
+        "shanghai"
+      ],
+      "rights": {
+        "evidence_url": "https://abc.chzu.edu.cn/2026/0107/c17879a338798/page.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official university report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/chuzhou-yu-xunfa-langya-shenyun-2026.html",
+      "slug": "chuzhou-yu-xunfa-langya-shenyun-2026",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "滁州：『琅琊神韻醉春風』雅會致敬笛藝大師",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "composers",
+        "modern-professionalization",
+        "repertoire",
+        "new-compositions"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "臺灣音樂群像資料庫"
+      ],
+      "canonical_url": "https://pedia.cloud.edu.tw/Entry/Detail/?search=%E9%99%B3%E4%B8%AD%E7%94%B3&title=%E9%99%B3%E4%B8%AD%E7%94%B3",
+      "citation": {
+        "canonical_url": "https://pedia.cloud.edu.tw/Entry/Detail/?search=%E9%99%B3%E4%B8%AD%E7%94%B3&title=%E9%99%B3%E4%B8%AD%E7%94%B3",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-cloudedu-chen-chung-shen-2020",
+      "identifiers": {},
+      "language": "zh-Hant-TW",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2020-04-24",
+      "publisher": "教育部教育雲",
+      "regions": [
+        "taiwan"
+      ],
+      "rights": {
+        "evidence_url": "https://pedia.cloud.edu.tw/Entry/Detail/?search=%E9%99%B3%E4%B8%AD%E7%94%B3&title=%E9%99%B3%E4%B8%AD%E7%94%B3",
+        "fulltext_storage_allowed": false,
+        "license": "Official education knowledge base profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/taiwan-music-portraits-chen-chung-shen.html",
+      "slug": "taiwan-music-portraits-chen-chung-shen",
+      "source_grade": "A1",
+      "source_type": "expert_profile",
+      "title": "陳中申｜臺灣音樂群像資料庫",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "composers",
+        "educators",
+        "modern-professionalization",
+        "taiwan"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "香港特別行政區政府新聞公報"
+      ],
+      "canonical_url": "https://www.info.gov.hk/gia/general/201107/12/P201107120159.htm",
+      "citation": {
+        "canonical_url": "https://www.info.gov.hk/gia/general/201107/12/P201107120159.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-hkgov-tam-literature-2011",
+      "identifiers": {},
+      "language": "zh-Hant-HK",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2011-07-12",
+      "publisher": "香港特別行政區政府",
+      "regions": [
+        "hong-kong"
+      ],
+      "rights": {
+        "evidence_url": "https://www.info.gov.hk/gia/general/201107/12/P201107120159.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official Hong Kong government press release; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/hkgov-tam-po-shek-literature-2011.html",
+      "slug": "hkgov-tam-po-shek-literature-2011",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "洞簫演奏家譚寶碩分享音樂與中國文學作品的交融",
+      "top_level_topic_labels": [
+        "樂器分類",
+        "樂器結構與製作",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "instruments",
+        "making",
+        "people",
+        "regional-styles",
+        "repertoire",
+        "teaching"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "instruments",
+        "instrument-makers",
+        "repertoire",
+        "curriculum",
+        "hong-kong"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "香港特別行政區政府新聞公報"
+      ],
+      "canonical_url": "https://www.info.gov.hk/gia/general/200005/25/0525212.htm",
+      "citation": {
+        "canonical_url": "https://www.info.gov.hk/gia/general/200005/25/0525212.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-hkgov-xiao-masters-2000",
+      "identifiers": {},
+      "language": "zh-Hant-HK",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2000-05-25",
+      "publisher": "香港特別行政區政府",
+      "regions": [
+        "hong-kong",
+        "china",
+        "taiwan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.info.gov.hk/gia/general/200005/25/0525212.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official Hong Kong government press release; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/hkgov-xiao-masters-zhang-chen-tam-2000.html",
+      "slug": "hkgov-xiao-masters-zhang-chen-tam-2000",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "簫聲震武林　三大名家各自精采",
+      "top_level_topic_labels": [
+        "樂器分類",
+        "樂器結構與製作",
+        "人物與機構",
+        "地域與流派"
+      ],
+      "top_level_topics": [
+        "instruments",
+        "making",
+        "people",
+        "regional-styles"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "instruments",
+        "instrument-makers",
+        "hong-kong",
+        "taiwan"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "章興寶"
+      ],
+      "canonical_url": "https://faculty.hqu.edu.cn/ZXB/en/lwcg/106061/content/30804.htm",
+      "citation": {
+        "canonical_url": "https://faculty.hqu.edu.cn/ZXB/en/lwcg/106061/content/30804.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "ABSTRACT_ONLY",
+      "id": "web-hqu-ten-hole-paper-2015",
+      "identifiers": {
+        "journal": "大舞台",
+        "page": "90"
+      },
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2015-12-02",
+      "publisher": "華僑大學教師個人主頁／《大舞台》",
+      "regions": [
+        "china",
+        "sichuan"
+      ],
+      "rights": {
+        "evidence_url": "https://faculty.hqu.edu.cn/ZXB/en/lwcg/106061/content/30804.htm",
+        "fulltext_storage_allowed": false,
+        "license": "University-hosted publication abstract; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/hqu-sichuan-conservatory-ten-hole-dizi-2015.html",
+      "slug": "hqu-sichuan-conservatory-ten-hole-dizi-2015",
+      "source_grade": "A2",
+      "source_type": "research_paper",
+      "title": "四川音樂學院十孔竹笛的藝術特色",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "歷史與文化",
+        "樂器分類",
+        "樂器結構與製作",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "history",
+        "instruments",
+        "making",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "instruments",
+        "ten-hole-dizi",
+        "modern-professionalization",
+        "half-holing",
+        "intonation",
+        "tuning",
+        "orchestration"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.802,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.huain.com/article/dizi/2026/0121/3536.html",
+      "citation": {
+        "canonical_url": "https://www.huain.com/article/dizi/2026/0121/3536.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-huain-dizi-symbols-2026",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2026-01-21",
+      "publisher": "華音網",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.huain.com/article/dizi/2026/0121/3536.html",
+        "fulltext_storage_allowed": false,
+        "license": "Music research article page; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-huain-dizi-symbols-2026.html",
+      "slug": "web-huain-dizi-symbols-2026",
+      "source_grade": "B1",
+      "source_type": "research_paper",
+      "title": "傳統六孔竹笛演奏符號的衍變及辨識",
+      "top_level_topic_labels": [
+        "錄音、數碼化及人工智能",
+        "曲目、作曲及演奏實踐",
+        "教學與學習",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "digital-music",
+        "repertoire",
+        "teaching",
+        "techniques"
+      ],
+      "topics": [
+        "repertoire",
+        "score-versions",
+        "sight-reading",
+        "recording",
+        "teaching",
+        "techniques"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "中國音樂學院"
+      ],
+      "canonical_url": "https://www.huain.com/news/dizi/2024/1210/7179.html",
+      "citation": {
+        "canonical_url": "https://www.huain.com/news/dizi/2024/1210/7179.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-huain-feng-zicun-120-2024",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2024-12-10",
+      "publisher": "華音網",
+      "regions": [
+        "china",
+        "hebei",
+        "north-china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.huain.com/news/dizi/2024/1210/7179.html",
+        "fulltext_storage_allowed": false,
+        "license": "Specialist music news page credited to China Conservatory of Music; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/feng-zicun-120th-anniversary-concert-and-symposium.html",
+      "slug": "feng-zicun-120th-anniversary-concert-and-symposium",
+      "source_grade": "B1",
+      "source_type": "official_webpage",
+      "title": "喜相逢——紀念馮子存先生誕辰 120 周年藝術成就作品音樂會暨研討會",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "repertoire",
+        "traditional-solo",
+        "north-school",
+        "modern-professionalization",
+        "conservatory-history"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.765,
+        "last_verified_at": "2026-08-13T02:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.huain.com/article/other/2022/0319/644.html",
+      "citation": {
+        "canonical_url": "https://www.huain.com/article/other/2022/0319/644.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-huain-staff-notation-history-2022",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2022-03-19",
+      "publisher": "華音網",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.huain.com/article/other/2022/0319/644.html",
+        "fulltext_storage_allowed": false,
+        "license": "Music research article page; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-huain-staff-notation-history-2022.html",
+      "slug": "web-huain-staff-notation-history-2022",
+      "source_grade": "B1",
+      "source_type": "research_paper",
+      "title": "新中國成立以來五線譜竹笛教材發展軌跡",
+      "top_level_topic_labels": [
+        "曲目、作曲及演奏實踐",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "repertoire",
+        "teaching"
+      ],
+      "topics": [
+        "teaching",
+        "method-books",
+        "score-versions",
+        "sight-reading",
+        "scales",
+        "rhythm",
+        "curriculum"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.ihchina.cn/Article/Index/detail?id=8000",
+      "citation": {
+        "canonical_url": "https://www.ihchina.cn/Article/Index/detail?id=8000",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ihchina-yuping-making",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2012-11-12",
+      "publisher": "中國非物質文化遺產網・中國非物質文化遺產數字博物館",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.ihchina.cn/Article/Index/detail?id=8000",
+        "fulltext_storage_allowed": false,
+        "license": "National intangible-cultural-heritage portal; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-ihchina-yuping-making.html",
+      "slug": "web-ihchina-yuping-making",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "以玉屏簫笛為例：探索技藝類『非遺』的傳承與保護",
+      "top_level_topic_labels": [
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "making"
+      ],
+      "topics": [
+        "making",
+        "bamboo-selection",
+        "traditional-making",
+        "making-tools",
+        "quality-control",
+        "instrument-makers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "Tang Junqiao"
+      ],
+      "canonical_url": "https://www.imusic-school.com/en/chinese-instrument-lessons/chinese-bamboo-flute/",
+      "citation": {
+        "canonical_url": "https://www.imusic-school.com/en/chinese-instrument-lessons/chinese-bamboo-flute/",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-imusic-tang-junqiao",
+      "identifiers": {},
+      "language": "en",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:40Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "imusic-school",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.imusic-school.com/en/chinese-instrument-lessons/chinese-bamboo-flute/",
+        "fulltext_storage_allowed": false,
+        "license": "Commercial course page; link and metadata only",
+        "status": "VIEW_ONLY",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/chinese-bamboo-flute-dizi-tang-junqiao-lessons.html",
+      "slug": "chinese-bamboo-flute-dizi-tang-junqiao-lessons",
+      "source_grade": "B1",
+      "source_type": "expert_profile",
+      "title": "Chinese Bamboo Flute (Dizi) — Tang Junqiao lessons",
+      "top_level_topic_labels": [
+        "教學與學習",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "teaching",
+        "techniques"
+      ],
+      "topics": [
+        "teaching",
+        "techniques"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.765,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "江蘇第二師範學院音樂學院"
+      ],
+      "canonical_url": "https://music.jssnu.edu.cn/2020/0123/c606a29984/page.htm",
+      "citation": {
+        "canonical_url": "https://music.jssnu.edu.cn/2020/0123/c606a29984/page.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-jssnu-yu-koudi-2020",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2020-01-23",
+      "publisher": "江蘇第二師範學院音樂學院",
+      "regions": [
+        "china",
+        "jiangsu",
+        "shanghai"
+      ],
+      "rights": {
+        "evidence_url": "https://music.jssnu.edu.cn/2020/0123/c606a29984/page.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official university concert note; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/jssnu-yu-xunfa-koudi-2020.html",
+      "slug": "jssnu-yu-xunfa-koudi-2020",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "龍笛鳳簫 經典呈現",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "modern-professionalization",
+        "koudi",
+        "repertoire"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.lcsd.gov.hk/tc/mo/faq/instrumentbuyingandmaintenance.html",
+      "citation": {
+        "canonical_url": "https://www.lcsd.gov.hk/tc/mo/faq/instrumentbuyingandmaintenance.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-lcsd-dizi-maintenance",
+      "identifiers": {},
+      "language": "zh-Hant",
+      "link_health": {
+        "checked_at": "2026-08-01T03:27:42Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "香港康樂及文化事務署音樂事務處",
+      "regions": [
+        "hong-kong"
+      ],
+      "rights": {
+        "evidence_url": "https://www.lcsd.gov.hk/tc/mo/faq/instrumentbuyingandmaintenance.html",
+        "fulltext_storage_allowed": false,
+        "license": "Hong Kong government webpage; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/lcsd-dizi-buying-maintenance.html",
+      "slug": "lcsd-dizi-buying-maintenance",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "樂器選購及保養｜笛子如何保養？",
+      "top_level_topic_labels": [
+        "樂器分類",
+        "維修、保養及健康",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "instruments",
+        "maintenance",
+        "teaching"
+      ],
+      "topics": [
+        "maintenance",
+        "cleaning",
+        "cracks",
+        "drying",
+        "transport",
+        "instruments",
+        "teaching"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "康樂及文化事務署文化節目組"
+      ],
+      "canonical_url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1361.html",
+      "citation": {
+        "canonical_url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1361.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-lcsd-tam-po-shek-profile",
+      "identifiers": {},
+      "language": "zh-Hant-HK",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "香港康樂及文化事務署",
+      "regions": [
+        "hong-kong",
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1361.html",
+        "fulltext_storage_allowed": false,
+        "license": "Official cultural programme profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/lcsd-tam-po-shek-profile.html",
+      "slug": "lcsd-tam-po-shek-profile",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "《粵言．爵語》音樂會：譚寶碩藝術家介紹",
+      "top_level_topic_labels": [
+        "樂器分類",
+        "樂器結構與製作",
+        "人物與機構",
+        "地域與流派"
+      ],
+      "top_level_topics": [
+        "instruments",
+        "making",
+        "people",
+        "regional-styles"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "instruments",
+        "instrument-makers",
+        "educators",
+        "hong-kong"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "Department of Asian Art, The Metropolitan Museum of Art"
+      ],
+      "canonical_url": "https://www.metmuseum.org/essays/music-and-art-of-china",
+      "citation": {
+        "canonical_url": "https://www.metmuseum.org/essays/music-and-art-of-china",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-met-music-art-china",
+      "identifiers": {
+        "series": "Heilbrunn Timeline of Art History"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "neolithic",
+        "shang",
+        "zhou",
+        "han",
+        "tang"
+      ],
+      "publication_date": "2008-09",
+      "publisher": "The Metropolitan Museum of Art",
+      "regions": [
+        "china",
+        "henan",
+        "hubei"
+      ],
+      "rights": {
+        "evidence_url": "https://www.metmuseum.org/essays/music-and-art-of-china",
+        "fulltext_storage_allowed": false,
+        "license": "Museum scholarly essay; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/met-music-and-art-of-china.html",
+      "slug": "met-music-and-art-of-china",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "Music and Art of China",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments"
+      ],
+      "topics": [
+        "history",
+        "origins-archaeology",
+        "ancient-texts",
+        "historical-forms",
+        "comparative-instruments"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T04:40:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "國立臺中教育大學"
+      ],
+      "canonical_url": "https://www.ntcu.edu.tw/Tag/PostDoc?ID=10699",
+      "citation": {
+        "canonical_url": "https://www.ntcu.edu.tw/Tag/PostDoc?ID=10699",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-ntcu-chen-chung-shen-alumnus",
+      "identifiers": {},
+      "language": "zh-Hant-TW",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "國立臺中教育大學",
+      "regions": [
+        "taiwan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.ntcu.edu.tw/Tag/PostDoc?ID=10699",
+        "fulltext_storage_allowed": false,
+        "license": "Official university alumni report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/ntcu-chen-chung-shen-alumnus.html",
+      "slug": "ntcu-chen-chung-shen-alumnus",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "十大傑出青年——陳中申校友來訪，贈送作品錦集",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "composers",
+        "repertoire",
+        "taiwan"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.parsonsmusic.com.cn/ArticleDetails.aspx?id=271",
+      "citation": {
+        "canonical_url": "https://www.parsonsmusic.com.cn/ArticleDetails.aspx?id=271",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-parsons-dizi-maintenance-2022",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "2026-08-01T03:27:43Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2022-04-10",
+      "publisher": "柏斯音樂",
+      "regions": [
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.parsonsmusic.com.cn/ArticleDetails.aspx?id=271",
+        "fulltext_storage_allowed": false,
+        "license": "Commercial publisher webpage; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/parsons-dizi-maintenance-2022.html",
+      "slug": "parsons-dizi-maintenance-2022",
+      "source_grade": "B1",
+      "source_type": "official_webpage",
+      "title": "民樂保養常識｜竹笛保養",
+      "top_level_topic_labels": [
+        "樂器分類",
+        "維修、保養及健康",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "instruments",
+        "maintenance",
+        "making"
+      ],
+      "topics": [
+        "maintenance",
+        "cleaning",
+        "cracks",
+        "drying",
+        "humidity",
+        "joint-problems",
+        "instruments",
+        "making"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.765,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "四川音樂學院"
+      ],
+      "canonical_url": "https://www.sccm.edu.cn/xsxx/show-105.html",
+      "citation": {
+        "canonical_url": "https://www.sccm.edu.cn/xsxx/show-105.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-sccm-tang-junqiao-2015",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2015-09-24",
+      "publisher": "四川音樂學院",
+      "regions": [
+        "china",
+        "shanghai",
+        "sichuan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.sccm.edu.cn/xsxx/show-105.html",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/sccm-tang-junqiao-choukongshan-2015.html",
+      "slug": "sccm-tang-junqiao-choukongshan-2015",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "著名竹笛演奏家、上海音樂學院唐俊喬教授來校開展學術交流活動",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "people",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "concertos",
+        "techniques",
+        "new-compositions"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "四川音樂學院民樂系"
+      ],
+      "canonical_url": "https://www.sccm.edu.cn/jx_myx/show-77.html",
+      "citation": {
+        "canonical_url": "https://www.sccm.edu.cn/jx_myx/show-77.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-sccm-ten-hole-lecture-2007",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2007-12-27",
+      "publisher": "四川音樂學院",
+      "regions": [
+        "china",
+        "sichuan",
+        "taiwan",
+        "hong-kong"
+      ],
+      "rights": {
+        "evidence_url": "https://www.sccm.edu.cn/jx_myx/show-77.html",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory lecture report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/sccm-ten-hole-dizi-history-2007.html",
+      "slug": "sccm-ten-hole-dizi-history-2007",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "民樂系易加義教授竹笛講座",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "歷史與文化",
+        "樂器分類",
+        "樂器結構與製作",
+        "曲目、作曲及演奏實踐",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "history",
+        "instruments",
+        "making",
+        "repertoire",
+        "teaching"
+      ],
+      "topics": [
+        "instruments",
+        "ten-hole-dizi",
+        "modern-professionalization",
+        "pedagogy",
+        "repertoire",
+        "tuning",
+        "intonation"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "四川音樂學院民樂系"
+      ],
+      "canonical_url": "https://www.sccm.edu.cn/jx_myx/show-114.html",
+      "citation": {
+        "canonical_url": "https://www.sccm.edu.cn/jx_myx/show-114.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-sccm-zhang-weiliang-2009",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2009-04-18",
+      "publisher": "四川音樂學院",
+      "regions": [
+        "china",
+        "suzhou",
+        "beijing",
+        "sichuan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.sccm.edu.cn/jx_myx/show-114.html",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/sccm-zhang-weiliang-lecture-2009.html",
+      "slug": "sccm-zhang-weiliang-lecture-2009",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "中國音樂學院張維良教授來我院講學",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "teaching"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "composers",
+        "modern-professionalization",
+        "pedagogy"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "上海音樂學院"
+      ],
+      "canonical_url": "https://www.shcmusic.edu.cn/2019/1014/c1546a21637/page.htm",
+      "citation": {
+        "canonical_url": "https://www.shcmusic.edu.cn/2019/1014/c1546a21637/page.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-shcm-dizi-types-2019",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2019-10-14",
+      "publisher": "上海音樂學院",
+      "regions": [
+        "china",
+        "shanghai"
+      ],
+      "rights": {
+        "evidence_url": "https://www.shcmusic.edu.cn/2019/1014/c1546a21637/page.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory lecture report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/shcm-tang-junqiao-dizi-types-2019.html",
+      "slug": "shcm-tang-junqiao-dizi-types-2019",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "背靠傳統，面向現代｜唐俊喬教授《中國竹笛藝術縱橫談》課後感",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器分類",
+        "曲目、作曲及演奏實踐",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "instruments",
+        "repertoire",
+        "teaching"
+      ],
+      "topics": [
+        "instruments",
+        "dadi",
+        "bangdi",
+        "qudi",
+        "orchestration",
+        "timbre",
+        "pedagogy"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "沈興"
+      ],
+      "canonical_url": "https://bowuguan.shcmusic.edu.cn/2020/0528/c553a17572/page.htm",
+      "citation": {
+        "canonical_url": "https://bowuguan.shcmusic.edu.cn/2020/0528/c553a17572/page.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-shcm-lu-chunling-center-2020",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2020-06-08",
+      "publisher": "上海音樂學院東方樂器博物館",
+      "regions": [
+        "china",
+        "shanghai",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://bowuguan.shcmusic.edu.cn/2020/0528/c553a17572/page.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory museum page; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/shanghai-conservatory-lu-chunling-research-center.html",
+      "slug": "shanghai-conservatory-lu-chunling-research-center",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "陸春齡笛子藝術研究中心於上海音樂學院東方樂器博物館落成",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "heritage-bearers",
+        "museums",
+        "repertoire",
+        "south-school",
+        "jiangnan-sizhu",
+        "modern-professionalization"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T02:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "文匯報"
+      ],
+      "canonical_url": "https://www.shcmusic.edu.cn/2018/0526/c1686a38168/page.htm",
+      "citation": {
+        "canonical_url": "https://www.shcmusic.edu.cn/2018/0526/c1686a38168/page.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-shcm-lu-chunling-obituary-2018",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "republic",
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2018-05-26",
+      "publisher": "上海音樂學院",
+      "regions": [
+        "china",
+        "shanghai",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.shcmusic.edu.cn/2018/0526/c1686a38168/page.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory-hosted press reprint; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/shanghai-conservatory-lu-chunling-obituary-2018.html",
+      "slug": "shanghai-conservatory-lu-chunling-obituary-2018",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "生命不息笛聲不止：陸春齡生平與藝術貢獻",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "heritage-bearers",
+        "repertoire",
+        "traditional-solo",
+        "south-school",
+        "jiangnan-sizhu",
+        "modern-professionalization",
+        "intangible-heritage"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T02:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "上海音樂學院"
+      ],
+      "canonical_url": "https://www.shcmusic.edu.cn/2014/0604/c1627a22826/page.htm",
+      "citation": {
+        "canonical_url": "https://www.shcmusic.edu.cn/2014/0604/c1627a22826/page.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-shcm-tang-junqiao-profile",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2014-06-04",
+      "publisher": "上海音樂學院",
+      "regions": [
+        "china",
+        "shanghai"
+      ],
+      "rights": {
+        "evidence_url": "https://www.shcmusic.edu.cn/2014/0604/c1627a22826/page.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory faculty profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/shcm-tang-junqiao-profile.html",
+      "slug": "shcm-tang-junqiao-profile",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "唐俊喬",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "premieres",
+        "ensembles",
+        "new-compositions"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "上海戲劇學院附屬戲曲學校"
+      ],
+      "canonical_url": "https://sh-xiquschool.sta.edu.cn/wmzx/78/07/c4096a96263/page.htm",
+      "citation": {
+        "canonical_url": "https://sh-xiquschool.sta.edu.cn/wmzx/78/07/c4096a96263/page.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-sta-kunqu-qudi-2020",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2020-07-01",
+      "publisher": "上海戲劇學院附屬戲曲學校",
+      "regions": [
+        "china",
+        "jiangnan",
+        "shanghai"
+      ],
+      "rights": {
+        "evidence_url": "https://sh-xiquschool.sta.edu.cn/wmzx/78/07/c4096a96263/page.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official academy teaching report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-sta-kunqu-qudi-2020.html",
+      "slug": "web-sta-kunqu-qudi-2020",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "昆曲曲笛和音樂",
+      "top_level_topic_labels": [
+        "樂器分類",
+        "地域與流派",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "instruments",
+        "regional-styles",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "regional-styles",
+        "kunqu",
+        "qudi",
+        "opera",
+        "accompaniment",
+        "air-direction",
+        "grace-note"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "西南大學音樂學院"
+      ],
+      "canonical_url": "https://music.swu.edu.cn/info/1032/2735.htm",
+      "citation": {
+        "canonical_url": "https://music.swu.edu.cn/info/1032/2735.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-swu-zhang-weiliang-2021",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2021-10-22",
+      "publisher": "西南大學音樂學院",
+      "regions": [
+        "china",
+        "suzhou",
+        "beijing",
+        "chongqing"
+      ],
+      "rights": {
+        "evidence_url": "https://music.swu.edu.cn/info/1032/2735.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official university event profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/swu-zhang-weiliang-dizi-trends-2021.html",
+      "slug": "swu-zhang-weiliang-dizi-trends-2021",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "可經講壇｜竹笛藝術發展新趨勢",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "教學與學習"
+      ],
+      "top_level_topics": [
+        "people",
+        "teaching"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "composers",
+        "ensembles",
+        "pedagogy"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "國立臺南藝術大學亞太音樂研究中心"
+      ],
+      "canonical_url": "https://apmusicology.tnnua.edu.tw/p/406-1072-51918%2Cr1918.php",
+      "citation": {
+        "canonical_url": "https://apmusicology.tnnua.edu.tw/p/406-1072-51918%2Cr1918.php",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-tnnua-chen-chung-shen-profile",
+      "identifiers": {},
+      "language": "zh-Hant-TW",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "國立臺南藝術大學",
+      "regions": [
+        "taiwan"
+      ],
+      "rights": {
+        "evidence_url": "https://apmusicology.tnnua.edu.tw/p/406-1072-51918%2Cr1918.php",
+        "fulltext_storage_allowed": false,
+        "license": "Official university faculty profile; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/tnnua-chen-chung-shen-profile.html",
+      "slug": "tnnua-chen-chung-shen-profile",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "陳中申副教授",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "composers",
+        "educators",
+        "taiwan"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "清華大學藝術教育中心"
+      ],
+      "canonical_url": "https://www.hall.tsinghua.edu.cn/info/xwkx/1874",
+      "citation": {
+        "canonical_url": "https://www.hall.tsinghua.edu.cn/info/xwkx/1874",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-tsinghua-gusu-xing",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "清華大學藝術教育中心",
+      "regions": [
+        "china",
+        "south-china",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.hall.tsinghua.edu.cn/info/xwkx/1874",
+        "fulltext_storage_allowed": false,
+        "license": "Official university performance note; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/tsinghua-gusu-xing-performance-note.html",
+      "slug": "tsinghua-gusu-xing-performance-note",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "「青春飛揚」——上海民族樂團室內音樂會活力上演",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "repertoire",
+        "traditional-solo",
+        "south-school",
+        "form-analysis",
+        "people",
+        "composers",
+        "performers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "UNESCO"
+      ],
+      "canonical_url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004",
+      "citation": {
+        "canonical_url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-unesco-kunqu-00004",
+      "identifiers": {
+        "unesco_ich_id": "00004"
+      },
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "ming",
+        "qing",
+        "contemporary"
+      ],
+      "publication_date": "2008",
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "regions": [
+        "china",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004",
+        "fulltext_storage_allowed": false,
+        "license": "UNESCO heritage record; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-unesco-kunqu-00004.html",
+      "slug": "web-unesco-kunqu-00004",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "Kun Qu opera",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "樂器分類",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "instruments",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "regional-styles",
+        "kunqu",
+        "qudi",
+        "opera",
+        "intangible-heritage"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "Joe Wolfe"
+      ],
+      "canonical_url": "https://www.phys.unsw.edu.au/jw/air-speed.html",
+      "citation": {
+        "canonical_url": "https://www.phys.unsw.edu.au/jw/air-speed.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-unsw-air-speed-woodwinds",
+      "identifiers": {},
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "UNSW Sydney School of Physics",
+      "regions": [
+        "overseas"
+      ],
+      "rights": {
+        "evidence_url": "https://www.phys.unsw.edu.au/jw/air-speed.html",
+        "fulltext_storage_allowed": false,
+        "license": "University research webpage; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-unsw-air-speed-woodwinds.html",
+      "slug": "web-unsw-air-speed-woodwinds",
+      "source_grade": "A2",
+      "source_type": "official_webpage",
+      "title": "Air speed in wind instruments: how important is it?",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "techniques"
+      ],
+      "topics": [
+        "acoustics",
+        "air-direction",
+        "edge-tone",
+        "embouchure",
+        "intonation",
+        "pitch-range"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "Joe Wolfe"
+      ],
+      "canonical_url": "https://newt.phys.unsw.edu.au/jw/fluteacoustics.html",
+      "citation": {
+        "canonical_url": "https://newt.phys.unsw.edu.au/jw/fluteacoustics.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-unsw-flute-acoustics-intro",
+      "identifiers": {},
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "UNSW Sydney School of Physics",
+      "regions": [
+        "overseas"
+      ],
+      "rights": {
+        "evidence_url": "https://newt.phys.unsw.edu.au/jw/fluteacoustics.html",
+        "fulltext_storage_allowed": false,
+        "license": "University research webpage; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-unsw-flute-acoustics-intro.html",
+      "slug": "web-unsw-flute-acoustics-intro",
+      "source_grade": "A2",
+      "source_type": "official_webpage",
+      "title": "Flute acoustics: an introduction",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器結構與製作",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "making",
+        "techniques"
+      ],
+      "topics": [
+        "acoustics",
+        "edge-tone",
+        "air-column",
+        "embouchure-hole",
+        "embouchure",
+        "intonation",
+        "overblowing"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [
+        "Joe Wolfe"
+      ],
+      "canonical_url": "https://phys.unsw.edu.au/jw/warming.html",
+      "citation": {
+        "canonical_url": "https://phys.unsw.edu.au/jw/warming.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-unsw-warming-wind-instrument",
+      "identifiers": {},
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "UNSW Sydney School of Physics",
+      "regions": [
+        "overseas"
+      ],
+      "rights": {
+        "evidence_url": "https://phys.unsw.edu.au/jw/warming.html",
+        "fulltext_storage_allowed": false,
+        "license": "University research webpage; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/web-unsw-warming-wind-instrument.html",
+      "slug": "web-unsw-warming-wind-instrument",
+      "source_grade": "A2",
+      "source_type": "official_webpage",
+      "title": "'Warming up' a wind instrument",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "維修、保養及健康",
+        "樂器結構與製作"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "maintenance",
+        "making"
+      ],
+      "topics": [
+        "acoustics",
+        "temperature",
+        "intonation",
+        "humidity",
+        "tuning"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.0,
+        "last_verified_at": "2026-08-13T10:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "UNVERIFIED"
+      },
+      "workflow_status": "LINK_ONLY"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://vi-co.org/resources-study/instrument-corner/dizi/",
+      "citation": {
+        "canonical_url": "https://vi-co.org/resources-study/instrument-corner/dizi/",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-vico-dizi-resource",
+      "identifiers": {},
+      "language": "en",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "",
+      "publisher": "Vancouver Inter-Cultural Orchestra",
+      "regions": [
+        "china",
+        "overseas"
+      ],
+      "rights": {
+        "evidence_url": "https://vi-co.org/resources-study/instrument-corner/dizi/",
+        "fulltext_storage_allowed": false,
+        "license": "Professional orchestra study resource; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/vancouver-inter-cultural-orchestra-dizi-resource.html",
+      "slug": "vancouver-inter-cultural-orchestra-dizi-resource",
+      "source_grade": "B1",
+      "source_type": "official_webpage",
+      "title": "Dizi (Chinese transverse bamboo flute)",
+      "top_level_topic_labels": [
+        "聲學與音律",
+        "樂器分類",
+        "樂器結構與製作",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "acoustics",
+        "instruments",
+        "making",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "instruments",
+        "dizi",
+        "making",
+        "membrane-hole",
+        "acoustics",
+        "membrane-vibration",
+        "intonation",
+        "pitch-range",
+        "tuning",
+        "techniques",
+        "fixed-do-1",
+        "fixed-do-2",
+        "fixed-do-3",
+        "half-holing",
+        "cross-fingering",
+        "single-tonguing",
+        "double-tonguing",
+        "triple-tonguing",
+        "flutter-tonguing",
+        "vibrato",
+        "slide",
+        "harmonic-playing",
+        "overblowing",
+        "orchestration"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.765,
+        "last_verified_at": "2026-08-13T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.wxmuseum.cn/Wap/News/Details/b0e091fe-0e6f-4858-81a2-b7a752c907ab",
+      "citation": {
+        "canonical_url": "https://www.wxmuseum.cn/Wap/News/Details/b0e091fe-0e6f-4858-81a2-b7a752c907ab",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-wuxi-yu-xunfa-2024",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "2026-08-01T02:26:43Z",
+        "http_status": null,
+        "status": "OK"
+      },
+      "periods": [
+        "contemporary"
+      ],
+      "publication_date": "2024-01-12",
+      "publisher": "無錫博物院",
+      "regions": [
+        "jiangnan",
+        "china"
+      ],
+      "rights": {
+        "evidence_url": "https://www.wxmuseum.cn/Wap/News/Details/b0e091fe-0e6f-4858-81a2-b7a752c907ab",
+        "fulltext_storage_allowed": false,
+        "license": "Official page; preserve link and metadata only until republishing terms are reviewed",
+        "status": "VIEW_ONLY",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/wuxi-museum-invisible-water-yu-xunfa-2024.html",
+      "slug": "wuxi-museum-invisible-water-yu-xunfa-2024",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "活動回顧｜《无形之水》现场音乐创作体验",
+      "top_level_topic_labels": [
+        "錄音、數碼化及人工智能",
+        "歷史與文化",
+        "人物與機構",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "digital-music",
+        "history",
+        "people",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "people",
+        "repertoire",
+        "techniques",
+        "history",
+        "digital-music"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-01T00:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "共青團西安科技大學委員會"
+      ],
+      "canonical_url": "https://tw.xust.edu.cn/info/1063/3644.htm",
+      "citation": {
+        "canonical_url": "https://tw.xust.edu.cn/info/1063/3644.htm",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-xust-yangbian-2023",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "contemporary"
+      ],
+      "publication_date": "2023-12-09",
+      "publisher": "西安科技大學",
+      "regions": [
+        "china",
+        "north-china"
+      ],
+      "rights": {
+        "evidence_url": "https://tw.xust.edu.cn/info/1063/3644.htm",
+        "fulltext_storage_allowed": false,
+        "license": "Official university concert note; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/xust-yangbian-cuima-program-note-2023.html",
+      "slug": "xust-yangbian-cuima-program-note-2023",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "秋之韻｜民樂專場音樂會",
+      "top_level_topic_labels": [
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "repertoire",
+        "new-compositions",
+        "north-school",
+        "form-analysis",
+        "people",
+        "composers"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T06:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.zjcm.edu.cn/zyxw/zyyw/201511/51528.html",
+      "citation": {
+        "canonical_url": "https://www.zjcm.edu.cn/zyxw/zyyw/201511/51528.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-zjcm-zhao-songting-center-2015",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era",
+        "contemporary"
+      ],
+      "publication_date": "2015-11-25",
+      "publisher": "浙江音樂學院",
+      "regions": [
+        "china",
+        "zhejiang",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.zjcm.edu.cn/zyxw/zyyw/201511/51528.html",
+        "fulltext_storage_allowed": false,
+        "license": "Official conservatory news page; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/zhejiang-conservatory-zhao-songting-center-2015.html",
+      "slug": "zhejiang-conservatory-zhao-songting-center-2015",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "「松庭流芳」趙松庭竹笛國際藝術中心在浙江音樂學院成立",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "repertoire"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "conservatories",
+        "repertoire",
+        "traditional-solo",
+        "new-compositions",
+        "south-school",
+        "modern-professionalization"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T02:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "洪盛"
+      ],
+      "canonical_url": "https://web.zjvaa.edu.cn/a/2008526/4462.shtml",
+      "citation": {
+        "canonical_url": "https://web.zjvaa.edu.cn/a/2008526/4462.shtml",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-zjvaa-zeng-yongqing-2008",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era"
+      ],
+      "publication_date": "2008-05-26",
+      "publisher": "浙江藝術職業學院附中",
+      "regions": [
+        "china",
+        "tianjin",
+        "beijing",
+        "zhejiang"
+      ],
+      "rights": {
+        "evidence_url": "https://web.zjvaa.edu.cn/a/2008526/4462.shtml",
+        "fulltext_storage_allowed": false,
+        "license": "Official arts college report; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/zjvaa-zeng-yongqing-dizi-lecture-2008.html",
+      "slug": "zjvaa-zeng-yongqing-dizi-lecture-2008",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "『曾永清笛子藝術講座』有感",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "techniques"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "north-school",
+        "modern-professionalization",
+        "techniques"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T08:10:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    },
+    {
+      "authors": [
+        "浙江藝術職業學院宣教處"
+      ],
+      "canonical_url": "https://www.zjvaa.edu.cn/zyfc/zyfc-xywh/201103/10836.html",
+      "citation": {
+        "canonical_url": "https://www.zjvaa.edu.cn/zyfc/zyfc-xywh/201103/10836.html",
+        "page_aware": false
+      },
+      "content_completeness_status": "METADATA_ONLY",
+      "id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "identifiers": {},
+      "language": "zh-Hans",
+      "link_health": {
+        "checked_at": "",
+        "http_status": null,
+        "status": "NOT_CHECKED"
+      },
+      "periods": [
+        "prc-1949-1978",
+        "reform-era"
+      ],
+      "publication_date": "2011-03-24",
+      "publisher": "浙江藝術職業學院",
+      "regions": [
+        "china",
+        "zhejiang",
+        "jiangnan"
+      ],
+      "rights": {
+        "evidence_url": "https://www.zjvaa.edu.cn/zyfc/zyfc-xywh/201103/10836.html",
+        "fulltext_storage_allowed": false,
+        "license": "Official college article; retain canonical link, metadata and brief reviewed evidence only",
+        "status": "COPYRIGHT_RESTRICTED",
+        "website_republish_allowed": false
+      },
+      "route": "static_pages/sources/zhao-songting-and-san-wu-qi.html",
+      "slug": "zhao-songting-and-san-wu-qi",
+      "source_grade": "A1",
+      "source_type": "official_webpage",
+      "title": "趙松庭與他的《三五七》",
+      "top_level_topic_labels": [
+        "歷史與文化",
+        "人物與機構",
+        "地域與流派",
+        "曲目、作曲及演奏實踐",
+        "指法與演奏技法"
+      ],
+      "top_level_topics": [
+        "history",
+        "people",
+        "regional-styles",
+        "repertoire",
+        "techniques"
+      ],
+      "topics": [
+        "people",
+        "performers",
+        "educators",
+        "repertoire",
+        "traditional-solo",
+        "south-school",
+        "opera",
+        "circular-breathing",
+        "conservatory-history"
+      ],
+      "verification": {
+        "claims": "PARTIALLY_VERIFIED",
+        "confidence": 0.815,
+        "last_verified_at": "2026-08-13T02:00:00Z",
+        "metadata": "VERIFIED",
+        "overall": "PARTIALLY_VERIFIED"
+      },
+      "workflow_status": "APPROVED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

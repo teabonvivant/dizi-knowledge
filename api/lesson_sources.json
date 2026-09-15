@@ -1,0 +1,260 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "lesson_id": "lesson-beginner",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:20:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "museum_playing_technique_reference",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-beginner",
+      "locator": {
+        "page_end": 112,
+        "page_start": 109
+      },
+      "reviewed_at": "2026-08-13T04:20:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "breath_embouchure_and_tonguing_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-beginner",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:20:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "beginner_curriculum_analysis",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-beginner",
+      "locator": {
+        "paragraph": 2,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:20:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "breath_embouchure_and_holding_reference",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-common-errors",
+      "locator": {
+        "section": "Description"
+      },
+      "reviewed_at": "2026-08-13T01:12:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "instrument_structure_reference",
+      "source_id": "museum-grinnell-dizi-1533",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-common-errors",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T01:12:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "acoustics_and_technique_reference",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-common-errors",
+      "locator": {
+        "section": "笛子如何保養？"
+      },
+      "reviewed_at": "2026-08-13T01:12:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_care_reference",
+      "source_id": "web-lcsd-dizi-maintenance",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-common-errors",
+      "locator": {
+        "section": "竹笛"
+      },
+      "reviewed_at": "2026-08-13T01:12:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_care_reference",
+      "source_id": "web-parsons-dizi-maintenance-2022",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-common-errors",
+      "locator": {
+        "section": "Accidentals; General Considerations"
+      },
+      "reviewed_at": "2026-08-13T01:12:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "professional_technique_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-30-days",
+      "locator": {
+        "page_end": 112,
+        "page_start": 111
+      },
+      "reviewed_at": "2026-08-13T01:11:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "performance_practice_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-30-days",
+      "locator": {
+        "end_seconds": 67,
+        "start_seconds": 0
+      },
+      "reviewed_at": "2026-08-13T01:11:00Z",
+      "reviewed_by": "codex-browser-visual-review",
+      "role": "verified_demonstration",
+      "source_id": "video-youtube-stlpwb0vbjk",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-30-days",
+      "locator": {
+        "section": "笛子如何保養？"
+      },
+      "reviewed_at": "2026-08-13T01:11:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_care_reference",
+      "source_id": "web-lcsd-dizi-maintenance",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-30-days",
+      "locator": {
+        "section": "Tunings and Pitches; Accidentals; Techniques"
+      },
+      "reviewed_at": "2026-08-13T01:11:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "independent_technique_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-contact",
+      "locator": {
+        "section": "Description and Player-Instrument Interface"
+      },
+      "reviewed_at": "2026-08-13T01:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "museum_object_reference",
+      "source_id": "museum-grinnell-dizi-1533",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-contact",
+      "locator": {
+        "page_end": 2,
+        "page_start": 1
+      },
+      "reviewed_at": "2026-08-13T01:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "instrument_and_acoustics_reference",
+      "source_id": "paper-luan-dizi-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-contact",
+      "locator": {
+        "section": "笛子如何保養？"
+      },
+      "reviewed_at": "2026-08-13T01:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "official_care_reference",
+      "source_id": "web-lcsd-dizi-maintenance",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-first-contact",
+      "locator": {
+        "section": "Tunings and Pitches; General Considerations"
+      },
+      "reviewed_at": "2026-08-13T01:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "role": "professional_orchestration_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-intermediate",
+      "locator": {
+        "paragraph": 1,
+        "section": "Playing technique"
+      },
+      "reviewed_at": "2026-08-13T04:21:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "museum_playing_technique_reference",
+      "source_id": "museum-wesleyan-di-2005",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-intermediate",
+      "locator": {
+        "page_end": 114,
+        "page_start": 109
+      },
+      "reviewed_at": "2026-08-13T04:21:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "advanced_technique_and_style_reference",
+      "source_id": "thesis-chai-dizi-2014",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-intermediate",
+      "locator": {
+        "paragraph": 1,
+        "section": "研究結果"
+      },
+      "reviewed_at": "2026-08-13T04:21:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "curriculum_sequence_and_integration",
+      "source_id": "thesis-chang-dizi-textbook-2024",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-intermediate",
+      "locator": {
+        "paragraph": 3,
+        "section": "Dizi performance practice, printed page 35"
+      },
+      "reviewed_at": "2026-08-13T04:21:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "modern_performance_practice_context",
+      "source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "lesson_id": "lesson-intermediate",
+      "locator": {
+        "section": "Techniques; Glissandi; Vibrato"
+      },
+      "reviewed_at": "2026-08-13T04:21:00Z",
+      "reviewed_by": "codex-pedagogy-audit",
+      "role": "professional_orchestration_and_technique_reference",
+      "source_id": "web-vico-dizi-resource",
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

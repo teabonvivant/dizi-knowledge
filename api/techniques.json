@@ -1,0 +1,720 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "aliases": [
+        "circular breathing"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "circular-breathing",
+      "maturity": {
+        "id": "circular-breathing",
+        "maturity_label": "教學可用",
+        "maturity_level": "L3",
+        "metrics": {
+          "characters": 1752,
+          "external_expert_reviewed": false,
+          "independent_sources": 6,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 6,
+          "verified_claims": 17
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/circular-breathing.html",
+        "slug": "circular-breathing",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "thesis-pimentel-woodwind-doubling-2009",
+          "web-actor-chinese-orchestra-winds",
+          "web-ccom-zhushi-interview-2022",
+          "web-zjvaa-zhao-songting-sanwuqi-2011"
+        ],
+        "title": "循環換氣"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "循環換氣",
+      "route": "static_pages/techniques/circular-breathing.html",
+      "slug": "circular-breathing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "cross-fingering"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "cross-fingering",
+      "maturity": {
+        "id": "cross-fingering",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 812,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/cross-fingering.html",
+        "slug": "cross-fingering",
+        "source_ids": [
+          "paper-luan-dizi-2024",
+          "web-vico-dizi-resource"
+        ],
+        "title": "叉指"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "叉指",
+      "route": "static_pages/techniques/cross-fingering.html",
+      "slug": "cross-fingering",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "dimo",
+        "membrane attachment"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "dimo-attachment",
+      "maturity": {
+        "id": "dimo-attachment",
+        "maturity_label": "教學可用",
+        "maturity_level": "L3",
+        "metrics": {
+          "characters": 2223,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 15
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/dimo-attachment.html",
+        "slug": "dimo-attachment",
+        "source_ids": [
+          "museum-grinnell-dizi-1533",
+          "paper-luan-dizi-2024",
+          "web-actor-chinese-orchestra-winds",
+          "web-vico-dizi-resource"
+        ],
+        "title": "笛膜貼膜"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "笛膜貼膜",
+      "route": "static_pages/techniques/dimo-attachment.html",
+      "slug": "dimo-attachment",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "double tonguing",
+        "TK",
+        "T K"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "double-tonguing",
+      "maturity": {
+        "id": "double-tonguing",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 815,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/double-tonguing.html",
+        "slug": "double-tonguing",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "video-youtube-stlpwb0vbjk",
+          "web-vico-dizi-resource"
+        ],
+        "title": "雙吐"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "雙吐",
+      "route": "static_pages/techniques/double-tonguing.html",
+      "slug": "double-tonguing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "embouchure"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "embouchure",
+      "maturity": {
+        "id": "embouchure",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 902,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/embouchure.html",
+        "slug": "embouchure",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "thesis-pimentel-woodwind-doubling-2009"
+        ],
+        "title": "口型與風門"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "口型與風門",
+      "route": "static_pages/techniques/embouchure.html",
+      "slug": "embouchure",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "flying fingers",
+        "finger glissando"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "finger-glissando",
+      "maturity": {
+        "id": "finger-glissando",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "technique",
+        "route": "static_pages/techniques/finger-glissando.html",
+        "slug": "finger-glissando",
+        "source_ids": [],
+        "title": "飛指／指滑音"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "飛指／指滑音",
+      "route": "static_pages/techniques/finger-glissando.html",
+      "slug": "finger-glissando",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "flutter tonguing"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "flutter-tonguing",
+      "maturity": {
+        "id": "flutter-tonguing",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 765,
+          "external_expert_reviewed": false,
+          "independent_sources": 5,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 5,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/flutter-tonguing.html",
+        "slug": "flutter-tonguing",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "thesis-chang-dizi-textbook-2024",
+          "thesis-pimentel-woodwind-doubling-2009",
+          "web-vico-dizi-resource"
+        ],
+        "title": "花舌／吐花舌"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "花舌／吐花舌",
+      "route": "static_pages/techniques/flutter-tonguing.html",
+      "slug": "flutter-tonguing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "half-holing"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "half-holing",
+      "maturity": {
+        "id": "half-holing",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 812,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/half-holing.html",
+        "slug": "half-holing",
+        "source_ids": [
+          "paper-luan-dizi-2024",
+          "web-vico-dizi-resource"
+        ],
+        "title": "半孔"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "半孔",
+      "route": "static_pages/techniques/half-holing.html",
+      "slug": "half-holing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "harmonics",
+        "harmonic playing"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "harmonic-playing",
+      "maturity": {
+        "id": "harmonic-playing",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 1
+        },
+        "public_ready": false,
+        "record_type": "technique",
+        "route": "static_pages/techniques/harmonic-playing.html",
+        "slug": "harmonic-playing",
+        "source_ids": [
+          "web-vico-dizi-resource"
+        ],
+        "title": "泛音奏法"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "泛音奏法",
+      "route": "static_pages/techniques/harmonic-playing.html",
+      "slug": "harmonic-playing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "long tone",
+        "sustained tone"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "long-tone",
+      "maturity": {
+        "id": "long-tone",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 837,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 5
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/long-tone.html",
+        "slug": "long-tone",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "thesis-chang-dizi-textbook-2024",
+          "thesis-pimentel-woodwind-doubling-2009"
+        ],
+        "title": "長音"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "長音",
+      "route": "static_pages/techniques/long-tone.html",
+      "slug": "long-tone",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "overblowing"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "overblowing",
+      "maturity": {
+        "id": "overblowing",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 1
+        },
+        "public_ready": false,
+        "record_type": "technique",
+        "route": "static_pages/techniques/overblowing.html",
+        "slug": "overblowing",
+        "source_ids": [
+          "museum-grinnell-dizi-1533"
+        ],
+        "title": "超吹"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "超吹",
+      "route": "static_pages/techniques/overblowing.html",
+      "slug": "overblowing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "portamento"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "portamento",
+      "maturity": {
+        "id": "portamento",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 740,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/portamento.html",
+        "slug": "portamento",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chang-dizi-textbook-2024",
+          "web-vico-dizi-resource"
+        ],
+        "title": "抹音／連續滑音"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "抹音／連續滑音",
+      "route": "static_pages/techniques/portamento.html",
+      "slug": "portamento",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "posture",
+        "holding position"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "posture",
+      "maturity": {
+        "id": "posture",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 902,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/posture.html",
+        "slug": "posture",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "thesis-pimentel-woodwind-doubling-2009"
+        ],
+        "title": "持笛姿勢"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "持笛姿勢",
+      "route": "static_pages/techniques/posture.html",
+      "slug": "posture",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "single tonguing",
+        "T"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "single-tonguing",
+      "maturity": {
+        "id": "single-tonguing",
+        "maturity_label": "教學可用",
+        "maturity_level": "L3",
+        "metrics": {
+          "characters": 804,
+          "external_expert_reviewed": false,
+          "independent_sources": 5,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 5,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/single-tonguing.html",
+        "slug": "single-tonguing",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "thesis-chang-dizi-textbook-2024",
+          "thesis-pimentel-woodwind-doubling-2009",
+          "web-vico-dizi-resource"
+        ],
+        "title": "單吐"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "單吐",
+      "route": "static_pages/techniques/single-tonguing.html",
+      "slug": "single-tonguing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "glissando",
+        "slide"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "slide",
+      "maturity": {
+        "id": "slide",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 740,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/slide.html",
+        "slug": "slide",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chang-dizi-textbook-2024",
+          "web-vico-dizi-resource"
+        ],
+        "title": "滑音"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "滑音",
+      "route": "static_pages/techniques/slide.html",
+      "slug": "slide",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "trill",
+        "trillo"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "trill",
+      "maturity": {
+        "id": "trill",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 716,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 7
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/trill.html",
+        "slug": "trill",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "thesis-chang-dizi-textbook-2024"
+        ],
+        "title": "指顫音／顫指"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "指顫音／顫指",
+      "route": "static_pages/techniques/trill.html",
+      "slug": "trill",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "triple tonguing",
+        "TTK"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "triple-tonguing",
+      "maturity": {
+        "id": "triple-tonguing",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 769,
+          "external_expert_reviewed": false,
+          "independent_sources": 5,
+          "learning_features": 1,
+          "reviewed": true,
+          "sources": 5,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/triple-tonguing.html",
+        "slug": "triple-tonguing",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "thesis-chang-dizi-textbook-2024",
+          "thesis-pimentel-woodwind-doubling-2009",
+          "web-vico-dizi-resource"
+        ],
+        "title": "三吐"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "三吐",
+      "route": "static_pages/techniques/triple-tonguing.html",
+      "slug": "triple-tonguing",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "vibrato"
+      ],
+      "definition": "",
+      "entity_type": "techniques",
+      "id": "vibrato",
+      "maturity": {
+        "id": "vibrato",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 764,
+          "external_expert_reviewed": false,
+          "independent_sources": 5,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 5,
+          "verified_claims": 7
+        },
+        "public_ready": true,
+        "record_type": "technique",
+        "route": "static_pages/techniques/vibrato.html",
+        "slug": "vibrato",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "thesis-chang-dizi-textbook-2024",
+          "web-actor-chinese-orchestra-winds",
+          "web-vico-dizi-resource"
+        ],
+        "title": "顫音／氣震音"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "顫音／氣震音",
+      "route": "static_pages/techniques/vibrato.html",
+      "slug": "vibrato",
+      "verification_status": "UNVERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

@@ -1,0 +1,498 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "claim_id": "claim-curriculum-chang-01",
+      "display_order": 1,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-curriculum-chang-03",
+      "display_order": 2,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-curriculum-chang-04",
+      "display_order": 3,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-curriculum-chang-05",
+      "display_order": 4,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-longtone-chang-01",
+      "display_order": 5,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-single-chang-01",
+      "display_order": 6,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-longtone-wesleyan-01",
+      "display_order": 7,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-single-wesleyan-01",
+      "display_order": 8,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-pimentel-02",
+      "display_order": 9,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-pimentel-03",
+      "display_order": 10,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-chai-01",
+      "display_order": 11,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-chai-02",
+      "display_order": 12,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-chai-03",
+      "display_order": 13,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-chai-04",
+      "display_order": 14,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-longtone-chai-01",
+      "display_order": 15,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-longtone-chai-02",
+      "display_order": 16,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-single-chai-01",
+      "display_order": 17,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-single-chai-03",
+      "display_order": 18,
+      "lesson_id": "lesson-beginner",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-02",
+      "display_order": 1,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-03",
+      "display_order": 2,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-06",
+      "display_order": 3,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-07",
+      "display_order": 4,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-13",
+      "display_order": 5,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-15",
+      "display_order": 6,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-grinnell-03",
+      "display_order": 7,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-06",
+      "display_order": 8,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-07",
+      "display_order": 9,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-08",
+      "display_order": 10,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-lcsd-maintenance-01",
+      "display_order": 11,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-lcsd-maintenance-02",
+      "display_order": 12,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-parsons-maintenance-01",
+      "display_order": 13,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-parsons-maintenance-02",
+      "display_order": 14,
+      "lesson_id": "lesson-common-errors",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-chai-07",
+      "display_order": 1,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-chai-08",
+      "display_order": 2,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-chai-09",
+      "display_order": 3,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-chai-10",
+      "display_order": 4,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-chai-11",
+      "display_order": 5,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-02",
+      "display_order": 6,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-06",
+      "display_order": 7,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-07",
+      "display_order": 8,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-11",
+      "display_order": 9,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-video-double-01",
+      "display_order": 10,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-video-double-02",
+      "display_order": 11,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-lcsd-maintenance-01",
+      "display_order": 12,
+      "lesson_id": "lesson-first-30-days",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-01",
+      "display_order": 1,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-02",
+      "display_order": 2,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-03",
+      "display_order": 3,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-07",
+      "display_order": 4,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-luan-08",
+      "display_order": 5,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-grinnell-02",
+      "display_order": 6,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-grinnell-03",
+      "display_order": 7,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-grinnell-04",
+      "display_order": 8,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-grinnell-06",
+      "display_order": 9,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vico-02",
+      "display_order": 10,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-lcsd-maintenance-01",
+      "display_order": 11,
+      "lesson_id": "lesson-first-contact",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-curriculum-chang-02",
+      "display_order": 1,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vibrato-chang-01",
+      "display_order": 2,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-triple-chang-01",
+      "display_order": 3,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-flutter-chang-01",
+      "display_order": 4,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-slide-chang-01",
+      "display_order": 5,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-trill-chang-01",
+      "display_order": 6,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-chai-01",
+      "display_order": 7,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-chai-03",
+      "display_order": 8,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-embouchure-chai-04",
+      "display_order": 9,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-triple-chai-02",
+      "display_order": 10,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-trill-chai-01",
+      "display_order": 11,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-trill-chai-02",
+      "display_order": 12,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-trill-chai-03",
+      "display_order": 13,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vibrato-chai-01",
+      "display_order": 14,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vibrato-chai-02",
+      "display_order": 15,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-circular-chai-01",
+      "display_order": 16,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-circular-chai-02",
+      "display_order": 17,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-circular-chai-04",
+      "display_order": 18,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-circular-chai-05",
+      "display_order": 19,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-slide-vico-01",
+      "display_order": 20,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-slide-vico-02",
+      "display_order": 21,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-slide-vico-03",
+      "display_order": 22,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vibrato-vico-01",
+      "display_order": 23,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-vibrato-vico-02",
+      "display_order": 24,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-triple-vico-01",
+      "display_order": 25,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-flutter-pimentel-01",
+      "display_order": 26,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    },
+    {
+      "claim_id": "claim-circular-wesleyan-01",
+      "display_order": 27,
+      "lesson_id": "lesson-intermediate",
+      "role": "supports"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

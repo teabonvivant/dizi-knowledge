@@ -1,0 +1,2044 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-actor-chinese-orchestra-winds",
+      "id": "org-actor",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-actor",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/actor-timbre-and-orchestration-resource.html",
+        "slug": "actor-timbre-and-orchestration-resource",
+        "source_ids": [
+          "web-actor-chinese-orchestra-winds"
+        ],
+        "title": "ACTOR Timbre and Orchestration Resource"
+      },
+      "metadata": {
+        "canonical_url": "https://timbreandorchestration.org/",
+        "source_ids": [
+          "web-actor-chinese-orchestra-winds"
+        ]
+      },
+      "name": "ACTOR Timbre and Orchestration Resource",
+      "organization_type": "research_project",
+      "region_id": "",
+      "reviewed_at": "2026-08-12T18:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/actor-timbre-and-orchestration-resource.html",
+      "slug": "actor-timbre-and-orchestration-resource",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-ahnu-mumin-xinge-2017",
+      "id": "org-ahnu-music",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-ahnu-music",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/anhui-normal-university-school-of-music.html",
+        "slug": "anhui-normal-university-school-of-music",
+        "source_ids": [
+          "web-ahnu-mumin-xinge-2017"
+        ],
+        "title": "安徽師範大學音樂學院"
+      },
+      "metadata": {
+        "canonical_url": "https://music.ahnu.edu.cn/",
+        "source_ids": [
+          "web-ahnu-mumin-xinge-2017"
+        ]
+      },
+      "name": "安徽師範大學音樂學院",
+      "organization_type": "university_music_school",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T06:25:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/anhui-normal-university-school-of-music.html",
+      "slug": "anhui-normal-university-school-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-ccom-pamier-album-2025",
+      "id": "org-beijing-global-audio",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-beijing-global-audio",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/beijing-global-audio-publishing.html",
+        "slug": "beijing-global-audio-publishing",
+        "source_ids": [
+          "web-ccom-pamier-album-2025"
+        ],
+        "title": "北京環球音像出版社"
+      },
+      "metadata": {
+        "canonical_url": "https://zhuanti.ccom.edu.cn/bjhqyxcbs/",
+        "source_ids": [
+          "web-ccom-pamier-album-2025"
+        ]
+      },
+      "name": "北京環球音像出版社",
+      "organization_type": "music_publisher",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T06:25:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/beijing-global-audio-publishing.html",
+      "slug": "beijing-global-audio-publishing",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "paper-luan-dizi-2024",
+      "id": "org-central-conservatory-music",
+      "locator": {
+        "page": 1,
+        "type": "page"
+      },
+      "maturity": {
+        "id": "org-central-conservatory-music",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 5,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 5,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/central-conservatory-of-music.html",
+        "slug": "central-conservatory-of-music",
+        "source_ids": [
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "paper-luan-dizi-2024",
+          "web-ccom-daiya-eight-hole-2023",
+          "web-ccom-zeng-qinchuan-2018",
+          "web-ccom-zhushi-interview-2022"
+        ],
+        "title": "Central Conservatory of Music"
+      },
+      "metadata": {
+        "evidence_excerpt": "Department of Music AI, Central Conservatory of Music, China",
+        "source_ids": [
+          "paper-luan-dizi-2024"
+        ]
+      },
+      "name": "Central Conservatory of Music",
+      "organization_type": "conservatory",
+      "region_id": "china",
+      "reviewed_at": "2026-08-01T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/central-conservatory-of-music.html",
+      "slug": "central-conservatory-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-ccom-press-performance-professionalization-2024",
+      "id": "org-ccom-press",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-ccom-press",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/central-conservatory-of-music-press.html",
+        "slug": "central-conservatory-of-music-press",
+        "source_ids": [
+          "web-ccom-press-performance-professionalization-2024"
+        ],
+        "title": "中央音樂學院出版社"
+      },
+      "metadata": {
+        "canonical_url": "https://press.ccom.edu.cn/",
+        "source_ids": [
+          "web-ccom-press-performance-professionalization-2024"
+        ]
+      },
+      "name": "中央音樂學院出版社",
+      "organization_type": "academic_publisher",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T02:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/central-conservatory-of-music-press.html",
+      "slug": "central-conservatory-of-music-press",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "thesis-pccu-dadi-2010",
+      "id": "org-pccu",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-pccu",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/chinese-culture-university.html",
+        "slug": "chinese-culture-university",
+        "source_ids": [
+          "thesis-pccu-dadi-2010"
+        ],
+        "title": "中國文化大學"
+      },
+      "metadata": {
+        "canonical_url": "https://www.pccu.edu.tw/",
+        "source_ids": [
+          "thesis-pccu-dadi-2010"
+        ]
+      },
+      "name": "中國文化大學",
+      "organization_type": "university",
+      "region_id": "taiwan",
+      "reviewed_at": "2026-08-13T08:20:12Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/chinese-culture-university.html",
+      "slug": "chinese-culture-university",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "archive-cma-zeng-yongqing-2023",
+      "id": "org-chinese-music-archive",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-chinese-music-archive",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/chinese-music-archive.html",
+        "slug": "chinese-music-archive",
+        "source_ids": [
+          "archive-cma-zeng-yongqing-2023"
+        ],
+        "title": "中國民族音樂資料館 Chinese Music Archive"
+      },
+      "metadata": {
+        "canonical_url": "https://chinesemusics.com/",
+        "source_ids": [
+          "archive-cma-zeng-yongqing-2023"
+        ]
+      },
+      "name": "中國民族音樂資料館 Chinese Music Archive",
+      "organization_type": "specialist_archive",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/chinese-music-archive.html",
+      "slug": "chinese-music-archive",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-chzu-yu-xunfa-2026",
+      "id": "org-chuzhou-university",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-chuzhou-university",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/chuzhou-university.html",
+        "slug": "chuzhou-university",
+        "source_ids": [
+          "web-chzu-yu-xunfa-2026"
+        ],
+        "title": "滁州學院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.chzu.edu.cn/",
+        "source_ids": [
+          "web-chzu-yu-xunfa-2026"
+        ]
+      },
+      "name": "滁州學院",
+      "organization_type": "university",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/chuzhou-university.html",
+      "slug": "chuzhou-university",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "museum-grinnell-dizi-1533",
+      "id": "org-grinnell-libraries",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-grinnell-libraries",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/grinnell-college-libraries.html",
+        "slug": "grinnell-college-libraries",
+        "source_ids": [
+          "museum-grinnell-dizi-1533"
+        ],
+        "title": "Grinnell College Libraries"
+      },
+      "metadata": {
+        "canonical_url": "https://www.grinnell.edu/academics/libraries",
+        "source_ids": [
+          "museum-grinnell-dizi-1533"
+        ]
+      },
+      "name": "Grinnell College Libraries",
+      "organization_type": "academic_library",
+      "region_id": "",
+      "reviewed_at": "2026-08-12T18:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/grinnell-college-libraries.html",
+      "slug": "grinnell-college-libraries",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "museum-henan-jiahu-bone-flute",
+      "id": "org-henan-museum",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-henan-museum",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/henan-museum.html",
+        "slug": "henan-museum",
+        "source_ids": [
+          "museum-henan-jiahu-bone-flute"
+        ],
+        "title": "河南博物院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.chnmus.net/",
+        "source_ids": [
+          "museum-henan-jiahu-bone-flute"
+        ]
+      },
+      "name": "河南博物院",
+      "organization_type": "museum",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T04:45:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/henan-museum.html",
+      "slug": "henan-museum",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-hkgov-xiao-masters-2000",
+      "id": "org-hksar-government",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-hksar-government",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/hong-kong-sar-government.html",
+        "slug": "hong-kong-sar-government",
+        "source_ids": [
+          "web-hkgov-tam-literature-2011",
+          "web-hkgov-xiao-masters-2000"
+        ],
+        "title": "香港特別行政區政府"
+      },
+      "metadata": {
+        "canonical_url": "https://www.gov.hk/",
+        "source_ids": [
+          "web-hkgov-xiao-masters-2000"
+        ]
+      },
+      "name": "香港特別行政區政府",
+      "organization_type": "government",
+      "region_id": "hong-kong",
+      "reviewed_at": "2026-08-13T08:20:05Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/hong-kong-sar-government.html",
+      "slug": "hong-kong-sar-government",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-huain-feng-zicun-120-2024",
+      "id": "org-huain",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-huain",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/huain-chinese-music-network.html",
+        "slug": "huain-chinese-music-network",
+        "source_ids": [
+          "web-huain-feng-zicun-120-2024"
+        ],
+        "title": "華音網"
+      },
+      "metadata": {
+        "canonical_url": "https://www.huain.com/",
+        "source_ids": [
+          "web-huain-feng-zicun-120-2024"
+        ]
+      },
+      "name": "華音網",
+      "organization_type": "specialist_music_media",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T02:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/huain-chinese-music-network.html",
+      "slug": "huain-chinese-music-network",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-hqu-ten-hole-paper-2015",
+      "id": "org-huaqiao-university",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-huaqiao-university",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/huaqiao-university.html",
+        "slug": "huaqiao-university",
+        "source_ids": [
+          "web-hqu-ten-hole-paper-2015"
+        ],
+        "title": "華僑大學"
+      },
+      "metadata": {
+        "canonical_url": "https://www.hqu.edu.cn/",
+        "source_ids": [
+          "web-hqu-ten-hole-paper-2015"
+        ]
+      },
+      "name": "華僑大學",
+      "organization_type": "university",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:11Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/huaqiao-university.html",
+      "slug": "huaqiao-university",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-imusic-tang-junqiao",
+      "id": "org-imusic-school",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-imusic-school",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/imusic-school.html",
+        "slug": "imusic-school",
+        "source_ids": [
+          "web-imusic-tang-junqiao"
+        ],
+        "title": "iMusic School"
+      },
+      "metadata": {
+        "canonical_url": "https://www.imusic-school.com/",
+        "source_ids": [
+          "web-imusic-tang-junqiao"
+        ]
+      },
+      "name": "iMusic School",
+      "organization_type": "music_school",
+      "region_id": "",
+      "reviewed_at": "2026-08-01T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/imusic-school.html",
+      "slug": "imusic-school",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-jssnu-yu-koudi-2020",
+      "id": "org-jssnu-music",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-jssnu-music",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/jiangsu-second-normal-university-school-of-music.html",
+        "slug": "jiangsu-second-normal-university-school-of-music",
+        "source_ids": [
+          "web-jssnu-yu-koudi-2020"
+        ],
+        "title": "江蘇第二師範學院音樂學院"
+      },
+      "metadata": {
+        "canonical_url": "https://music.jssnu.edu.cn/",
+        "source_ids": [
+          "web-jssnu-yu-koudi-2020"
+        ]
+      },
+      "name": "江蘇第二師範學院音樂學院",
+      "organization_type": "university_music_school",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/jiangsu-second-normal-university-school-of-music.html",
+      "slug": "jiangsu-second-normal-university-school-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "paper-wang-titzu-2024",
+      "id": "org-khon-kaen-university",
+      "locator": {
+        "page": 1,
+        "type": "page"
+      },
+      "maturity": {
+        "id": "org-khon-kaen-university",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/khon-kaen-university.html",
+        "slug": "khon-kaen-university",
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ],
+        "title": "Khon Kaen University"
+      },
+      "metadata": {
+        "evidence_excerpt": "Faculty of Fine and Applied Arts, Khon Kaen University, Thailand",
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ]
+      },
+      "name": "Khon Kaen University",
+      "organization_type": "university",
+      "region_id": "",
+      "reviewed_at": "2026-08-01T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/khon-kaen-university.html",
+      "slug": "khon-kaen-university",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-lcsd-dizi-maintenance",
+      "id": "org-lcsd-music-office",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-lcsd-music-office",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/lcsd-music-office.html",
+        "slug": "lcsd-music-office",
+        "source_ids": [
+          "web-lcsd-dizi-maintenance",
+          "web-lcsd-tam-po-shek-profile"
+        ],
+        "title": "香港康樂及文化事務署音樂事務處"
+      },
+      "metadata": {
+        "canonical_url": "https://www.lcsd.gov.hk/tc/mo/",
+        "source_ids": [
+          "web-lcsd-dizi-maintenance"
+        ]
+      },
+      "name": "香港康樂及文化事務署音樂事務處",
+      "organization_type": "government_music_office",
+      "region_id": "hong-kong",
+      "reviewed_at": "2026-08-01T03:30:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/lcsd-music-office.html",
+      "slug": "lcsd-music-office",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "paper-luan-dizi-2024",
+      "id": "org-mcgill-university",
+      "locator": {
+        "page": 1,
+        "type": "page"
+      },
+      "maturity": {
+        "id": "org-mcgill-university",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/mcgill-university.html",
+        "slug": "mcgill-university",
+        "source_ids": [
+          "paper-luan-dizi-2024"
+        ],
+        "title": "McGill University"
+      },
+      "metadata": {
+        "evidence_excerpt": "Schulich School of Music, McGill University, Canada",
+        "source_ids": [
+          "paper-luan-dizi-2024"
+        ]
+      },
+      "name": "McGill University",
+      "organization_type": "university",
+      "region_id": "",
+      "reviewed_at": "2026-08-01T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/mcgill-university.html",
+      "slug": "mcgill-university",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "source-met-dizi-500635",
+      "id": "org-metropolitan-museum-art",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-metropolitan-museum-art",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/metropolitan-museum-of-art.html",
+        "slug": "metropolitan-museum-of-art",
+        "source_ids": [
+          "source-met-dizi-500635",
+          "web-met-music-art-china"
+        ],
+        "title": "The Metropolitan Museum of Art"
+      },
+      "metadata": {
+        "canonical_url": "https://www.metmuseum.org/",
+        "source_ids": [
+          "source-met-dizi-500635"
+        ]
+      },
+      "name": "The Metropolitan Museum of Art",
+      "organization_type": "museum",
+      "region_id": "",
+      "reviewed_at": "2026-08-01T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/metropolitan-museum-of-art.html",
+      "slug": "metropolitan-museum-of-art",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "pdf-mct-youth-repertoire-2024",
+      "id": "org-china-mct",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-china-mct",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/ministry-of-culture-and-tourism-china.html",
+        "slug": "ministry-of-culture-and-tourism-china",
+        "source_ids": [
+          "pdf-mct-youth-repertoire-2024"
+        ],
+        "title": "中華人民共和國文化和旅遊部"
+      },
+      "metadata": {
+        "canonical_url": "https://www.mct.gov.cn/",
+        "source_ids": [
+          "pdf-mct-youth-repertoire-2024"
+        ]
+      },
+      "name": "中華人民共和國文化和旅遊部",
+      "organization_type": "government_ministry",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T06:25:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/ministry-of-culture-and-tourism-china.html",
+      "slug": "ministry-of-culture-and-tourism-china",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "pdf-ncpa-daiya-eight-hole-2016",
+      "id": "org-ncpa-china",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-ncpa-china",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/national-centre-for-the-performing-arts-china.html",
+        "slug": "national-centre-for-the-performing-arts-china",
+        "source_ids": [
+          "pdf-ncpa-daiya-eight-hole-2016"
+        ],
+        "title": "國家大劇院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.chncpa.org/",
+        "source_ids": [
+          "pdf-ncpa-daiya-eight-hole-2016"
+        ]
+      },
+      "name": "國家大劇院",
+      "organization_type": "performing_arts_center",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:10Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/national-centre-for-the-performing-arts-china.html",
+      "slug": "national-centre-for-the-performing-arts-china",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-ntcu-chen-chung-shen-alumnus",
+      "id": "org-ntcu",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-ntcu",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/national-taichung-university-of-education.html",
+        "slug": "national-taichung-university-of-education",
+        "source_ids": [
+          "web-ntcu-chen-chung-shen-alumnus"
+        ],
+        "title": "國立臺中教育大學"
+      },
+      "metadata": {
+        "canonical_url": "https://www.ntcu.edu.tw/",
+        "source_ids": [
+          "web-ntcu-chen-chung-shen-alumnus"
+        ]
+      },
+      "name": "國立臺中教育大學",
+      "organization_type": "university",
+      "region_id": "taiwan",
+      "reviewed_at": "2026-08-13T08:20:08Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/national-taichung-university-of-education.html",
+      "slug": "national-taichung-university-of-education",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "paper-nature-jiahu-flutes-1999",
+      "id": "org-nature",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-nature",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/nature-journal.html",
+        "slug": "nature-journal",
+        "source_ids": [
+          "paper-nature-jiahu-flutes-1999"
+        ],
+        "title": "Nature"
+      },
+      "metadata": {
+        "canonical_url": "https://www.nature.com/",
+        "source_ids": [
+          "paper-nature-jiahu-flutes-1999"
+        ]
+      },
+      "name": "Nature",
+      "organization_type": "academic_journal",
+      "region_id": "",
+      "reviewed_at": "2026-08-13T04:45:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/nature-journal.html",
+      "slug": "nature-journal",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-parsons-dizi-maintenance-2022",
+      "id": "org-parsons-music",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-parsons-music",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/parsons-music.html",
+        "slug": "parsons-music",
+        "source_ids": [
+          "web-parsons-dizi-maintenance-2022"
+        ],
+        "title": "柏斯音樂"
+      },
+      "metadata": {
+        "canonical_url": "https://www.parsonsmusic.com.cn/",
+        "source_ids": [
+          "web-parsons-dizi-maintenance-2022"
+        ]
+      },
+      "name": "柏斯音樂",
+      "organization_type": "music_company",
+      "region_id": "china",
+      "reviewed_at": "2026-08-01T03:30:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/parsons-music.html",
+      "slug": "parsons-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-shcm-lu-chunling-center-2020",
+      "id": "org-shanghai-conservatory",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-shanghai-conservatory",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 4,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/shanghai-conservatory-of-music.html",
+        "slug": "shanghai-conservatory-of-music",
+        "source_ids": [
+          "web-shcm-dizi-types-2019",
+          "web-shcm-lu-chunling-center-2020",
+          "web-shcm-lu-chunling-obituary-2018",
+          "web-shcm-tang-junqiao-profile"
+        ],
+        "title": "上海音樂學院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.shcmusic.edu.cn/",
+        "source_ids": [
+          "web-shcm-lu-chunling-center-2020"
+        ]
+      },
+      "name": "上海音樂學院",
+      "organization_type": "conservatory",
+      "region_id": "shanghai",
+      "reviewed_at": "2026-08-13T02:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/shanghai-conservatory-of-music.html",
+      "slug": "shanghai-conservatory-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-shcm-lu-chunling-center-2020",
+      "id": "org-shanghai-oriental-instrument-museum",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-shanghai-oriental-instrument-museum",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/shanghai-oriental-instrument-museum.html",
+        "slug": "shanghai-oriental-instrument-museum",
+        "source_ids": [
+          "web-shcm-lu-chunling-center-2020"
+        ],
+        "title": "上海音樂學院東方樂器博物館"
+      },
+      "metadata": {
+        "canonical_url": "https://bowuguan.shcmusic.edu.cn/",
+        "source_ids": [
+          "web-shcm-lu-chunling-center-2020"
+        ]
+      },
+      "name": "上海音樂學院東方樂器博物館",
+      "organization_type": "museum",
+      "region_id": "shanghai",
+      "reviewed_at": "2026-08-13T02:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/shanghai-oriental-instrument-museum.html",
+      "slug": "shanghai-oriental-instrument-museum",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-sccm-ten-hole-lecture-2007",
+      "id": "org-sichuan-conservatory",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-sichuan-conservatory",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 3,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/sichuan-conservatory-of-music.html",
+        "slug": "sichuan-conservatory-of-music",
+        "source_ids": [
+          "web-sccm-tang-junqiao-2015",
+          "web-sccm-ten-hole-lecture-2007",
+          "web-sccm-zhang-weiliang-2009"
+        ],
+        "title": "四川音樂學院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.sccm.edu.cn/",
+        "source_ids": [
+          "web-sccm-ten-hole-lecture-2007"
+        ]
+      },
+      "name": "四川音樂學院",
+      "organization_type": "conservatory",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:03Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/sichuan-conservatory-of-music.html",
+      "slug": "sichuan-conservatory-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-swu-zhang-weiliang-2021",
+      "id": "org-southwest-university-music",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-southwest-university-music",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/southwest-university-school-of-music.html",
+        "slug": "southwest-university-school-of-music",
+        "source_ids": [
+          "web-swu-zhang-weiliang-2021"
+        ],
+        "title": "西南大學音樂學院"
+      },
+      "metadata": {
+        "canonical_url": "https://music.swu.edu.cn/",
+        "source_ids": [
+          "web-swu-zhang-weiliang-2021"
+        ]
+      },
+      "name": "西南大學音樂學院",
+      "organization_type": "university_music_school",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:04Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/southwest-university-school-of-music.html",
+      "slug": "southwest-university-school-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-tnnua-chen-chung-shen-profile",
+      "id": "org-tnnua",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-tnnua",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/tainan-national-university-of-the-arts.html",
+        "slug": "tainan-national-university-of-the-arts",
+        "source_ids": [
+          "web-tnnua-chen-chung-shen-profile"
+        ],
+        "title": "國立臺南藝術大學"
+      },
+      "metadata": {
+        "canonical_url": "https://www.tnnua.edu.tw/",
+        "source_ids": [
+          "web-tnnua-chen-chung-shen-profile"
+        ]
+      },
+      "name": "國立臺南藝術大學",
+      "organization_type": "university",
+      "region_id": "taiwan",
+      "reviewed_at": "2026-08-13T08:20:09Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/tainan-national-university-of-the-arts.html",
+      "slug": "tainan-national-university-of-the-arts",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-cloudedu-chen-chung-shen-2020",
+      "id": "org-taiwan-education-cloud",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-taiwan-education-cloud",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/taiwan-education-cloud.html",
+        "slug": "taiwan-education-cloud",
+        "source_ids": [
+          "web-cloudedu-chen-chung-shen-2020"
+        ],
+        "title": "教育部教育雲"
+      },
+      "metadata": {
+        "canonical_url": "https://cloud.edu.tw/",
+        "source_ids": [
+          "web-cloudedu-chen-chung-shen-2020"
+        ]
+      },
+      "name": "教育部教育雲",
+      "organization_type": "government_education_platform",
+      "region_id": "taiwan",
+      "reviewed_at": "2026-08-13T08:20:07Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/taiwan-education-cloud.html",
+      "slug": "taiwan-education-cloud",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "profile-taoyuan-luo-zhixiu",
+      "id": "org-taoyuan-chinese-orchestra",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-taoyuan-chinese-orchestra",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/taoyuan-chinese-orchestra.html",
+        "slug": "taoyuan-chinese-orchestra",
+        "source_ids": [
+          "profile-taoyuan-luo-zhixiu"
+        ],
+        "title": "桃園市國樂團"
+      },
+      "metadata": {
+        "canonical_url": "https://tyuco.taoyuancf.org.tw/",
+        "source_ids": [
+          "profile-taoyuan-luo-zhixiu"
+        ]
+      },
+      "name": "桃園市國樂團",
+      "organization_type": "orchestra",
+      "region_id": "taiwan",
+      "reviewed_at": "2026-08-01T03:30:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/taoyuan-chinese-orchestra.html",
+      "slug": "taoyuan-chinese-orchestra",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "pdf-tianjin-juilliard-tang-2023",
+      "id": "org-tianjin-juilliard",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-tianjin-juilliard",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/tianjin-juilliard-school.html",
+        "slug": "tianjin-juilliard-school",
+        "source_ids": [
+          "pdf-tianjin-juilliard-tang-2023"
+        ],
+        "title": "天津茱莉亞學院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.tianjinjuilliard.edu.cn/",
+        "source_ids": [
+          "pdf-tianjin-juilliard-tang-2023"
+        ]
+      },
+      "name": "天津茱莉亞學院",
+      "organization_type": "conservatory",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T08:20:06Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/tianjin-juilliard-school.html",
+      "slug": "tianjin-juilliard-school",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-tsinghua-gusu-xing",
+      "id": "org-tsinghua-art-education",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-tsinghua-art-education",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/tsinghua-art-education-center.html",
+        "slug": "tsinghua-art-education-center",
+        "source_ids": [
+          "web-tsinghua-gusu-xing"
+        ],
+        "title": "清華大學藝術教育中心"
+      },
+      "metadata": {
+        "canonical_url": "https://www.hall.tsinghua.edu.cn/",
+        "source_ids": [
+          "web-tsinghua-gusu-xing"
+        ]
+      },
+      "name": "清華大學藝術教育中心",
+      "organization_type": "university_arts_center",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T06:25:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/tsinghua-art-education-center.html",
+      "slug": "tsinghua-art-education-center",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "catalog-tsinghua-gusu-recording",
+      "id": "org-tsinghua-library",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-tsinghua-library",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/tsinghua-university-library.html",
+        "slug": "tsinghua-university-library",
+        "source_ids": [
+          "catalog-tsinghua-gusu-recording"
+        ],
+        "title": "清華大學圖書館"
+      },
+      "metadata": {
+        "canonical_url": "https://www.lib.tsinghua.edu.cn/",
+        "source_ids": [
+          "catalog-tsinghua-gusu-recording"
+        ]
+      },
+      "name": "清華大學圖書館",
+      "organization_type": "academic_library",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T06:25:01Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/tsinghua-university-library.html",
+      "slug": "tsinghua-university-library",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "thesis-pimentel-woodwind-doubling-2009",
+      "id": "org-university-georgia",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-university-georgia",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/university-of-georgia.html",
+        "slug": "university-of-georgia",
+        "source_ids": [
+          "thesis-pimentel-woodwind-doubling-2009"
+        ],
+        "title": "University of Georgia"
+      },
+      "metadata": {
+        "canonical_url": "https://www.uga.edu/",
+        "source_ids": [
+          "thesis-pimentel-woodwind-doubling-2009"
+        ]
+      },
+      "name": "University of Georgia",
+      "organization_type": "university",
+      "region_id": "",
+      "reviewed_at": "2026-08-13T03:30:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/university-of-georgia.html",
+      "slug": "university-of-georgia",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "thesis-lau-dizi-1991",
+      "id": "org-uiuc",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-uiuc",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/university-of-illinois-urbana-champaign.html",
+        "slug": "university-of-illinois-urbana-champaign",
+        "source_ids": [
+          "thesis-lau-dizi-1991"
+        ],
+        "title": "University of Illinois Urbana-Champaign"
+      },
+      "metadata": {
+        "canonical_url": "https://illinois.edu/",
+        "source_ids": [
+          "thesis-lau-dizi-1991"
+        ]
+      },
+      "name": "University of Illinois Urbana-Champaign",
+      "organization_type": "university",
+      "region_id": "",
+      "reviewed_at": "2026-08-12T18:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/university-of-illinois-urbana-champaign.html",
+      "slug": "university-of-illinois-urbana-champaign",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "thesis-chai-dizi-2014",
+      "id": "org-university-sydney",
+      "locator": {
+        "page": 2,
+        "type": "page"
+      },
+      "maturity": {
+        "id": "org-university-sydney",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/university-of-sydney.html",
+        "slug": "university-of-sydney",
+        "source_ids": [
+          "thesis-chai-dizi-2014"
+        ],
+        "title": "University of Sydney"
+      },
+      "metadata": {
+        "evidence_excerpt": "Sydney Conservatorium of Music University of Sydney",
+        "source_ids": [
+          "thesis-chai-dizi-2014"
+        ]
+      },
+      "name": "University of Sydney",
+      "organization_type": "university",
+      "region_id": "",
+      "reviewed_at": "2026-08-01T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/university-of-sydney.html",
+      "slug": "university-of-sydney",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "thesis-chang-dizi-textbook-2024",
+      "id": "org-taipei-city-university",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-taipei-city-university",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/university-of-taipei.html",
+        "slug": "university-of-taipei",
+        "source_ids": [
+          "thesis-chang-dizi-textbook-2024"
+        ],
+        "title": "臺北市立大學"
+      },
+      "metadata": {
+        "canonical_url": "https://www.utaipei.edu.tw/",
+        "source_ids": [
+          "thesis-chang-dizi-textbook-2024"
+        ]
+      },
+      "name": "臺北市立大學",
+      "organization_type": "university",
+      "region_id": "taiwan",
+      "reviewed_at": "2026-08-13T03:30:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/university-of-taipei.html",
+      "slug": "university-of-taipei",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-vico-dizi-resource",
+      "id": "org-vico",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-vico",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/vancouver-inter-cultural-orchestra.html",
+        "slug": "vancouver-inter-cultural-orchestra",
+        "source_ids": [
+          "web-vico-dizi-resource"
+        ],
+        "title": "Vancouver Inter-Cultural Orchestra"
+      },
+      "metadata": {
+        "canonical_url": "https://vi-co.org/",
+        "source_ids": [
+          "web-vico-dizi-resource"
+        ]
+      },
+      "name": "Vancouver Inter-Cultural Orchestra",
+      "organization_type": "orchestra",
+      "region_id": "overseas",
+      "reviewed_at": "2026-08-12T18:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/vancouver-inter-cultural-orchestra.html",
+      "slug": "vancouver-inter-cultural-orchestra",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "museum-wesleyan-di-2005",
+      "id": "org-wesleyan-university",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-wesleyan-university",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/wesleyan-university.html",
+        "slug": "wesleyan-university",
+        "source_ids": [
+          "museum-wesleyan-di-2005"
+        ],
+        "title": "Wesleyan University"
+      },
+      "metadata": {
+        "canonical_url": "https://www.wesleyan.edu/",
+        "source_ids": [
+          "museum-wesleyan-di-2005"
+        ]
+      },
+      "name": "Wesleyan University",
+      "organization_type": "university",
+      "region_id": "",
+      "reviewed_at": "2026-08-13T03:30:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/wesleyan-university.html",
+      "slug": "wesleyan-university",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-wuxi-yu-xunfa-2024",
+      "id": "org-wuxi-museum",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-wuxi-museum",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/wuxi-museum.html",
+        "slug": "wuxi-museum",
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ],
+        "title": "無錫博物院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.wxmuseum.cn/",
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ]
+      },
+      "name": "無錫博物院",
+      "organization_type": "museum",
+      "region_id": "jiangnan",
+      "reviewed_at": "2026-08-01T03:00:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/wuxi-museum.html",
+      "slug": "wuxi-museum",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "pdf-xacom-dizi-repertoire-2025",
+      "id": "org-xian-conservatory",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-xian-conservatory",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/xian-conservatory-of-music.html",
+        "slug": "xian-conservatory-of-music",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025"
+        ],
+        "title": "西安音樂學院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.xacom.edu.cn/",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025"
+        ]
+      },
+      "name": "西安音樂學院",
+      "organization_type": "conservatory",
+      "region_id": "shaanxi",
+      "reviewed_at": "2026-08-13T02:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/xian-conservatory-of-music.html",
+      "slug": "xian-conservatory-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-xust-yangbian-2023",
+      "id": "org-xian-university-science-technology",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-xian-university-science-technology",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/xian-university-of-science-and-technology.html",
+        "slug": "xian-university-of-science-and-technology",
+        "source_ids": [
+          "web-xust-yangbian-2023"
+        ],
+        "title": "西安科技大學"
+      },
+      "metadata": {
+        "canonical_url": "https://www.xust.edu.cn/",
+        "source_ids": [
+          "web-xust-yangbian-2023"
+        ]
+      },
+      "name": "西安科技大學",
+      "organization_type": "university",
+      "region_id": "china",
+      "reviewed_at": "2026-08-13T06:25:02Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/xian-university-of-science-and-technology.html",
+      "slug": "xian-university-of-science-and-technology",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-zjcm-zhao-songting-center-2015",
+      "id": "org-zhejiang-conservatory",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-zhejiang-conservatory",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/zhejiang-conservatory-of-music.html",
+        "slug": "zhejiang-conservatory-of-music",
+        "source_ids": [
+          "web-zjcm-zhao-songting-center-2015"
+        ],
+        "title": "浙江音樂學院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.zjcm.edu.cn/",
+        "source_ids": [
+          "web-zjcm-zhao-songting-center-2015"
+        ]
+      },
+      "name": "浙江音樂學院",
+      "organization_type": "conservatory",
+      "region_id": "zhejiang",
+      "reviewed_at": "2026-08-13T02:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/zhejiang-conservatory-of-music.html",
+      "slug": "zhejiang-conservatory-of-music",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "entity_type": "organizations",
+      "evidence_source_id": "web-zjvaa-zhao-songting-sanwuqi-2011",
+      "id": "org-zhejiang-art-vocational-college",
+      "locator": {
+        "field": "publisher",
+        "type": "metadata"
+      },
+      "maturity": {
+        "id": "org-zhejiang-art-vocational-college",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 2,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "organization",
+        "route": "static_pages/organizations/zhejiang-vocational-academy-of-art.html",
+        "slug": "zhejiang-vocational-academy-of-art",
+        "source_ids": [
+          "web-zjvaa-zeng-yongqing-2008",
+          "web-zjvaa-zhao-songting-sanwuqi-2011"
+        ],
+        "title": "浙江藝術職業學院"
+      },
+      "metadata": {
+        "canonical_url": "https://www.zjvaa.edu.cn/",
+        "source_ids": [
+          "web-zjvaa-zhao-songting-sanwuqi-2011"
+        ]
+      },
+      "name": "浙江藝術職業學院",
+      "organization_type": "arts_college",
+      "region_id": "zhejiang",
+      "reviewed_at": "2026-08-13T02:10:00Z",
+      "reviewed_by": "codex-evidence-audit",
+      "route": "static_pages/organizations/zhejiang-vocational-academy-of-art.html",
+      "slug": "zhejiang-vocational-academy-of-art",
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

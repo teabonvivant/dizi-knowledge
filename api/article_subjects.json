@@ -1,0 +1,1068 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "analyses",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "informs",
+      "subject_id": "dimo-attachment",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "supports_hub",
+      "subject_id": "acoustics",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "explains",
+      "subject_id": "intonation",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "explains",
+      "subject_id": "membrane-vibration",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "explains",
+      "subject_id": "resonance",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "explains",
+      "subject_id": "timbre",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-membrane-resonance",
+      "relation": "explains",
+      "subject_id": "tuning",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "relation": "analyses",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "relation": "explains",
+      "subject_id": "acoustic-harmonics",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "relation": "supports_hub",
+      "subject_id": "acoustics",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "relation": "explains",
+      "subject_id": "air-column",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "relation": "explains",
+      "subject_id": "hole-effects",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "relation": "explains",
+      "subject_id": "resonance",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "acoustics-resonator-basics",
+      "relation": "explains",
+      "subject_id": "timbre",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "relation": "profiles",
+      "subject_id": "person-feng-zicun",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-feng-zicun",
+      "relation": "documents",
+      "subject_id": "performers",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "relation": "profiles",
+      "subject_id": "person-liu-guanle",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-liu-guanle",
+      "relation": "documents",
+      "subject_id": "performers",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "relation": "profiles",
+      "subject_id": "person-lu-chunling",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "relation": "contextualizes",
+      "subject_id": "jiangnan-sizhu",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "relation": "documents",
+      "subject_id": "performers",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-lu-chunling",
+      "relation": "contextualizes",
+      "subject_id": "south-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "relation": "profiles",
+      "subject_id": "person-zhao-songting",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "relation": "documents",
+      "subject_id": "educators",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "relation": "documents",
+      "subject_id": "performers",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "biography-zhao-songting",
+      "relation": "contextualizes",
+      "subject_id": "south-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "relation": "documents",
+      "subject_id": "chi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "relation": "contrasts_with",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "relation": "documents",
+      "subject_id": "jiahu-bone-flute",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "relation": "explains",
+      "subject_id": "historical-forms",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "relation": "supports_hub",
+      "subject_id": "history",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-archaeology",
+      "relation": "explains",
+      "subject_id": "origins-archaeology",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-buy-care",
+      "relation": "explains",
+      "subject_id": "maintenance",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "relation": "guides",
+      "subject_id": "dimo-attachment",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "relation": "explains",
+      "subject_id": "membrane-hole",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-dimo",
+      "relation": "explains",
+      "subject_id": "membrane-vibration",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "relation": "distinguishes",
+      "subject_id": "chi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "relation": "defines",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "relation": "distinguishes",
+      "subject_id": "jiahu-bone-flute",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "relation": "explains",
+      "subject_id": "ancient-texts",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "relation": "explains",
+      "subject_id": "historical-forms",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-name-terms",
+      "relation": "supports_hub",
+      "subject_id": "history",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "relation": "applies_to",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "relation": "clarifies",
+      "subject_id": "intonation",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-pitch",
+      "relation": "explains",
+      "subject_id": "tuning",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "relation": "introduces",
+      "subject_id": "conservatory-history",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-professionalization",
+      "relation": "explains",
+      "subject_id": "modern-professionalization",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "relation": "applies_to",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "relation": "clarifies",
+      "subject_id": "intonation",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-range-notation",
+      "relation": "explains",
+      "subject_id": "pitch-range",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-schools",
+      "relation": "contextualizes",
+      "subject_id": "bangdi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-schools",
+      "relation": "contextualizes",
+      "subject_id": "qudi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-schools",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-schools",
+      "relation": "explains",
+      "subject_id": "regional-style-overview",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-schools",
+      "relation": "contextualizes",
+      "subject_id": "south-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-structure",
+      "relation": "explains",
+      "subject_id": "making",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "foundation-types",
+      "relation": "compares",
+      "subject_id": "bangdi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-types",
+      "relation": "compares",
+      "subject_id": "qudi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "relation": "overview_of",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "foundation-what-is-dizi",
+      "relation": "introduces",
+      "subject_id": "instruments",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-digital-music-overview",
+      "relation": "supports_hub",
+      "subject_id": "digital-music",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-people-overview",
+      "relation": "supports_hub",
+      "subject_id": "people",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-regional-styles-overview",
+      "relation": "supports_hub",
+      "subject_id": "regional-styles",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "relation": "explains",
+      "subject_id": "form-analysis",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "relation": "supports_hub",
+      "subject_id": "repertoire",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-repertoire-overview",
+      "relation": "explains",
+      "subject_id": "score-versions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "relation": "explains",
+      "subject_id": "pedagogy",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-teaching-overview",
+      "relation": "supports_hub",
+      "subject_id": "teaching",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "hub-techniques-overview",
+      "relation": "supports_hub",
+      "subject_id": "techniques",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "relation": "compares",
+      "subject_id": "chi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "relation": "compares",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "relation": "compares",
+      "subject_id": "western-flute",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "relation": "compares",
+      "subject_id": "xiao",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-comparison",
+      "relation": "explains",
+      "subject_id": "comparative-instruments",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "relation": "explains",
+      "subject_id": "dadi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "instrument-dadi-study",
+      "relation": "contextualizes",
+      "subject_id": "orchestration",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "relation": "explains",
+      "subject_id": "eight-hole-dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "relation": "contextualizes",
+      "subject_id": "curriculum",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "instrument-eight-hole-study",
+      "relation": "documents",
+      "subject_id": "modern-professionalization",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "relation": "explains",
+      "subject_id": "eleven-hole-dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "relation": "explains",
+      "subject_id": "keyed-dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-modern-dizi-variants",
+      "relation": "explains",
+      "subject_id": "xindi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "relation": "explains",
+      "subject_id": "ten-hole-dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "relation": "documents",
+      "subject_id": "curriculum",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "instrument-ten-hole-study",
+      "relation": "contextualizes",
+      "subject_id": "intonation",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "informs_making",
+      "subject_id": "dizi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "explains",
+      "subject_id": "bore-effects",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "explains",
+      "subject_id": "hole-effects",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "explains",
+      "subject_id": "hole-spacing",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "supports_hub",
+      "subject_id": "making",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "explains",
+      "subject_id": "modern-making",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "explains",
+      "subject_id": "quality-control",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "making-geometry-to-tuning",
+      "relation": "explains",
+      "subject_id": "tuning",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "relation": "profiles",
+      "subject_id": "person-chen-chung-shen",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "relation": "contextualizes",
+      "subject_id": "modern-professionalization",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-chen-chung-shen-profile",
+      "relation": "documents",
+      "subject_id": "taiwan",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "relation": "profiles",
+      "subject_id": "person-tam-po-shek",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "relation": "documents",
+      "subject_id": "hong-kong",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-tam-po-shek-profile",
+      "relation": "contextualizes",
+      "subject_id": "instrument-makers",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "relation": "profiles",
+      "subject_id": "person-tang-junqiao",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "relation": "contextualizes",
+      "subject_id": "educators",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-tang-junqiao-profile",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "relation": "contextualizes",
+      "subject_id": "koudi",
+      "subject_type": "instrument"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "relation": "profiles",
+      "subject_id": "person-yu-xunfa",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "person-yu-xunfa-profile",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "relation": "profiles",
+      "subject_id": "person-zeng-yongqing",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "relation": "documents",
+      "subject_id": "modern-professionalization",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-zeng-yongqing-profile",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "relation": "profiles",
+      "subject_id": "person-zhang-weiliang",
+      "subject_type": "person"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "relation": "documents",
+      "subject_id": "educators",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "person-zhang-weiliang-profile",
+      "relation": "contextualizes",
+      "subject_id": "modern-professionalization",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "relation": "explains",
+      "subject_id": "circular-breathing",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-circular-breathing",
+      "relation": "contextualizes",
+      "subject_id": "opera",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-double-tonguing",
+      "relation": "explains",
+      "subject_id": "double-tonguing",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "relation": "explains",
+      "subject_id": "embouchure",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "relation": "contextualizes",
+      "subject_id": "posture",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-embouchure-air",
+      "relation": "explains",
+      "subject_id": "air-direction",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "relation": "explains",
+      "subject_id": "flutter-tonguing",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-flutter-tonguing",
+      "relation": "teaches",
+      "subject_id": "tonguing-practice",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "relation": "explains",
+      "subject_id": "cross-fingering",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-half-cross",
+      "relation": "explains",
+      "subject_id": "half-holing",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "relation": "explains",
+      "subject_id": "long-tone",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-long-tone",
+      "relation": "teaches",
+      "subject_id": "beginner",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "relation": "explains",
+      "subject_id": "grace-note",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "relation": "explains",
+      "subject_id": "mordent",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-ornaments",
+      "relation": "explains",
+      "subject_id": "popped-note",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "relation": "explains",
+      "subject_id": "single-tonguing",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-single-tonguing",
+      "relation": "teaches",
+      "subject_id": "tonguing-practice",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-slide",
+      "relation": "explains",
+      "subject_id": "portamento",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-slide",
+      "relation": "explains",
+      "subject_id": "slide",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-trill",
+      "relation": "explains",
+      "subject_id": "trill",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-trill",
+      "relation": "contextualizes",
+      "subject_id": "jiangnan-sizhu",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "relation": "explains",
+      "subject_id": "triple-tonguing",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "technique-triple-tonguing",
+      "relation": "teaches",
+      "subject_id": "tonguing-practice",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "technique-vibrato",
+      "relation": "explains",
+      "subject_id": "vibrato",
+      "subject_type": "technique"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "relation": "analyses",
+      "subject_id": "piece-gusu-xing",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "relation": "contextualizes",
+      "subject_id": "kunqu",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "relation": "contextualizes",
+      "subject_id": "south-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-gusu-xing",
+      "relation": "documents",
+      "subject_id": "traditional-solo",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "relation": "analyses",
+      "subject_id": "piece-mumin-xinge",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "relation": "documents",
+      "subject_id": "form-analysis",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-mumin-xinge",
+      "relation": "documents",
+      "subject_id": "score-versions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "relation": "analyses",
+      "subject_id": "piece-pamier-de-chuntian",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "relation": "contextualizes",
+      "subject_id": "exams",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-pamier-de-chuntian",
+      "relation": "documents",
+      "subject_id": "score-versions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "relation": "analyses",
+      "subject_id": "piece-san-wu-qi",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "relation": "contextualizes",
+      "subject_id": "opera",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-san-wu-qi",
+      "relation": "contextualizes",
+      "subject_id": "south-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "relation": "analyses",
+      "subject_id": "piece-wu-bangzi",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-wu-bangzi",
+      "relation": "documents",
+      "subject_id": "traditional-solo",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "relation": "analyses",
+      "subject_id": "piece-xi-xiang-feng",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-xi-xiang-feng",
+      "relation": "documents",
+      "subject_id": "traditional-solo",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "relation": "analyses",
+      "subject_id": "piece-yangbian-cuima",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "relation": "documents",
+      "subject_id": "form-analysis",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-yangbian-cuima",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "relation": "analyses",
+      "subject_id": "piece-yinzhong-niao",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "relation": "documents",
+      "subject_id": "form-analysis",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "relation": "contextualizes",
+      "subject_id": "north-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-yinzhong-niao",
+      "relation": "documents",
+      "subject_id": "traditional-solo",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-zaochen",
+      "relation": "analyses",
+      "subject_id": "piece-zaochen",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-zaochen",
+      "relation": "contextualizes",
+      "subject_id": "circular-breathing",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-zaochen",
+      "relation": "documents",
+      "subject_id": "new-compositions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-zaochen",
+      "relation": "documents",
+      "subject_id": "score-versions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "relation": "analyses",
+      "subject_id": "piece-zhegu-fei",
+      "subject_type": "piece"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "relation": "documents",
+      "subject_id": "score-versions",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "relation": "contextualizes",
+      "subject_id": "south-school",
+      "subject_type": "topic"
+    },
+    {
+      "article_id": "work-zhegu-fei",
+      "relation": "documents",
+      "subject_id": "traditional-solo",
+      "subject_type": "topic"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

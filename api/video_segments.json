@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "end_seconds": 40,
+      "id": "video-youtube-stlpwb0vbjk-segment-01",
+      "source_locator": "YouTube 00:00–00:40; visual review 2026-08-01",
+      "start_seconds": 0,
+      "techniques": [
+        "double-tonguing"
+      ],
+      "title": "第一頁：重複音與音階片段雙吐練習",
+      "topics": [
+        "teaching",
+        "techniques"
+      ],
+      "verification_status": "VERIFIED",
+      "video_id": "video-youtube-stlpwb0vbjk"
+    },
+    {
+      "end_seconds": 67,
+      "id": "video-youtube-stlpwb0vbjk-segment-02",
+      "source_locator": "YouTube 00:40–01:07; visual review 2026-08-01",
+      "start_seconds": 40,
+      "techniques": [
+        "double-tonguing"
+      ],
+      "title": "第二頁：上行與下行音型雙吐練習",
+      "topics": [
+        "teaching",
+        "techniques"
+      ],
+      "verification_status": "VERIFIED",
+      "video_id": "video-youtube-stlpwb0vbjk"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

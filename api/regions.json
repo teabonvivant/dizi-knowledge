@@ -1,0 +1,383 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "aliases": [
+        "Chaozhou music"
+      ],
+      "entity_type": "regions",
+      "id": "chaozhou",
+      "maturity": {
+        "id": "chaozhou",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/chaozhou.html",
+        "slug": "chaozhou",
+        "source_ids": [],
+        "title": "潮州"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "潮州",
+      "route": "static_pages/regions/chaozhou.html",
+      "slug": "chaozhou"
+    },
+    {
+      "aliases": [
+        "China",
+        "中國大陸"
+      ],
+      "entity_type": "regions",
+      "id": "china",
+      "maturity": {
+        "id": "china",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/china.html",
+        "slug": "china",
+        "source_ids": [],
+        "title": "中國"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "中國",
+      "route": "static_pages/regions/china.html",
+      "slug": "china"
+    },
+    {
+      "aliases": [
+        "Guangdong music"
+      ],
+      "entity_type": "regions",
+      "id": "guangdong",
+      "maturity": {
+        "id": "guangdong",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/guangdong.html",
+        "slug": "guangdong",
+        "source_ids": [],
+        "title": "廣東"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "廣東",
+      "route": "static_pages/regions/guangdong.html",
+      "slug": "guangdong"
+    },
+    {
+      "aliases": [
+        "Hong Kong"
+      ],
+      "entity_type": "regions",
+      "id": "hong-kong",
+      "maturity": {
+        "id": "hong-kong",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 619,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 3,
+          "verified_claims": 10
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/hong-kong.html",
+        "slug": "hong-kong",
+        "source_ids": [
+          "web-hkgov-tam-literature-2011",
+          "web-hkgov-xiao-masters-2000",
+          "web-lcsd-tam-po-shek-profile"
+        ],
+        "title": "香港"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "香港",
+      "route": "static_pages/regions/hong-kong.html",
+      "slug": "hong-kong"
+    },
+    {
+      "aliases": [
+        "Jiangnan sizhu"
+      ],
+      "entity_type": "regions",
+      "id": "jiangnan",
+      "maturity": {
+        "id": "jiangnan",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/jiangnan.html",
+        "slug": "jiangnan",
+        "source_ids": [],
+        "title": "江南"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "江南",
+      "route": "static_pages/regions/jiangnan.html",
+      "slug": "jiangnan"
+    },
+    {
+      "aliases": [
+        "Macau"
+      ],
+      "entity_type": "regions",
+      "id": "macau",
+      "maturity": {
+        "id": "macau",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/macau.html",
+        "slug": "macau",
+        "source_ids": [],
+        "title": "澳門"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "澳門",
+      "route": "static_pages/regions/macau.html",
+      "slug": "macau"
+    },
+    {
+      "aliases": [
+        "north school",
+        "北派"
+      ],
+      "entity_type": "regions",
+      "id": "north-china",
+      "maturity": {
+        "id": "north-china",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/north-china.html",
+        "slug": "north-china",
+        "source_ids": [],
+        "title": "中國北方"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "中國北方",
+      "route": "static_pages/regions/north-china.html",
+      "slug": "north-china"
+    },
+    {
+      "aliases": [
+        "overseas Chinese music"
+      ],
+      "entity_type": "regions",
+      "id": "overseas",
+      "maturity": {
+        "id": "overseas",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/overseas.html",
+        "slug": "overseas",
+        "source_ids": [],
+        "title": "海外華樂"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "海外華樂",
+      "route": "static_pages/regions/overseas.html",
+      "slug": "overseas"
+    },
+    {
+      "aliases": [
+        "Sichuan"
+      ],
+      "entity_type": "regions",
+      "id": "sichuan",
+      "maturity": {
+        "id": "sichuan",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/sichuan.html",
+        "slug": "sichuan",
+        "source_ids": [
+          "paper-wang-titzu-2024"
+        ],
+        "title": "四川"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "四川",
+      "route": "static_pages/regions/sichuan.html",
+      "slug": "sichuan"
+    },
+    {
+      "aliases": [
+        "south school",
+        "南派"
+      ],
+      "entity_type": "regions",
+      "id": "south-china",
+      "maturity": {
+        "id": "south-china",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/south-china.html",
+        "slug": "south-china",
+        "source_ids": [],
+        "title": "中國南方"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "中國南方",
+      "route": "static_pages/regions/south-china.html",
+      "slug": "south-china"
+    },
+    {
+      "aliases": [
+        "Taiwan"
+      ],
+      "entity_type": "regions",
+      "id": "taiwan",
+      "maturity": {
+        "id": "taiwan",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 749,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 4,
+          "verified_claims": 10
+        },
+        "public_ready": false,
+        "record_type": "region",
+        "route": "static_pages/regions/taiwan.html",
+        "slug": "taiwan",
+        "source_ids": [
+          "web-cloudedu-chen-chung-shen-2020",
+          "web-hkgov-xiao-masters-2000",
+          "web-ntcu-chen-chung-shen-alumnus",
+          "web-tnnua-chen-chung-shen-profile"
+        ],
+        "title": "台灣"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "台灣",
+      "route": "static_pages/regions/taiwan.html",
+      "slug": "taiwan"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

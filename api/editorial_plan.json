@@ -1,0 +1,1137 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "item": {
+    "batch_id": "professor-1.0-foundation-72",
+    "complete": 72,
+    "pages": [
+      {
+        "group": "topic-hubs",
+        "id": "hub-instruments",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/instruments.html",
+        "slug": "instruments",
+        "status": "planned",
+        "title": "樂器分類總覽",
+        "topic_ids": [
+          "instruments"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-history",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/history.html",
+        "slug": "history",
+        "status": "planned",
+        "title": "歷史與文化總覽",
+        "topic_ids": [
+          "history"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-regional-styles",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/regional-styles.html",
+        "slug": "regional-styles",
+        "status": "planned",
+        "title": "地域與流派總覽",
+        "topic_ids": [
+          "regional-styles"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-making",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/making.html",
+        "slug": "making",
+        "status": "planned",
+        "title": "樂器結構與製作總覽",
+        "topic_ids": [
+          "making"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-acoustics",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/acoustics.html",
+        "slug": "acoustics",
+        "status": "planned",
+        "title": "聲學與音律總覽",
+        "topic_ids": [
+          "acoustics"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-techniques",
+        "maturity_level": "L3",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/techniques.html",
+        "slug": "techniques",
+        "status": "planned",
+        "title": "指法與演奏技法總覽",
+        "topic_ids": [
+          "techniques"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-teaching",
+        "maturity_level": "L3",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/teaching.html",
+        "slug": "teaching",
+        "status": "planned",
+        "title": "教學與學習總覽",
+        "topic_ids": [
+          "teaching"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-repertoire",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/repertoire.html",
+        "slug": "repertoire",
+        "status": "planned",
+        "title": "曲目、作曲及演奏實踐總覽",
+        "topic_ids": [
+          "repertoire"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-people",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/people.html",
+        "slug": "people",
+        "status": "planned",
+        "title": "人物與機構總覽",
+        "topic_ids": [
+          "people"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-maintenance",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/maintenance.html",
+        "slug": "maintenance",
+        "status": "planned",
+        "title": "維修、保養及健康總覽",
+        "topic_ids": [
+          "maintenance"
+        ]
+      },
+      {
+        "group": "topic-hubs",
+        "id": "hub-digital-music",
+        "maturity_level": "L2",
+        "page_type": "topic",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/topics/digital-music.html",
+        "slug": "digital-music",
+        "status": "planned",
+        "title": "錄音、數碼化及人工智能總覽",
+        "topic_ids": [
+          "digital-music"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-what-is-dizi",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/what-is-dizi.html",
+        "slug": "what-is-dizi",
+        "status": "planned",
+        "title": "竹笛是甚麼：形制、聲音與用途",
+        "topic_ids": [
+          "dizi",
+          "instruments"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-name-terms",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/dizi-name-and-related-terms.html",
+        "slug": "dizi-name-and-related-terms",
+        "status": "planned",
+        "title": "笛、橫笛、竹笛與相關名稱辨析",
+        "topic_ids": [
+          "ancient-texts",
+          "historical-forms"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-structure",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/dizi-structure-guide.html",
+        "slug": "dizi-structure-guide",
+        "status": "planned",
+        "title": "竹笛結構完整圖解",
+        "topic_ids": [
+          "making",
+          "embouchure-hole",
+          "membrane-hole",
+          "finger-holes"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-dimo",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/dimo-material-attachment-acoustics.html",
+        "slug": "dimo-material-attachment-acoustics",
+        "status": "planned",
+        "title": "笛膜：材料、貼法、聲學與故障",
+        "topic_ids": [
+          "dimo-history",
+          "membrane-vibration",
+          "membrane-care"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-types",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/qudi-bangdi-xindi-dadi-comparison.html",
+        "slug": "qudi-bangdi-xindi-dadi-comparison",
+        "status": "planned",
+        "title": "曲笛、梆笛、新笛與大笛比較",
+        "topic_ids": [
+          "qudi",
+          "bangdi",
+          "xindi",
+          "dadi"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-archaeology",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/archaeology-to-modern-dizi.html",
+        "slug": "archaeology-to-modern-dizi",
+        "status": "planned",
+        "title": "從考古吹管樂器到現代竹笛：證據與限制",
+        "topic_ids": [
+          "origins-archaeology",
+          "historical-forms"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-professionalization",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/twentieth-century-professionalization.html",
+        "slug": "twentieth-century-professionalization",
+        "status": "planned",
+        "title": "20 世紀竹笛獨奏化與專業教育",
+        "topic_ids": [
+          "modern-professionalization",
+          "conservatory-history"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-schools",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/north-south-and-contemporary-styles.html",
+        "slug": "north-south-and-contemporary-styles",
+        "status": "planned",
+        "title": "北派、南派及當代風格分類",
+        "topic_ids": [
+          "north-school",
+          "south-school",
+          "regional-style-overview"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-pitch",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/keys-tube-note-and-sounding-pitch.html",
+        "slug": "keys-tube-note-and-sounding-pitch",
+        "status": "planned",
+        "title": "調性、筒音與實際音高",
+        "topic_ids": [
+          "intonation",
+          "fixed-do-1",
+          "fixed-do-2",
+          "fixed-do-3"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-range-notation",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/range-transposition-and-notation.html",
+        "slug": "range-transposition-and-notation",
+        "status": "planned",
+        "title": "音域、移調與簡譜／五線譜",
+        "topic_ids": [
+          "pitch-range",
+          "intonation"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-buy-care",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/buying-care-and-seasonal-management.html",
+        "slug": "buying-care-and-seasonal-management",
+        "status": "planned",
+        "title": "選購、日常保養與季節管理",
+        "topic_ids": [
+          "cleaning",
+          "humidity",
+          "drying",
+          "transport"
+        ]
+      },
+      {
+        "group": "foundation",
+        "id": "foundation-evidence",
+        "maturity_level": "L2",
+        "page_type": "methodology",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/how-to-read-evidence-status.html",
+        "slug": "how-to-read-evidence-status",
+        "status": "planned",
+        "title": "如何閱讀本知識庫的證據及核實狀態",
+        "topic_ids": []
+      },
+      {
+        "group": "techniques",
+        "id": "technique-embouchure-air",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/embouchure-and-air-stream.html",
+        "slug": "embouchure-and-air-stream",
+        "status": "planned",
+        "title": "發音、口風與氣流方向",
+        "topic_ids": [
+          "embouchure",
+          "air-direction"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-long-tone",
+        "maturity_level": "L2",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/long-tone.html",
+        "slug": "long-tone",
+        "status": "planned",
+        "title": "長音",
+        "topic_ids": [
+          "long-tone"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-single-tonguing",
+        "maturity_level": "L3",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/single-tonguing.html",
+        "slug": "single-tonguing",
+        "status": "planned",
+        "title": "單吐",
+        "topic_ids": [
+          "single-tonguing"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-double-tonguing",
+        "maturity_level": "L2",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/double-tonguing.html",
+        "slug": "double-tonguing",
+        "status": "planned",
+        "title": "雙吐",
+        "topic_ids": [
+          "double-tonguing"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-triple-tonguing",
+        "maturity_level": "L2",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/triple-tonguing.html",
+        "slug": "triple-tonguing",
+        "status": "planned",
+        "title": "三吐",
+        "topic_ids": [
+          "triple-tonguing"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-flutter-tonguing",
+        "maturity_level": "L2",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/flutter-tonguing.html",
+        "slug": "flutter-tonguing",
+        "status": "planned",
+        "title": "花舌",
+        "topic_ids": [
+          "flutter-tonguing"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-ornaments",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/popped-grace-and-mordent-notes.html",
+        "slug": "popped-grace-and-mordent-notes",
+        "status": "planned",
+        "title": "打音、疊音與贈音",
+        "topic_ids": [
+          "popped-note",
+          "grace-note",
+          "mordent"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-trill",
+        "maturity_level": "L2",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/trill.html",
+        "slug": "trill",
+        "status": "planned",
+        "title": "顫音",
+        "topic_ids": [
+          "trill"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-slide",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/slide-and-portamento.html",
+        "slug": "slide-and-portamento",
+        "status": "planned",
+        "title": "滑音與抹音",
+        "topic_ids": [
+          "slide",
+          "portamento"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-half-cross",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/half-holing-and-cross-fingering.html",
+        "slug": "half-holing-and-cross-fingering",
+        "status": "planned",
+        "title": "半孔與叉指",
+        "topic_ids": [
+          "half-holing",
+          "cross-fingering"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-vibrato",
+        "maturity_level": "L2",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/vibrato.html",
+        "slug": "vibrato",
+        "status": "planned",
+        "title": "氣震音",
+        "topic_ids": [
+          "vibrato"
+        ]
+      },
+      {
+        "group": "techniques",
+        "id": "technique-circular-breathing",
+        "maturity_level": "L3",
+        "page_type": "technique",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/techniques/circular-breathing.html",
+        "slug": "circular-breathing",
+        "status": "planned",
+        "title": "循環換氣",
+        "topic_ids": [
+          "circular-breathing"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-dizi",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/dizi.html",
+        "slug": "dizi",
+        "status": "planned",
+        "title": "竹笛總論",
+        "topic_ids": [
+          "dizi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-qudi",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/qudi.html",
+        "slug": "qudi",
+        "status": "planned",
+        "title": "曲笛",
+        "topic_ids": [
+          "qudi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-bangdi",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/bangdi.html",
+        "slug": "bangdi",
+        "status": "planned",
+        "title": "梆笛",
+        "topic_ids": [
+          "bangdi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-xindi",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/xindi.html",
+        "slug": "xindi",
+        "status": "planned",
+        "title": "新笛",
+        "topic_ids": [
+          "xindi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-dadi",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/dadi.html",
+        "slug": "dadi",
+        "status": "planned",
+        "title": "大笛",
+        "topic_ids": [
+          "dadi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-eight-hole",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/eight-hole-dizi.html",
+        "slug": "eight-hole-dizi",
+        "status": "planned",
+        "title": "八孔笛",
+        "topic_ids": [
+          "eight-hole-dizi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-ten-hole",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/ten-hole-dizi.html",
+        "slug": "ten-hole-dizi",
+        "status": "planned",
+        "title": "十孔笛",
+        "topic_ids": [
+          "ten-hole-dizi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-eleven-hole",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/eleven-hole-dizi.html",
+        "slug": "eleven-hole-dizi",
+        "status": "planned",
+        "title": "十一孔笛",
+        "topic_ids": [
+          "eleven-hole-dizi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-keyed",
+        "maturity_level": "L2",
+        "page_type": "instrument",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/instruments/keyed-dizi.html",
+        "slug": "keyed-dizi",
+        "status": "planned",
+        "title": "加鍵笛",
+        "topic_ids": [
+          "keyed-dizi"
+        ]
+      },
+      {
+        "group": "instruments",
+        "id": "instrument-comparison",
+        "maturity_level": "L2",
+        "page_type": "article",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/dizi-xiao-chi-western-flute.html",
+        "slug": "dizi-xiao-chi-western-flute",
+        "status": "planned",
+        "title": "竹笛與簫、篪、長笛比較",
+        "topic_ids": [
+          "comparative-instruments"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-feng-zicun",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/feng-zicun.html",
+        "slug": "feng-zicun",
+        "status": "planned",
+        "title": "馮子存",
+        "topic_ids": [
+          "performers",
+          "north-school"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-liu-guanle",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/liu-guanle.html",
+        "slug": "liu-guanle",
+        "status": "planned",
+        "title": "劉管樂",
+        "topic_ids": [
+          "performers",
+          "north-school"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-lu-chunling",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/lu-chunling.html",
+        "slug": "lu-chunling",
+        "status": "planned",
+        "title": "陸春齡",
+        "topic_ids": [
+          "performers",
+          "south-school"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-zhao-songting",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/zhao-songting.html",
+        "slug": "zhao-songting",
+        "status": "planned",
+        "title": "趙松庭",
+        "topic_ids": [
+          "performers",
+          "educators",
+          "south-school"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-yu-xunfa",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/yu-xunfa.html",
+        "slug": "yu-xunfa",
+        "status": "planned",
+        "title": "俞遜發",
+        "topic_ids": [
+          "performers",
+          "modern-professionalization"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-zeng-yongqing",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/zeng-yongqing.html",
+        "slug": "zeng-yongqing",
+        "status": "planned",
+        "title": "曾永清",
+        "topic_ids": [
+          "performers",
+          "educators"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-zhang-weiliang",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/zhang-weiliang.html",
+        "slug": "zhang-weiliang",
+        "status": "planned",
+        "title": "張維良",
+        "topic_ids": [
+          "performers",
+          "educators"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-tang-junqiao",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/tang-junqiao.html",
+        "slug": "tang-junqiao",
+        "status": "planned",
+        "title": "唐俊喬",
+        "topic_ids": [
+          "performers",
+          "educators"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-tam-po-shek",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/tam-po-shek.html",
+        "slug": "tam-po-shek",
+        "status": "planned",
+        "title": "譚寶碩",
+        "topic_ids": [
+          "performers",
+          "hong-kong"
+        ]
+      },
+      {
+        "group": "people",
+        "id": "person-chen-chung-shen",
+        "maturity_level": "L2",
+        "page_type": "person",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/experts/chen-chung-shen.html",
+        "slug": "chen-chung-shen",
+        "status": "planned",
+        "title": "陳中申",
+        "topic_ids": [
+          "performers",
+          "educators",
+          "taiwan"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-xi-xiang-feng",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/xi-xiang-feng.html",
+        "slug": "xi-xiang-feng",
+        "status": "planned",
+        "title": "《喜相逢》",
+        "topic_ids": [
+          "traditional-solo",
+          "north-school"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-wu-bangzi",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/wu-bangzi.html",
+        "slug": "wu-bangzi",
+        "status": "planned",
+        "title": "《五梆子》",
+        "topic_ids": [
+          "traditional-solo",
+          "north-school"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-zhegu-fei",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/zhegu-fei.html",
+        "slug": "zhegu-fei",
+        "status": "planned",
+        "title": "《鷓鴣飛》",
+        "topic_ids": [
+          "traditional-solo",
+          "south-school"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-gusu-xing",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/gusu-xing.html",
+        "slug": "gusu-xing",
+        "status": "planned",
+        "title": "《姑蘇行》",
+        "topic_ids": [
+          "new-compositions",
+          "south-school"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-san-wu-qi",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/san-wu-qi.html",
+        "slug": "san-wu-qi",
+        "status": "planned",
+        "title": "《三五七》",
+        "topic_ids": [
+          "new-compositions",
+          "south-school"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-zaochen",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/zaochen.html",
+        "slug": "zaochen",
+        "status": "planned",
+        "title": "《早晨》",
+        "topic_ids": [
+          "new-compositions"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-yinzhong-niao",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/yinzhong-niao.html",
+        "slug": "yinzhong-niao",
+        "status": "planned",
+        "title": "《蔭中鳥》",
+        "topic_ids": [
+          "new-compositions",
+          "north-school"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-mumin-xinge",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/mumin-xinge.html",
+        "slug": "mumin-xinge",
+        "status": "planned",
+        "title": "《牧民新歌》",
+        "topic_ids": [
+          "new-compositions"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-yangbian-cuima",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/yangbian-cuima-yunliangmang.html",
+        "slug": "yangbian-cuima-yunliangmang",
+        "status": "planned",
+        "title": "《揚鞭催馬運糧忙》",
+        "topic_ids": [
+          "new-compositions",
+          "north-school"
+        ]
+      },
+      {
+        "group": "pieces",
+        "id": "piece-pamier-de-chuntian",
+        "maturity_level": "L2",
+        "page_type": "piece",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/pieces/pamier-de-chuntian.html",
+        "slug": "pamier-de-chuntian",
+        "status": "planned",
+        "title": "《帕米爾的春天》",
+        "topic_ids": [
+          "new-compositions"
+        ]
+      },
+      {
+        "group": "learning",
+        "id": "lesson-first-contact",
+        "maturity_level": "L3",
+        "page_type": "lesson",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/learn/start.html",
+        "slug": "start",
+        "status": "planned",
+        "title": "第一次接觸竹笛",
+        "topic_ids": [
+          "beginner"
+        ]
+      },
+      {
+        "group": "learning",
+        "id": "lesson-first-30-days",
+        "maturity_level": "L3",
+        "page_type": "lesson",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/learn/first-30-days.html",
+        "slug": "first-30-days",
+        "status": "planned",
+        "title": "首 30 日練習路線",
+        "topic_ids": [
+          "beginner",
+          "long-tone",
+          "scales"
+        ]
+      },
+      {
+        "group": "learning",
+        "id": "lesson-beginner",
+        "maturity_level": "L3",
+        "page_type": "lesson",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/learn/beginner.html",
+        "slug": "beginner",
+        "status": "planned",
+        "title": "初級學習路徑",
+        "topic_ids": [
+          "beginner",
+          "curriculum"
+        ]
+      },
+      {
+        "group": "learning",
+        "id": "lesson-intermediate",
+        "maturity_level": "L3",
+        "page_type": "lesson",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/learn/intermediate.html",
+        "slug": "intermediate",
+        "status": "planned",
+        "title": "中級學習路徑",
+        "topic_ids": [
+          "intermediate",
+          "curriculum"
+        ]
+      },
+      {
+        "group": "learning",
+        "id": "lesson-common-errors",
+        "maturity_level": "L3",
+        "page_type": "lesson",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/learn/common-errors.html",
+        "slug": "common-errors",
+        "status": "planned",
+        "title": "常見錯誤診斷",
+        "topic_ids": [
+          "common-errors"
+        ]
+      },
+      {
+        "group": "methods",
+        "id": "method-source-rights-citation",
+        "maturity_level": "L2",
+        "page_type": "methodology",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/source-rights-and-citation-policy.html",
+        "slug": "source-rights-and-citation-policy",
+        "status": "planned",
+        "title": "來源、權利與引用政策",
+        "topic_ids": []
+      },
+      {
+        "group": "methods",
+        "id": "method-editorial-review",
+        "maturity_level": "L2",
+        "page_type": "methodology",
+        "priority": 1,
+        "progress_status": "complete",
+        "route": "static_pages/articles/editorial-peer-review-and-corrections.html",
+        "slug": "editorial-peer-review-and-corrections",
+        "status": "planned",
+        "title": "編輯、同行覆核及更正政策",
+        "topic_ids": []
+      }
+    ],
+    "planned": 0,
+    "researched": 0,
+    "title": "教授級 1.0：首批 72 個實質頁面",
+    "total": 72
+  },
+  "schema_version": "1.1.0"
+}

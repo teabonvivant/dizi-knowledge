@@ -1,0 +1,616 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "aliases": [
+        "northern dizi"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "bangdi",
+      "maturity": {
+        "id": "bangdi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 1922,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 18
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/bangdi.html",
+        "slug": "bangdi",
+        "source_ids": [
+          "museum-grinnell-dizi-1533",
+          "paper-luan-dizi-2024",
+          "thesis-chai-dizi-2014",
+          "web-actor-chinese-orchestra-winds"
+        ],
+        "title": "梆笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "梆笛",
+      "route": "static_pages/instruments/bangdi.html",
+      "slug": "bangdi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "chih"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "chi",
+      "maturity": {
+        "id": "chi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 4524,
+          "external_expert_reviewed": false,
+          "independent_sources": 7,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 7,
+          "verified_claims": 31
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/chi.html",
+        "slug": "chi",
+        "source_ids": [
+          "museum-henan-jiahu-bone-flute",
+          "museum-wesleyan-di-2005",
+          "paper-luan-dizi-2024",
+          "paper-nature-jiahu-flutes-1999",
+          "source-met-dizi-500635",
+          "thesis-chai-dizi-2014",
+          "web-met-music-art-china"
+        ],
+        "title": "篪"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "篪",
+      "route": "static_pages/instruments/chi.html",
+      "slug": "chi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "large dizi"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "dadi",
+      "maturity": {
+        "id": "dadi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 764,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/dadi.html",
+        "slug": "dadi",
+        "source_ids": [
+          "thesis-pccu-dadi-2010",
+          "web-shcm-dizi-types-2019"
+        ],
+        "title": "大笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "大笛",
+      "route": "static_pages/instruments/dadi.html",
+      "slug": "dadi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "di",
+        "dizi",
+        "hengdi",
+        "Chinese bamboo flute",
+        "Chinese transverse flute"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "dizi",
+      "maturity": {
+        "id": "dizi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 11525,
+          "external_expert_reviewed": false,
+          "independent_sources": 18,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 18,
+          "verified_claims": 85
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/dizi.html",
+        "slug": "dizi",
+        "source_ids": [
+          "museum-grinnell-dizi-1533",
+          "museum-henan-jiahu-bone-flute",
+          "museum-wesleyan-di-2005",
+          "paper-luan-dizi-2024",
+          "paper-nature-jiahu-flutes-1999",
+          "paper-wang-titzu-2024",
+          "profile-taoyuan-luo-zhixiu",
+          "source-met-dizi-500635",
+          "thesis-chai-dizi-2014",
+          "thesis-lau-dizi-1991",
+          "thesis-pimentel-woodwind-doubling-2009",
+          "video-youtube-stlpwb0vbjk",
+          "web-actor-chinese-orchestra-winds",
+          "web-imusic-tang-junqiao",
+          "web-lcsd-dizi-maintenance",
+          "web-met-music-art-china",
+          "web-parsons-dizi-maintenance-2022",
+          "web-vico-dizi-resource"
+        ],
+        "title": "竹笛／笛子"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "竹笛／笛子",
+      "route": "static_pages/instruments/dizi.html",
+      "slug": "dizi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "eight-hole-dizi",
+      "maturity": {
+        "id": "eight-hole-dizi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 693,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 6
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/eight-hole-dizi.html",
+        "slug": "eight-hole-dizi",
+        "source_ids": [
+          "pdf-ncpa-daiya-eight-hole-2016",
+          "web-ccom-daiya-eight-hole-2023"
+        ],
+        "title": "八孔笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "八孔笛",
+      "route": "static_pages/instruments/eight-hole-dizi.html",
+      "slug": "eight-hole-dizi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "eleven-hole-dizi",
+      "maturity": {
+        "id": "eleven-hole-dizi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 867,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/eleven-hole-dizi.html",
+        "slug": "eleven-hole-dizi",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "web-actor-chinese-orchestra-winds"
+        ],
+        "title": "十一孔笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "十一孔笛",
+      "route": "static_pages/instruments/eleven-hole-dizi.html",
+      "slug": "eleven-hole-dizi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "贾湖骨笛",
+        "Jiahu bone flute",
+        "gudi"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "jiahu-bone-flute",
+      "maturity": {
+        "id": "jiahu-bone-flute",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 3375,
+          "external_expert_reviewed": false,
+          "independent_sources": 7,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 7,
+          "verified_claims": 27
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/jiahu-bone-flute.html",
+        "slug": "jiahu-bone-flute",
+        "source_ids": [
+          "museum-henan-jiahu-bone-flute",
+          "museum-wesleyan-di-2005",
+          "paper-luan-dizi-2024",
+          "paper-nature-jiahu-flutes-1999",
+          "source-met-dizi-500635",
+          "thesis-chai-dizi-2014",
+          "web-met-music-art-china"
+        ],
+        "title": "賈湖骨笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "賈湖骨笛",
+      "route": "static_pages/instruments/jiahu-bone-flute.html",
+      "slug": "jiahu-bone-flute",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "keyed dizi"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "keyed-dizi",
+      "maturity": {
+        "id": "keyed-dizi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 867,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/keyed-dizi.html",
+        "slug": "keyed-dizi",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "web-actor-chinese-orchestra-winds"
+        ],
+        "title": "加鍵笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "加鍵笛",
+      "route": "static_pages/instruments/keyed-dizi.html",
+      "slug": "keyed-dizi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "kou di"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "koudi",
+      "maturity": {
+        "id": "koudi",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 655,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 4,
+          "verified_claims": 8
+        },
+        "public_ready": false,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/koudi.html",
+        "slug": "koudi",
+        "source_ids": [
+          "catalog-tsinghua-gusu-recording",
+          "web-chzu-yu-xunfa-2026",
+          "web-jssnu-yu-koudi-2020",
+          "web-wuxi-yu-xunfa-2024"
+        ],
+        "title": "口笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "口笛",
+      "route": "static_pages/instruments/koudi.html",
+      "slug": "koudi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "paixiao"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "paixiao",
+      "maturity": {
+        "id": "paixiao",
+        "maturity_label": "種子條目",
+        "maturity_level": "L0",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 0,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 0,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/paixiao.html",
+        "slug": "paixiao",
+        "source_ids": [],
+        "title": "排簫"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "排簫",
+      "route": "static_pages/instruments/paixiao.html",
+      "slug": "paixiao",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "sudi",
+        "southern dizi"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "qudi",
+      "maturity": {
+        "id": "qudi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 1922,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 17
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/qudi.html",
+        "slug": "qudi",
+        "source_ids": [
+          "museum-grinnell-dizi-1533",
+          "paper-luan-dizi-2024",
+          "thesis-chai-dizi-2014",
+          "web-actor-chinese-orchestra-winds"
+        ],
+        "title": "曲笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "曲笛",
+      "route": "static_pages/instruments/qudi.html",
+      "slug": "qudi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "ti-tzu ten-hole"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "ten-hole-dizi",
+      "maturity": {
+        "id": "ten-hole-dizi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 739,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 13
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/ten-hole-dizi.html",
+        "slug": "ten-hole-dizi",
+        "source_ids": [
+          "paper-wang-titzu-2024",
+          "web-hqu-ten-hole-paper-2015",
+          "web-sccm-ten-hole-lecture-2007"
+        ],
+        "title": "十孔笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "十孔笛",
+      "route": "static_pages/instruments/ten-hole-dizi.html",
+      "slug": "ten-hole-dizi",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "concert flute"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "western-flute",
+      "maturity": {
+        "id": "western-flute",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 1149,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 4,
+          "verified_claims": 12
+        },
+        "public_ready": false,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/western-flute.html",
+        "slug": "western-flute",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "paper-luan-dizi-2024",
+          "source-met-dizi-500635",
+          "web-met-music-art-china"
+        ],
+        "title": "長笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "長笛",
+      "route": "static_pages/instruments/western-flute.html",
+      "slug": "western-flute",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "xiao flute"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "xiao",
+      "maturity": {
+        "id": "xiao",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 1149,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 4,
+          "verified_claims": 12
+        },
+        "public_ready": false,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/xiao.html",
+        "slug": "xiao",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "paper-luan-dizi-2024",
+          "source-met-dizi-500635",
+          "web-met-music-art-china"
+        ],
+        "title": "簫"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "簫",
+      "route": "static_pages/instruments/xiao.html",
+      "slug": "xiao",
+      "verification_status": "UNVERIFIED"
+    },
+    {
+      "aliases": [
+        "membrane-less dizi"
+      ],
+      "description": "",
+      "entity_type": "instruments",
+      "id": "xindi",
+      "maturity": {
+        "id": "xindi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 867,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "instrument",
+        "route": "static_pages/instruments/xindi.html",
+        "slug": "xindi",
+        "source_ids": [
+          "museum-wesleyan-di-2005",
+          "thesis-chai-dizi-2014",
+          "web-actor-chinese-orchestra-winds"
+        ],
+        "title": "新笛"
+      },
+      "metadata": {
+        "taxonomy_seed": true
+      },
+      "name": "新笛",
+      "route": "static_pages/instruments/xindi.html",
+      "slug": "xindi",
+      "verification_status": "UNVERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}

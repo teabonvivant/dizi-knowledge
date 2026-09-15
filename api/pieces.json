@@ -1,0 +1,598 @@
+{
+  "generated_at": "2026-09-12T07:41:16Z",
+  "items": [
+    {
+      "aliases": [
+        "《芙蓉湖》",
+        "Furong Lake",
+        "Furong Hu",
+        "Fu Rong Hu"
+      ],
+      "arrangers": [],
+      "composers": [
+        "person-liu-yi"
+      ],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-furong-lake",
+      "maturity": {
+        "id": "piece-furong-lake",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "piece",
+        "route": "static_pages/pieces/furong-lake.html",
+        "slug": "furong-lake",
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ],
+        "title": "芙蓉湖"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ]
+      },
+      "route": "static_pages/pieces/furong-lake.html",
+      "slug": "furong-lake",
+      "title": "芙蓉湖",
+      "verification_status": "PARTIALLY_VERIFIED"
+    },
+    {
+      "aliases": [
+        "姑蘇行",
+        "姑苏行",
+        "Gusu Xing",
+        "Gu Su Xing",
+        "The Sights of Gusu City"
+      ],
+      "arrangers": [],
+      "composers": [
+        "person-jiang-xianwei"
+      ],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-gusu-xing",
+      "maturity": {
+        "id": "piece-gusu-xing",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 1104,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 9
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/gusu-xing.html",
+        "slug": "gusu-xing",
+        "source_ids": [
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "catalog-tsinghua-gusu-recording",
+          "thesis-chai-dizi-2014",
+          "web-tsinghua-gusu-xing"
+        ],
+        "title": "《姑蘇行》"
+      },
+      "metadata": {
+        "authorship_note": "江先渭於 1962 年創作；姓名異體以來源原文保留為 alias",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-tsinghua-gusu-xing",
+          "catalog-tsinghua-gusu-recording",
+          "catalog-ccom-chinese-instrumental-collection-2008"
+        ]
+      },
+      "route": "static_pages/pieces/gusu-xing.html",
+      "slug": "gusu-xing",
+      "title": "《姑蘇行》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "苗嶺的早晨",
+        "苗岭的早晨",
+        "Morning in the Miao Mountains",
+        "Miaoling de Zaochen",
+        "Miao Ling De Zao Chen"
+      ],
+      "arrangers": [],
+      "composers": [],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-miaoling-de-chenzao",
+      "maturity": {
+        "id": "piece-miaoling-de-chenzao",
+        "maturity_label": "書目條目",
+        "maturity_level": "L1",
+        "metrics": {
+          "characters": 0,
+          "external_expert_reviewed": false,
+          "independent_sources": 1,
+          "learning_features": 0,
+          "reviewed": false,
+          "sources": 1,
+          "verified_claims": 0
+        },
+        "public_ready": false,
+        "record_type": "piece",
+        "route": "static_pages/pieces/miaoling-de-chenzao.html",
+        "slug": "miaoling-de-chenzao",
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ],
+        "title": "苗嶺的早晨"
+      },
+      "metadata": {
+        "source_ids": [
+          "web-wuxi-yu-xunfa-2024"
+        ]
+      },
+      "route": "static_pages/pieces/miaoling-de-chenzao.html",
+      "slug": "miaoling-de-chenzao",
+      "title": "苗嶺的早晨",
+      "verification_status": "PARTIALLY_VERIFIED"
+    },
+    {
+      "aliases": [
+        "牧民新歌",
+        "Song of the Mongolian Herdsmen",
+        "Mumin Xinge"
+      ],
+      "arrangers": [],
+      "composers": [
+        "person-jian-guangyi"
+      ],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-mumin-xinge",
+      "maturity": {
+        "id": "piece-mumin-xinge",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 979,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 10
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/mumin-xinge.html",
+        "slug": "mumin-xinge",
+        "source_ids": [
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "thesis-chai-dizi-2014",
+          "web-ahnu-mumin-xinge-2017"
+        ],
+        "title": "《牧民新歌》"
+      },
+      "metadata": {
+        "authorship_note": "簡廣易作曲；館藏記錄另列王志偉、簡廣易配伴奏",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "web-ahnu-mumin-xinge-2017"
+        ]
+      },
+      "route": "static_pages/pieces/mumin-xinge.html",
+      "slug": "mumin-xinge",
+      "title": "《牧民新歌》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "帕米爾的春天",
+        "帕米尔的春天",
+        "Spring in the Pamirs",
+        "Pamier de Chuntian"
+      ],
+      "arrangers": [],
+      "composers": [
+        "person-li-datong"
+      ],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-pamier-de-chuntian",
+      "maturity": {
+        "id": "piece-pamier-de-chuntian",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 884,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 5
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/pamier-de-chuntian.html",
+        "slug": "pamier-de-chuntian",
+        "source_ids": [
+          "pdf-mct-youth-repertoire-2024",
+          "web-ccom-pamier-album-2025"
+        ],
+        "title": "《帕米爾的春天》"
+      },
+      "metadata": {
+        "authorship_note": "機構資料分別使用『李大同編曲』與『李大同曲』；首版樂譜未入庫前保留用語差異",
+        "source_ids": [
+          "web-ccom-pamier-album-2025",
+          "pdf-mct-youth-repertoire-2024"
+        ]
+      },
+      "route": "static_pages/pieces/pamier-de-chuntian.html",
+      "slug": "pamier-de-chuntian",
+      "title": "《帕米爾的春天》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "三五七",
+        "Three Five Seven",
+        "San Wu Qi"
+      ],
+      "arrangers": [],
+      "composers": [],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-san-wu-qi",
+      "maturity": {
+        "id": "piece-san-wu-qi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 820,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/san-wu-qi.html",
+        "slug": "san-wu-qi",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-zjcm-zhao-songting-center-2015",
+          "web-zjvaa-zhao-songting-sanwuqi-2011"
+        ],
+        "title": "《三五七》"
+      },
+      "metadata": {
+        "authorship_note": "婺劇唱調素材；趙松庭編曲",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-zjcm-zhao-songting-center-2015",
+          "web-zjvaa-zhao-songting-sanwuqi-2011",
+          "pdf-xacom-dizi-repertoire-2025"
+        ]
+      },
+      "route": "static_pages/pieces/san-wu-qi.html",
+      "slug": "san-wu-qi",
+      "title": "《三五七》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "五梆子",
+        "Wu Bangzi",
+        "Wu Pang-tzu"
+      ],
+      "arrangers": [],
+      "composers": [],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-wu-bangzi",
+      "maturity": {
+        "id": "piece-wu-bangzi",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 811,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 7
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/wu-bangzi.html",
+        "slug": "wu-bangzi",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-huain-feng-zicun-120-2024"
+        ],
+        "title": "《五梆子》"
+      },
+      "metadata": {
+        "authorship_note": "傳統曲牌；馮子存整理改編",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "pdf-xacom-dizi-repertoire-2025",
+          "web-huain-feng-zicun-120-2024"
+        ]
+      },
+      "route": "static_pages/pieces/wu-bangzi.html",
+      "slug": "wu-bangzi",
+      "title": "《五梆子》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "喜相逢",
+        "Happy Reunion",
+        "Happy Reunions",
+        "Xi Xiang Feng"
+      ],
+      "arrangers": [],
+      "composers": [],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-xi-xiang-feng",
+      "maturity": {
+        "id": "piece-xi-xiang-feng",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 799,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 7
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/xi-xiang-feng.html",
+        "slug": "xi-xiang-feng",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-huain-feng-zicun-120-2024"
+        ],
+        "title": "《喜相逢》"
+      },
+      "metadata": {
+        "authorship_note": "民間曲調；馮子存整理改編",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "pdf-xacom-dizi-repertoire-2025",
+          "web-huain-feng-zicun-120-2024"
+        ]
+      },
+      "route": "static_pages/pieces/xi-xiang-feng.html",
+      "slug": "xi-xiang-feng",
+      "title": "《喜相逢》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "揚鞭催馬運糧忙",
+        "扬鞭催马运粮忙",
+        "Harvest Time",
+        "Yangbian Cuima Yunliangmang"
+      ],
+      "arrangers": [],
+      "composers": [
+        "person-wei-xianzhong"
+      ],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-yangbian-cuima",
+      "maturity": {
+        "id": "piece-yangbian-cuima",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 913,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/yangbian-cuima-yunliangmang.html",
+        "slug": "yangbian-cuima-yunliangmang",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-xust-yangbian-2023"
+        ],
+        "title": "《揚鞭催馬運糧忙》"
+      },
+      "metadata": {
+        "authorship_note": "魏顯忠於 1969 年創作",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-xust-yangbian-2023"
+        ]
+      },
+      "route": "static_pages/pieces/yangbian-cuima-yunliangmang.html",
+      "slug": "yangbian-cuima-yunliangmang",
+      "title": "《揚鞭催馬運糧忙》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "蔭中鳥",
+        "荫中鸟",
+        "蔭中年鳥",
+        "Birdsong",
+        "Yinzhong Niao"
+      ],
+      "arrangers": [],
+      "composers": [
+        "person-liu-guanle"
+      ],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-yinzhong-niao",
+      "maturity": {
+        "id": "piece-yinzhong-niao",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 905,
+          "external_expert_reviewed": false,
+          "independent_sources": 3,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 3,
+          "verified_claims": 10
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/yinzhong-niao.html",
+        "slug": "yinzhong-niao",
+        "source_ids": [
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "thesis-chai-dizi-2014",
+          "web-ccom-zhushi-interview-2022"
+        ],
+        "title": "《蔭中鳥》"
+      },
+      "metadata": {
+        "authorship_note": "劉管樂作曲／整理；學位論文指出素材源自河北嗩吶曲調",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "catalog-ccom-chinese-instrumental-collection-2008",
+          "web-ccom-zhushi-interview-2022"
+        ]
+      },
+      "route": "static_pages/pieces/yinzhong-niao.html",
+      "slug": "yinzhong-niao",
+      "title": "《蔭中鳥》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "早晨",
+        "Morning",
+        "Zaochen"
+      ],
+      "arrangers": [],
+      "composers": [
+        "person-zhao-songting"
+      ],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-zaochen",
+      "maturity": {
+        "id": "piece-zaochen",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 924,
+          "external_expert_reviewed": false,
+          "independent_sources": 2,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 2,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/zaochen.html",
+        "slug": "zaochen",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-ccom-zhushi-interview-2022"
+        ],
+        "title": "《早晨》"
+      },
+      "metadata": {
+        "authorship_note": "趙松庭作曲；現有來源對創作年份有 1950 與 1954 兩種說法，頁面明列差異",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "web-ccom-zhushi-interview-2022"
+        ]
+      },
+      "route": "static_pages/pieces/zaochen.html",
+      "slug": "zaochen",
+      "title": "《早晨》",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "鷓鴣飛",
+        "鹧鸪飞",
+        "Flying Partridge",
+        "Zhegu Fei",
+        "Zhe Gu Fei"
+      ],
+      "arrangers": [],
+      "composers": [],
+      "entity_type": "pieces",
+      "first_performance_year": "",
+      "id": "piece-zhegu-fei",
+      "maturity": {
+        "id": "piece-zhegu-fei",
+        "maturity_label": "已核實摘要",
+        "maturity_level": "L2",
+        "metrics": {
+          "characters": 832,
+          "external_expert_reviewed": false,
+          "independent_sources": 4,
+          "learning_features": 0,
+          "reviewed": true,
+          "sources": 4,
+          "verified_claims": 8
+        },
+        "public_ready": true,
+        "record_type": "piece",
+        "route": "static_pages/pieces/zhegu-fei.html",
+        "slug": "zhegu-fei",
+        "source_ids": [
+          "pdf-xacom-dizi-repertoire-2025",
+          "thesis-chai-dizi-2014",
+          "web-shcm-lu-chunling-obituary-2018",
+          "web-zjcm-zhao-songting-center-2015"
+        ],
+        "title": "《鷓鴣飛》"
+      },
+      "metadata": {
+        "authorship_note": "湖南民間樂曲；陸春齡及趙松庭各有整理版本",
+        "source_ids": [
+          "thesis-chai-dizi-2014",
+          "pdf-xacom-dizi-repertoire-2025",
+          "web-zjcm-zhao-songting-center-2015",
+          "web-shcm-lu-chunling-obituary-2018"
+        ]
+      },
+      "route": "static_pages/pieces/zhegu-fei.html",
+      "slug": "zhegu-fei",
+      "title": "《鷓鴣飛》",
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "schema_version": "1.1.0"
+}
