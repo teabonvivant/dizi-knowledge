@@ -1753,7 +1753,7 @@
       "source_id": "pdf-ncpa-daiya-eight-hole-2016",
       "status": "verified",
       "subject_id": "eight-hole-dizi",
-      "value": "國家大劇院節目冊亦記載 1990 年研製成功"
+      "value": "國家大劇院節目冊亦載：1990 年研製成功"
     },
     {
       "confidence": 0.96,
@@ -1772,7 +1772,7 @@
       "source_id": "pdf-ncpa-daiya-eight-hole-2016",
       "status": "verified",
       "subject_id": "eight-hole-dizi",
-      "value": "國家大劇院節目冊稱八孔笛在舞台演出中獨具特色"
+      "value": "同一節目冊又稱，八孔笛在舞台演出中獨具特色"
     },
     {
       "confidence": 0.97,
@@ -6208,7 +6208,7 @@
       "source_id": "web-sccm-tang-junqiao-2015",
       "status": "verified",
       "subject_id": "person-tang-junqiao",
-      "value": "《愁空山》的代表詮釋者"
+      "value": "《愁空山》一曲的代表詮釋者"
     },
     {
       "confidence": 0.98,
@@ -6227,7 +6227,7 @@
       "source_id": "web-sccm-ten-hole-lecture-2007",
       "status": "verified",
       "subject_id": "ten-hole-dizi",
-      "value": "四川音樂學院資料歸於沈文毅研製"
+      "value": "四川音樂學院的資料，將研製之功歸於沈文毅"
     },
     {
       "confidence": 0.96,
@@ -6246,7 +6246,7 @@
       "source_id": "web-sccm-ten-hole-lecture-2007",
       "status": "verified",
       "subject_id": "ten-hole-dizi",
-      "value": "資料稱 1953 年就讀川音琵琶專業的韓素德選修十孔笛"
+      "value": "據資料所稱，1953 年就讀川音琵琶專業的韓素德，曾選修十孔笛"
     },
     {
       "confidence": 0.99,
@@ -6307,7 +6307,7 @@
       "source_id": "web-sccm-ten-hole-lecture-2007",
       "status": "verified",
       "subject_id": "ten-hole-dizi",
-      "value": "《阿詩瑪敘事詩》採十二平均律並結合傳統滑音與長笛手法"
+      "value": "《阿詩瑪敘事詩》採十二平均律，兼融傳統滑音與長笛手法"
     },
     {
       "confidence": 0.97,
@@ -6415,7 +6415,7 @@
       "source_id": "web-sccm-zhang-weiliang-2009",
       "status": "verified",
       "subject_id": "person-zhang-weiliang",
-      "value": "竹笛教學不應只重演奏而忽視理論建設"
+      "value": "竹笛教學，不應獨重演奏而輕忽理論建設"
     },
     {
       "confidence": 0.96,
@@ -6434,7 +6434,7 @@
       "source_id": "web-shcm-dizi-types-2019",
       "status": "verified",
       "subject_id": "dadi",
-      "value": "近年興起的竹笛類型"
+      "value": "近年方興起的一種竹笛類型"
     },
     {
       "confidence": 0.99,
@@ -6472,7 +6472,7 @@
       "source_id": "web-shcm-dizi-types-2019",
       "status": "verified",
       "subject_id": "dadi",
-      "value": "在民族管弦樂隊中擔任重要角色"
+      "value": "於民族管弦樂隊中擔綱重要角色"
     },
     {
       "confidence": 0.98,
@@ -6514,7 +6514,7 @@
       "source_id": "web-shcm-dizi-types-2019",
       "status": "verified",
       "subject_id": "dadi",
-      "value": "因音色與敘事性受到作曲家青睞"
+      "value": "以音色與敘事性見長，頗受作曲家青睞"
     },
     {
       "confidence": 0.99,

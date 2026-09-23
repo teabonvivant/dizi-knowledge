@@ -1396,10 +1396,10 @@
       "claim_text": [
         "eight-hole-dizi",
         "independent_programme_confirmation",
-        "國家大劇院節目冊亦記載 1990 年研製成功",
+        "國家大劇院節目冊亦載：1990 年研製成功",
         "eight-hole-dizi",
         "independent_stage_use_confirmation",
-        "國家大劇院節目冊稱八孔笛在舞台演出中獨具特色"
+        "同一節目冊又稱，八孔笛在舞台演出中獨具特色"
       ],
       "filter_type": "source",
       "id": "pdf-ncpa-daiya-eight-hole-2016",
@@ -3801,7 +3801,7 @@
         "《笛子技法》、《簫譜》、《香港故事》",
         "person-tam-po-shek",
         "recording_and_film_work",
-        "電影：廿多部；錄音：數以百計"
+        "電影：廿多部；唱片錄音：數以百計"
       ],
       "filter_type": "source",
       "id": "web-lcsd-tam-po-shek-profile",
@@ -4022,7 +4022,7 @@
         "從《愁空山》談竹笛傳統潤腔在現代音樂中的重要性",
         "person-tang-junqiao",
         "documented_interpretive_role",
-        "《愁空山》的代表詮釋者"
+        "《愁空山》一曲的代表詮釋者"
       ],
       "filter_type": "source",
       "id": "web-sccm-tang-junqiao-2015",
@@ -4068,10 +4068,10 @@
       "claim_text": [
         "ten-hole-dizi",
         "institutional_developer_attribution",
-        "四川音樂學院資料歸於沈文毅研製",
+        "四川音樂學院的資料，將研製之功歸於沈文毅",
         "ten-hole-dizi",
         "earliest_documented_student_context",
-        "資料稱 1953 年就讀川音琵琶專業的韓素德選修十孔笛",
+        "據資料所稱，1953 年就讀川音琵琶專業的韓素德，曾選修十孔笛",
         "ten-hole-dizi",
         "curriculum_entry",
         "1954",
@@ -4080,7 +4080,7 @@
         "旦國蘆、張寶慶、王其書",
         "ten-hole-dizi",
         "documented_repertoire_application",
-        "《阿詩瑪敘事詩》採十二平均律並結合傳統滑音與長笛手法"
+        "《阿詩瑪敘事詩》採十二平均律，兼融傳統滑音與長笛手法"
       ],
       "filter_type": "source",
       "id": "web-sccm-ten-hole-lecture-2007",
@@ -4148,7 +4148,7 @@
         "《太湖春》、《行雲流水》",
         "person-zhang-weiliang",
         "pedagogical_issue_reported_by_zhang",
-        "竹笛教學不應只重演奏而忽視理論建設"
+        "竹笛教學，不應獨重演奏而輕忽理論建設"
       ],
       "filter_type": "source",
       "id": "web-sccm-zhang-weiliang-2009",
@@ -4194,19 +4194,19 @@
       "claim_text": [
         "dadi",
         "development_period_characterization",
-        "近年興起的竹笛類型",
+        "近年方興起的一種竹笛類型",
         "dadi",
         "relative_register",
         "比常規竹笛低一個八度",
         "dadi",
         "orchestral_role",
-        "在民族管弦樂隊中擔任重要角色",
+        "於民族管弦樂隊中擔綱重要角色",
         "dadi",
         "reported_timbre",
-        "低沉、渾厚、富敘事性",
+        "音色低沉渾厚，富於敘事性",
         "dadi",
         "composition_context",
-        "因音色與敘事性受到作曲家青睞"
+        "以音色與敘事性見長，頗受作曲家青睞"
       ],
       "filter_type": "source",
       "id": "web-shcm-dizi-types-2019",
@@ -11457,7 +11457,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "沿賈湖骨笛、周代篪及清代館藏竹笛，排出分層時間線；逐項交代年代、材料、吹奏方向及證據限度，不把考古上的早期器物直接說成現代竹笛祖先。"
+        "從賈湖骨笛、周代篪，到清代館藏竹笛，排出一條分層的時間線：逐項交代年代、材料、吹奏方向，也逐項交代證據的限度，不把考古上的早期器物，順口說成現代竹笛的祖先。"
       ],
       "filter_type": "article",
       "id": "foundation-archaeology",
@@ -11517,7 +11517,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "整合台灣教育機構資料，建立陳中申由演奏、作曲、指揮到陳氏半音笛研發的可追溯年表。"
+        "匯合台灣教育機構的資料，為陳中申從演奏、作曲、指揮，直到陳氏半音笛的研發，梳理出一條可以追溯的年表。"
       ],
       "filter_type": "article",
       "id": "person-chen-chung-shen-profile",
@@ -11546,7 +11546,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "說明口腔儲氣與鼻吸的交接，安排由水泡練習到竹笛長音的次序，並區分技巧成功與樂句自然。"
+        "說的先是口腔儲氣與鼻吸怎樣交接，再把練習由水泡排到竹笛長音，最後分清何謂技巧成功、何謂樂句自然。"
       ],
       "filter_type": "article",
       "id": "technique-circular-breathing",
@@ -11575,7 +11575,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以音樂學院講座和學位論文界定大笛的相對音域、音色、樂隊用途及早期代表曲目，同時交代名稱與規格仍有彈性。"
+        "藉音樂學院講座與學位論文，界定大笛的相對音域、音色、樂隊用途與早期代表曲目；名稱與規格之間，仍保留若干彈性。"
       ],
       "filter_type": "article",
       "id": "instrument-dadi-study",
@@ -11604,7 +11604,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由膜孔位置、振動作用、鬆緊反應和日常檢查入手，說清笛膜已能證實的聲學作用，以及仍待補證的貼法細節。"
+        "從膜孔的位置、薄膜的振動，到鬆緊之間的反應和日常的檢查，一步步說清笛膜已經證實了的聲學作用；貼法上仍待補證的細節，也不含糊放過。"
       ],
       "filter_type": "article",
       "id": "foundation-dimo",
@@ -11694,7 +11694,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由第一次發音到中級曲目整合，以能力關卡、單變項練習、錄音證據和作品專題組成可調整的教學架構。"
+        "從第一次發音，走到中級曲目整合：以能力關卡定進退，以單變項練習、錄音證據和作品專題作骨幹，搭起一套可以隨時調整的教學架構。"
       ],
       "filter_type": "article",
       "id": "hub-teaching-overview",
@@ -11756,7 +11756,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以馮子存、劉管樂、陸春齡、趙松庭四個個案，說明人物生平、師承、曲目、教學、機構及紀念敘事應怎樣分層核實。"
+        "借馮子存、劉管樂、陸春齡、趙松庭四家個案，談人物生平、師承、曲目、教學、機構與紀念敘事該如何分層核實。"
       ],
       "filter_type": "article",
       "id": "hub-people-overview",
@@ -11786,7 +11786,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "分開錄音保存、聲學量測、訊號分析、物理建模、聲音合成和人工智能任務，列出建立可重現竹笛數碼資料集的最低欄位。"
+        "錄音保存、聲學量測、訊號分析、物理建模、聲音合成、人工智能，各有各的學問，不應混作一談。這裏把它們分開，並列出建立可重現竹笛數碼資料集的最低欄位。"
       ],
       "filter_type": "article",
       "id": "hub-digital-music-overview",
@@ -11818,7 +11818,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以梆笛、曲笛、戲曲和江南絲竹的可核資料畫出地域地圖，同時說明「南北派」是有用的歷史框架，不是固定本質。"
+        "藉梆笛、曲笛、戲曲與江南絲竹的可核資料，繪一幅地域地圖；並說明「南北派」只是一個有用的歷史框架，並非固定不變的本質。"
       ],
       "filter_type": "article",
       "id": "hub-regional-styles-overview",
@@ -11849,7 +11849,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以《五梆子》《喜相逢》《鷓鴣飛》《三五七》示範怎樣由曲調來源、改編者、結構、技法、譜本和錄音建立可核查的曲目頁。"
+        "借《五梆子》《喜相逢》《鷓鴣飛》《三五七》四首曲子示範：怎樣從曲調來源、改編者、結構、技法、譜本和錄音入手，建立起可以逐一核查的曲目頁。"
       ],
       "filter_type": "article",
       "id": "hub-repertoire-overview",
@@ -11939,7 +11939,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "按身體協調、發音、運指、吐奏、裝飾、換氣和音樂語境整理技法次序，提供可診斷的學習路線及跨技法關係圖。"
+        "把技法按身體協調、發音、運指、吐奏、裝飾、換氣，以至音樂語境，理出一套先後次序，並提供一條可以從中診斷問題的學習路線，以及一幅跨技法的關係圖。"
       ],
       "filter_type": "article",
       "id": "hub-techniques-overview",
@@ -12003,7 +12003,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由記號、音節、使用脈絡和已核實示範入手，建立循序練習及自我檢查的雙吐基礎。"
+        "從記號、音節、使用脈絡，到已核實的示範說起，為雙吐打好循序練習與自我檢查的根基。"
       ],
       "filter_type": "article",
       "id": "technique-double-tonguing",
@@ -12032,7 +12032,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "說明 AI 輔助編輯、內部編輯、外部學科專家和教學專家的權限差異，以及主張衝突、版本更新、撤稿及 L4 驗收程序。"
+        "說的是四種身分——AI 輔助編輯、內部編輯、外部學科專家、教學專家——權限有何分別，以及主張衝突、版本更新、撤稿、L4 驗收各依什麼程序。"
       ],
       "filter_type": "article",
       "id": "method-editorial-review",
@@ -12055,7 +12055,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "核對八孔笛在 1990 年代舞台實踐及 2008 年教材化的兩個節點，並說明現有來源不足以建立跨製作者的唯一孔位圖。"
+        "圍繞八孔笛的兩個節點——1990 年代的舞台實踐、2008 年的教材化——逐一核對，並說明現有來源有限，尚不足以建立跨製作者的唯一孔位圖。"
       ],
       "filter_type": "article",
       "id": "instrument-eight-hole-study",
@@ -12084,7 +12084,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "把風門、口風、氣流速度和音區變化分開處理，建立可觀察、可錄音和可修正的發音方法。"
+        "把風門、口風、氣流速度和音區變化逐項分開處理，發音的方法因此可以觀察、可以錄下，也可以修正。"
       ],
       "filter_type": "article",
       "id": "technique-embouchure-air",
@@ -12171,7 +12171,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由署名、創作年代、崑曲素材、曲式、裝飾音和錄音目錄，建立《姑蘇行》的可核查作品導讀。"
+        "從署名、創作年代，談到崑曲素材、曲式、裝飾音與錄音目錄，為《姑蘇行》立一篇可逐一核查的作品導讀。"
       ],
       "filter_type": "article",
       "id": "work-gusu-xing",
@@ -12230,7 +12230,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "解釋 L0 至 L4、來源等級、逐項主張、定位器、信心、權利狀態及待考標記，讓讀者知道每一頁能證明甚麼，尚不能證明甚麼。"
+        "談 L0 至 L4、來源等級、逐項主張、定位器、信心、權利狀態與待考標記，讓讀者明白每一頁能證明甚麼，又有甚麼尚不能證明。"
       ],
       "filter_type": "article",
       "id": "foundation-evidence",
@@ -12253,7 +12253,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "把笛身調名、筒音作幾、簡譜的 1 和實際音高拆開處理，避免最常見的調性誤讀。"
+        "笛身調名、筒音作幾、簡譜的 1、實際音高，四件事拆開來說，最常見的調性誤讀便能避過。"
       ],
       "filter_type": "article",
       "id": "foundation-pitch",
@@ -12282,7 +12282,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "從生平、梆笛專長、代表曲目和院校傳承四方面，建立劉管樂的可追溯人物檔案。"
+        "就生平、梆笛專長、代表曲目、院校傳承四個方面，為劉管樂建一份可追溯的人物檔案。"
       ],
       "filter_type": "article",
       "id": "biography-liu-guanle",
@@ -12311,7 +12311,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以呼吸支援、起音、穩定段和收音四部分拆解長音，提供可量度、也不鼓勵過度憋氣的練習框架。"
+        "把長音拆作呼吸支援、起音、穩定段和收音四部分來看，練習的框架可以量度，也不鼓勵拚命憋氣。"
       ],
       "filter_type": "article",
       "id": "technique-long-tone",
@@ -12400,7 +12400,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "把南北分類放回戲曲、地方合奏、樂器形制和演奏語彙中理解，避免把概括標籤當成固定本質。"
+        "南北之分，要放回戲曲、地方合奏、樂器形制和演奏語彙之中去理解；一個概括的標籤，切莫當成固定不移的本質。"
       ],
       "filter_type": "article",
       "id": "foundation-schools",
@@ -12459,7 +12459,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以《姑蘇行》的打音、疊音、贈音和顫指為例，區分由下、由上及句尾點音的方向與功能，並處理中文術語和 grace note 並不完全對等的問題。"
+        "借《姑蘇行》的打音、疊音、贈音與顫指為例，分辨由下、由上、句尾點音各自的方向與功能，也直面中文術語與 grace note 並不完全對等的難處。"
       ],
       "filter_type": "article",
       "id": "technique-ornaments",
@@ -12489,7 +12489,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "先以有文獻支持的曲笛／梆笛比較建立尺度，再說明新笛和大笛目前能查到、以及尚待補證的部分。"
+        "先借曲笛與梆笛之間有文獻支持的比較立一把尺，再說新笛、大笛：哪些查得到，哪些仍待補證。"
       ],
       "filter_type": "article",
       "id": "foundation-types",
@@ -12518,7 +12518,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "比較文獻中的實用音域說法，交代記譜音與實音的差別，以及半音和跨筒音寫作的限制。"
+        "把文獻中各種實用音域的說法並列比較，說清記譜音與實音的分別，以及半音、跨筒音寫作之際的限制。"
       ],
       "filter_type": "article",
       "id": "foundation-range-notation",
@@ -12548,7 +12548,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由婺劇唱調和伴奏質地出發，說明趙松庭 1957 年改編的四段結構、循環換氣和當代曲目地位。"
+        "從婺劇唱調和伴奏的質地說起，講清趙松庭 1957 年改編的四段結構、循環換氣，以及作品在當代曲目中的地位。"
       ],
       "filter_type": "article",
       "id": "work-san-wu-qi",
@@ -12636,7 +12636,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "區分連續與階梯式滑動，說明按孔、口風、筒音邊界、樂句功能和作曲標示的需要。"
+        "先分清連續滑動與階梯式滑動兩種聽感，再談按孔、口風、筒音邊界、樂句功能，以及作曲標示上有甚麼要留意。"
       ],
       "filter_type": "article",
       "id": "technique-slide",
@@ -12688,7 +12688,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由香港政府及康文署資料整理譚寶碩的嶺南師承、低音與巨型洞簫研製、錄音出版及文學講座。"
+        "據香港政府及康文署的資料，梳理譚寶碩的嶺南師承、低音與巨型洞簫的研製、錄音出版，以及文學講座的開展。"
       ],
       "filter_type": "article",
       "id": "person-tam-po-shek-profile",
@@ -12717,7 +12717,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以三所音樂院校資料核實唐俊喬的職務、首演與出版數字、竹笛樂團及《愁空山》教學實踐。"
+        "藉三所音樂院校的資料，核實唐俊喬的職務、首演與出版數字、竹笛樂團，以及《愁空山》的教學實踐。"
       ],
       "filter_type": "article",
       "id": "person-tang-junqiao-profile",
@@ -12746,7 +12746,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "把顫指的手指動作、起始音、速度和流派語境分開，提供由單指到樂句的量化練習方法。"
+        "將顫指的手指動作、起始音、速度、流派語境分而論之，並提供一套由單指以至樂句、可以量化衡量的練習方法。"
       ],
       "filter_type": "article",
       "id": "technique-trill",
@@ -12775,7 +12775,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "解釋三吐的記號、音節提示、曲目脈絡，以及由慢速三音組到連續音型的練習次序。"
+        "從三吐的記號、音節提示說到曲目脈絡和練習次序：由慢速的三音組起步，以至連成連續的音型。"
       ],
       "filter_type": "article",
       "id": "technique-triple-tonguing",
@@ -12863,7 +12863,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "先界定這個知識庫所說的竹笛，再由結構、笛膜、常見類型與演奏用途建立基本概念。"
+        "談竹笛，先要劃清範圍：這個知識庫所說的竹笛，究竟是哪一種笛。之後再從結構、笛膜談到常見類型與演奏用途，一步一步立起基本概念。"
       ],
       "filter_type": "article",
       "id": "foundation-what-is-dizi",
@@ -12921,7 +12921,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由民間素材、馮子存改編、四段結構、演奏技法和今日院校曲目地位，介紹《喜相逢》的形成與流傳。"
+        "從民間素材、馮子存改編、四段結構、演奏技法，說到今日院校的曲目地位，看《喜相逢》怎樣形成，怎樣流傳。"
       ],
       "filter_type": "article",
       "id": "work-xi-xiang-feng",
@@ -12950,7 +12950,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "以大學博物館、配器研究和博士論文，區分無膜十一孔新笛、帶膜加鍵笛及其他現代改良方案。"
+        "憑大學博物館、配器研究、博士論文三方材料，分辨無膜十一孔新笛、帶膜加鍵笛，以及其他現代改良方案。"
       ],
       "filter_type": "article",
       "id": "instrument-modern-dizi-variants",
@@ -12980,7 +12980,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "由創作年代、東北素材、三段結構、問答句法、吐音和顫音配置，分析《揚鞭催馬運糧忙》。"
+        "從創作年代、東北素材、三段結構、問答句法，說到吐音與顫音的配置，逐一分析《揚鞭催馬運糧忙》。"
       ],
       "filter_type": "article",
       "id": "work-yangbian-cuima",
@@ -13010,7 +13010,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "把《蔭中鳥》的署名、素材、三段結構、固定音型、鳥鳴技法、演奏配置及史料限度逐項拆開。"
+        "《蔭中鳥》的署名、素材、三段結構、固定音型、鳥鳴技法、演奏配置，以至史料的限度，這裏逐項拆開來看。"
       ],
       "filter_type": "article",
       "id": "work-yinzhong-niao",
@@ -13098,7 +13098,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "整理曾永清由天津、中央音樂學院少年班到專業舞台的年表，並以兩個來源重建劉管樂與馮子存的師承線。"
+        "由天津、中央音樂學院少年班，走到專業舞台，為曾永清排出一份年表；再憑兩個來源，重建劉管樂與馮子存兩條師承的線索。"
       ],
       "filter_type": "article",
       "id": "person-zeng-yongqing-profile",
@@ -13156,7 +13156,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "從婺劇成長背景、代表作品、樂器改良和教學制度四條線，理解趙松庭的藝術與教育貢獻。"
+        "沿著婺劇的成長背景、代表作品、樂器改良與教學制度四條線索，看趙松庭的藝術與教育貢獻。"
       ],
       "filter_type": "article",
       "id": "biography-zhao-songting",
@@ -13186,7 +13186,7 @@
       "aliases": [],
       "authors": [],
       "claim_text": [
-        "把曲名背後的早期文獻、陸春齡改編、趙松庭版本和演奏分析分開，避免混淆兩條傳承。"
+        "曲名背後的早期文獻、陸春齡的改編、趙松庭的版本、演奏的分析，逐項分開，免得兩條傳承混作一條。"
       ],
       "filter_type": "article",
       "id": "work-zhegu-fei",
